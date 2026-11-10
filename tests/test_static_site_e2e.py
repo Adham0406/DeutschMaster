@@ -55,8 +55,12 @@ def page(browser, site):
     pg = ctx.new_page()
     pg.on("pageerror", lambda e: errors.append(str(e)))
     # the API probe 404 is expected on GitHub Pages; anything else is a real error
-    pg.on("console", lambda m: errors.append(m.text) if m.type == "error"
-          and "404" not in m.text and "fonts.g" not in m.text and "ERR_FAILED" not in m.text else None)
+    def on_console(m):
+        url = str((m.location or {}).get("url") or "")
+        external_font = "fonts.googleapis" in url or "fonts.gstatic" in url  # optional, may fail offline
+        if m.type == "error" and not external_font and "404" not in m.text and "ERR_FAILED" not in m.text:
+            errors.append(f"{m.text} @ {url}")
+    pg.on("console", on_console)
     pg.errors = errors
     pg.goto(site)
     pg.wait_for_selector("html[data-ready=true]", timeout=15000)

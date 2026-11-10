@@ -39,6 +39,8 @@ let modePromise = null;
 let dataset = null; // { levels, topics, words }
 
 async function detectMode() {
+  // GitHub Pages never has a backend; skip the probe (and its 404 in the console).
+  if (location.hostname.endsWith(".github.io")) return "static";
   try {
     const health = await fetchJson("api/health", {}, 4000);
     if (health.status === "healthy") return "server";

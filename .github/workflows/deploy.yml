@@ -22,9 +22,17 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
+      # GitHub Pages cannot run the Flask backend, so the site is the frontend plus
+      # the vocabulary file; the app detects the missing API and runs in static mode.
+      - name: Build static site
+        run: |
+          mkdir -p _site/data
+          cp -r frontend/. _site/
+          cp data/words.json _site/data/words.json
+          touch _site/.nojekyll
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:
-          path: frontend
+          path: _site
       - id: deployment
         uses: actions/deploy-pages@v4

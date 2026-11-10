@@ -283,18 +283,25 @@ def test_spaced_repetition_algorithm(page):
 # ---------------------------------------------------------------- dictionary + translate
 def test_dictionary_search_and_translate(page):
     page.go("dictionary")
-    assert page.p.locator(".dict-row").count() == len(WORDS)
+    # paged: 100 rows at a time, count shows the full total
+    assert page.p.locator(".dict-row").count() == 100
+    assert page.p.locator("#dc-count").inner_text() == f"{len(WORDS)} ta so‘z"
+    page.p.click("[data-more]")
+    assert page.p.locator(".dict-row").count() == 200
     page.p.fill("#dc-q", "ona")
     page.p.wait_for_function("() => document.querySelector('#dc-count').textContent.includes('ona')")
-    assert page.p.locator(".dict-row", has_text="Mutter").count() == 1
+    # exact match ranks first; "Muttersprache" (ona tili) etc. follow
+    assert page.p.locator(".dict-row .de").first.inner_text() == "die Mutter"
     page.p.fill("#dc-q", "")
     page.p.select_option("#dc-level", "C2")
-    page.p.wait_for_function("() => document.querySelectorAll('.dict-row').length < 30")
-    assert page.p.locator(".dict-row").count() == sum(1 for w in WORDS if w["level"] == "C2")
+    c2 = sum(1 for w in WORDS if w["level"] == "C2")
+    page.p.wait_for_function(f"() => document.querySelector('#dc-count').textContent === '{c2} ta so‘z'")
+    assert page.p.locator(".dict-row .badge.lvl-C2").count() == min(100, c2)
     page.p.select_option("#dc-level", "")
-    page.p.select_option("#dc-topic", "Familie")
-    page.p.wait_for_timeout(200)
-    assert page.p.locator(".dict-row").count() == sum(1 for w in WORDS if w["topic"] == "Familie")
+    page.p.select_option("#dc-topic", "Trinken")
+    trinken = sum(1 for w in WORDS if w["topic"] == "Trinken")
+    page.p.wait_for_function(f"() => document.querySelector('#dc-count').textContent === '{trinken} ta so‘z'")
+    assert page.p.locator(".dict-row").count() == min(100, trinken)
     row = page.p.locator(".dict-row").first
     row.locator(".dict-summary").click()
     assert "open" in row.get_attribute("class")
@@ -316,7 +323,7 @@ def test_dictionary_offline_fallback(page):
     page.p.route("**/api/search**", lambda route: route.abort())
     page.p.fill("#dc-q", "kitob")
     page.p.wait_for_selector("#dc-offline:not([hidden])")
-    assert page.p.locator(".dict-row", has_text="Buch").count() == 1
+    assert page.p.locator(".dict-row .de").first.inner_text() == "das Buch"
     # the aborted request itself is logged by the browser; that one is expected here
     page.errors[:] = [e for e in page.errors if "net::ERR_FAILED" not in e]
 

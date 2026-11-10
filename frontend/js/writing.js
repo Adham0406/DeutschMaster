@@ -4,6 +4,10 @@ import { bindPracticeFilters, emptyState, esc, exampleHtml, germanHtml, getPool,
 import { finishSession, recordAnswer, XP } from "./gamification.js";
 
 const ARTICLES = ["der", "die", "das"];
+const POS_HINTS = {
+  Verb: "Fe’l — infinitiv shaklida", Adjektiv: "Sifat", Adverb: "Ravish", Präposition: "Predlog",
+  Konjunktion: "Bog‘lovchi", Pronomen: "Olmosh", Ausdruck: "Ibora",
+};
 
 /** Typing helpers: ae/oe/ue/ss are accepted as ä/ö/ü/ß (keyboards without umlauts). */
 export function normalizeAnswer(text) {
@@ -78,7 +82,7 @@ export default {
       view.innerHTML = head() + `<div class="card pad-lg quiz-card">
         <div class="row between"><span class="badge blue">${index + 1} / ${items.length}</span><div class="row">${levelBadge(w.level)}<span class="badge">${esc(w.part_of_speech)}</span></div></div>
         <div class="question">${esc(w.uzbek)}</div>
-        <p class="center small muted">${w.article ? "Ot — artikl bilan yozsangiz ham bo‘ladi" : w.part_of_speech === "Verb" ? "Fe’l — infinitiv shaklida" : "Sifat"}</p>
+        <p class="center small muted">${w.article ? "Ot — artikl bilan yozsangiz ham bo‘ladi" : (POS_HINTS[w.part_of_speech] || w.part_of_speech)}</p>
         <form id="wr-form" class="mt stack" autocomplete="off">
           <input class="input input-lg ${result ? (result.ok ? "ok" : "bad") : ""}" id="wr-input" placeholder="Nemischa so‘zni yozing…" aria-label="Javob" value="${esc(value)}" ${result ? "readonly" : ""} spellcheck="false" autocapitalize="off">
           <div class="row between"><div class="umlauts">${["ä", "ö", "ü", "ß", "Ä", "Ö", "Ü"].map((c) => `<button type="button" data-ch="${c}" ${result ? "disabled" : ""}>${c}</button>`).join("")}</div>

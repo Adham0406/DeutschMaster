@@ -1,0 +1,108 @@
+# A1 — Schule, Arbeit, Reisen, Zahlen, Alltag
+Lehrerin|die|N|ˈleːʁəʁɪn|o‘qituvchi ayol|Die Lehrerin ist sehr nett.|O‘qituvchi ayol juda mehribon.|Schule
+Schüler|der|N|ˈʃyːlɐ|o‘quvchi|Der Schüler macht seine Hausaufgaben.|O‘quvchi uy vazifasini bajaryapti.|Schule
+Student|der|N|ʃtuˈdɛnt|talaba|Er ist Student in Berlin.|U Berlinda talaba.|Universität
+Klasse|die|N|ˈklasə|sinf|Unsere Klasse hat zwanzig Schüler.|Sinfimizda yigirmata o‘quvchi bor.|Schule
+Hausaufgabe|die|N|ˈhaʊ̯sˌʔaʊ̯fɡaːbə|uy vazifasi|Die Hausaufgabe ist schwer.|Uy vazifasi qiyin.|Schule
+Heft|das|N|hɛft|daftar|Schreib das Wort in dein Heft!|So‘zni daftaringga yoz!|Schule
+Kuli|der|N|ˈkuːli|ruchka|Hast du einen Kuli für mich?|Menga ruchka berib turasanmi?|Schule
+Bleistift|der|N|ˈblaɪ̯ˌʃtɪft|qalam|Der Bleistift ist kaputt.|Qalam sinib qoldi.|Schule
+Papier|das|N|paˈpiːɐ̯|qog‘oz|Ich brauche ein Blatt Papier.|Menga bir varaq qog‘oz kerak.|Schule
+Tafel|die|N|ˈtaːfl̩|doska|Der Lehrer schreibt an die Tafel.|O‘qituvchi doskaga yozyapti.|Schule
+Frage|die|N|ˈfʁaːɡə|savol|Ich habe eine Frage.|Mening bitta savolim bor.|Schule
+Antwort|die|N|ˈantvɔʁt|javob|Die Antwort ist richtig.|Javob to‘g‘ri.|Schule
+Wort|das|N|vɔʁt|so‘z|Was bedeutet dieses Wort?|Bu so‘z nimani anglatadi?|Schule
+Satz|der|N|zats|gap|Lies bitte den Satz vor!|Iltimos, gapni ovoz chiqarib o‘qi!|Schule
+Sprache|die|N|ˈʃpʁaːxə|til|Deutsch ist eine schöne Sprache.|Nemis tili chiroyli til.|Schule
+Kurs|der|N|kʊʁs|kurs|Der Deutschkurs beginnt im Mai.|Nemis tili kursi mayda boshlanadi.|Schule
+Pause|die|N|ˈpaʊ̯zə|tanaffus|Wir machen eine kurze Pause.|Qisqa tanaffus qilamiz.|Schule
+Beruf|der|N|bəˈʁuːf|kasb|Was sind Sie von Beruf?|Kasbingiz nima?|Arbeit
+Büro|das|N|byˈʁoː|ofis|Ich arbeite in einem Büro.|Men ofisda ishlayman.|Arbeit
+Firma|die|N|ˈfɪʁma|firma; kompaniya|Die Firma hat hundert Mitarbeiter.|Kompaniyada yuzta xodim bor.|Arbeit
+Chef|der|N|ʃɛf|boshliq|Mein Chef ist heute nicht da.|Boshlig‘im bugun yo‘q.|Arbeit
+Kellner|der|N|ˈkɛlnɐ|ofitsiant|Der Kellner bringt die Speisekarte.|Ofitsiant menyuni olib kelyapti.|Arbeit
+Verkäufer|der|N|fɛɐ̯ˈkɔɪ̯fɐ|sotuvchi|Der Verkäufer hilft mir.|Sotuvchi menga yordam beryapti.|Arbeit
+Polizei|die|N|poliˈtsaɪ̯|politsiya|Ruf die Polizei!|Politsiyani chaqir!|Alltag
+Krankenhaus|das|N|ˈkʁaŋkn̩ˌhaʊ̯s|kasalxona|Das Krankenhaus ist in der Nähe.|Kasalxona yaqin joyda.|Gesundheit
+Apotheke|die|N|apoˈteːkə|dorixona|Die Apotheke ist bis acht Uhr offen.|Dorixona soat sakkizgacha ochiq.|Gesundheit
+Medikament|das|N|medikaˈmɛnt|dori|Nimm das Medikament nach dem Essen.|Dorini ovqatdan keyin ich.|Gesundheit
+Auto|das|N|ˈaʊ̯to|mashina; avtomobil|Das Auto steht vor dem Haus.|Mashina uy oldida turibdi.|Reisen
+Bus|der|N|bʊs|avtobus|Der Bus kommt gleich.|Avtobus hozir keladi.|Reisen
+Fahrrad|das|N|ˈfaːɐ̯ˌʁaːt|velosiped|Ich fahre mit dem Fahrrad zur Arbeit.|Ishga velosipedda boraman.|Reisen
+Flugzeug|das|N|ˈfluːkˌtsɔɪ̯k|samolyot|Das Flugzeug landet um zehn.|Samolyot soat o‘nda qo‘nadi.|Reisen
+Flughafen|der|N|ˈfluːkˌhaːfn̩|aeroport|Der Flughafen ist weit weg.|Aeroport ancha uzoqda.|Reisen
+Hotel|das|N|hoˈtɛl|mehmonxona|Das Hotel ist im Zentrum.|Mehmonxona markazda joylashgan.|Reisen
+Koffer|der|N|ˈkɔfɐ|chamadon|Mein Koffer ist zu schwer.|Chamadonim juda og‘ir.|Reisen
+Pass|der|N|pas|pasport|Vergiss deinen Pass nicht!|Pasportingni unutma!|Reisen
+Ticket|das|N|ˈtɪkət|chipta|Ich kaufe das Ticket online.|Chiptani internetda sotib olaman.|Reisen
+Weg|der|N|veːk|yo‘l|Ist das der richtige Weg?|Bu to‘g‘ri yo‘lmi?|Reisen
+Land|das|N|lant|mamlakat; qishloq joy|Deutschland ist ein schönes Land.|Germaniya chiroyli mamlakat.|Reisen
+Zentrum|das|N|ˈtsɛntʁʊm|markaz|Wir wohnen im Zentrum.|Biz markazda yashaymiz.|Reisen
+Haltestelle|die|N|ˈhaltəˌʃtɛlə|bekat|Die Haltestelle ist hier vorne.|Bekat mana shu oldinda.|Reisen
+Karte|die|N|ˈkaʁtə|xarita; karta|Hast du eine Karte von Berlin?|Sendagi Berlin xaritasi bormi?|Reisen
+Uhrzeit|die|N|ˈuːɐ̯ˌtsaɪ̯t|soat vaqti|Welche Uhrzeit passt dir?|Senga qaysi vaqt qulay?|Alltag
+Minute|die|N|miˈnuːtə|daqiqa|Ich komme in fünf Minuten.|Besh daqiqada kelaman.|Alltag
+Stunde|die|N|ˈʃtʊndə|soat (davomiylik)|Der Film dauert zwei Stunden.|Film ikki soat davom etadi.|Alltag
+Wochenende|das|N|ˈvɔxn̩ˌʔɛndə|dam olish kunlari|Am Wochenende schlafe ich lange.|Dam olish kunlari uzoq uxlayman.|Alltag
+Montag|der|N|ˈmoːntaːk|dushanba|Am Montag beginnt die Arbeit.|Ish dushanba kuni boshlanadi.|Alltag
+Dienstag|der|N|ˈdiːnstaːk|seshanba|Am Dienstag habe ich Sport.|Seshanba kuni sport mashg‘ulotim bor.|Alltag
+Mittwoch|der|N|ˈmɪtvɔx|chorshanba|Am Mittwoch kommt meine Mutter.|Chorshanba kuni onam keladi.|Alltag
+Donnerstag|der|N|ˈdɔnɐstaːk|payshanba|Der Kurs ist am Donnerstag.|Kurs payshanba kuni.|Alltag
+Freitag|der|N|ˈfʁaɪ̯taːk|juma|Am Freitag gehen wir aus.|Juma kuni dam olgani chiqamiz.|Alltag
+Samstag|der|N|ˈzamstaːk|shanba|Am Samstag gehe ich auf den Markt.|Shanba kuni bozorga boraman.|Alltag
+Sonntag|der|N|ˈzɔntaːk|yakshanba|Am Sonntag schlafen alle lange.|Yakshanba kuni hamma uzoq uxlaydi.|Alltag
+Geburtstag|der|N|ɡəˈbuːɐ̯tsˌtaːk|tug‘ilgan kun|Herzlichen Glückwunsch zum Geburtstag!|Tug‘ilgan kuning bilan tabriklayman!|Familie
+Geschenk|das|N|ɡəˈʃɛŋk|sovg‘a|Das Geschenk ist für meine Mutter.|Sovg‘a onam uchun.|Familie
+Party|die|N|ˈpaːɐ̯ti|ziyofat; bazm|Am Samstag machen wir eine Party.|Shanba kuni bazm qilamiz.|Alltag
+Musik|die|N|muˈziːk|musiqa|Ich höre gern Musik.|Men musiqa tinglashni yaxshi ko‘raman.|Alltag
+Film|der|N|fɪlm|film|Der Film ist sehr spannend.|Film juda qiziqarli.|Alltag
+Kino|das|N|ˈkiːno|kinoteatr|Gehen wir heute ins Kino?|Bugun kinoga boramizmi?|Alltag
+Sport|der|N|ʃpɔʁt|sport|Ich mache jeden Tag Sport.|Har kuni sport bilan shug‘ullanaman.|Gesundheit
+Fußball|der|N|ˈfuːsˌbal|futbol|Wir spielen am Abend Fußball.|Kechqurun futbol o‘ynaymiz.|Alltag
+Hobby|das|N|ˈhɔbi|sevimli mashg‘ulot|Mein Hobby ist Lesen.|Mening sevimli mashg‘ulotim kitob o‘qish.|Alltag
+Zeitung|die|N|ˈtsaɪ̯tʊŋ|gazeta|Mein Vater liest die Zeitung.|Otam gazeta o‘qiyapti.|Alltag
+Brief|der|N|bʁiːf|xat|Ich schreibe einen Brief an meine Oma.|Men buvimga xat yozyapman.|Alltag
+Post|die|N|pɔst|pochta|Die Post ist neben der Bank.|Pochta bankning yonida.|Alltag
+Bank|die|N|baŋk|bank|Die Bank ist heute geschlossen.|Bank bugun yopiq.|Alltag
+Preis|der|N|pʁaɪ̯s|narx|Der Preis ist zu hoch.|Narx juda baland.|Alltag
+Euro|der|N|ˈɔɪ̯ʁo|yevro|Das kostet zehn Euro.|Bu o‘n yevro turadi.|Alltag
+Kühlschrank|der|N|ˈkyːlˌʃʁaŋk|muzlatkich|Die Milch ist im Kühlschrank.|Sut muzlatkichda.|Alltag
+Sofa|das|N|ˈzoːfa|divan|Die Katze schläft auf dem Sofa.|Mushuk divanda uxlab yotibdi.|Alltag
+Toilette|die|N|toaˈlɛtə|hojatxona|Wo ist die Toilette?|Hojatxona qayerda?|Alltag
+Dusche|die|N|ˈduːʃə|dush|Die Dusche ist kaputt.|Dush buzilgan.|Alltag
+Handtuch|das|N|ˈhantˌtuːx|sochiq|Das Handtuch ist nass.|Sochiq ho‘l.|Alltag
+eins||X|aɪ̯ns|bir|Eins plus eins ist zwei.|Bir qo‘shuv bir ikki bo‘ladi.|Alltag
+zwei||X|tsvaɪ̯|ikki|Ich habe zwei Kinder.|Ikkita farzandim bor.|Alltag
+drei||X|dʁaɪ̯|uch|Wir bleiben drei Tage.|Biz uch kun qolamiz.|Alltag
+zehn||X|tseːn|o‘n|Der Kurs hat zehn Teilnehmer.|Kursda o‘nta qatnashchi bor.|Alltag
+hundert||X|ˈhʊndɐt|yuz (son)|Das kostet hundert Euro.|Bu yuz yevro turadi.|Alltag
+# weitere Verben und Adjektive
+kosten||V|ˈkɔstn̩|turmoq (narx)|Was kostet das Brot?|Non qancha turadi?|Verben
+bestellen||V|bəˈʃtɛlən|buyurtma bermoq|Ich bestelle eine Pizza.|Men pitsa buyurtma qilaman.|Essen
+schmecken||V|ˈʃmɛkn̩|ta’mi … bo‘lmoq; yoqmoq|Die Suppe schmeckt gut.|Sho‘rvaning ta’mi yaxshi.|Essen
+waschen||V|ˈvaʃn̩|yuvmoq|Ich wasche meine Hände.|Men qo‘llarimni yuvyapman.|Verben
+putzen||V|ˈpʊtsn̩|tozalamoq|Am Samstag putzen wir die Wohnung.|Shanba kuni kvartirani tozalaymiz.|Verben
+rauchen||V|ˈʁaʊ̯xn̩|chekmoq|Hier darf man nicht rauchen.|Bu yerda chekish mumkin emas.|Verben
+fliegen||V|ˈfliːɡn̩|uchmoq|Wir fliegen nach Berlin.|Biz Berlinga uchamiz.|Reisen
+ankommen||V|ˈanˌkɔmən|yetib kelmoq|Der Zug kommt um acht an.|Poyezd soat sakkizda yetib keladi.|Reisen
+abfahren||V|ˈapˌfaːʁən|jo‘nab ketmoq|Der Bus fährt in zehn Minuten ab.|Avtobus o‘n daqiqadan keyin jo‘naydi.|Reisen
+mieten||V|ˈmiːtn̩|ijaraga olmoq|Wir mieten eine Wohnung.|Biz kvartira ijaraga olyapmiz.|Alltag
+studieren||V|ʃtuˈdiːʁən|oliygohda o‘qimoq|Sie studiert Medizin.|U tibbiyot bo‘yicha o‘qiydi.|Universität
+üben||V|ˈyːbn̩|mashq qilmoq|Wir üben die neuen Wörter.|Biz yangi so‘zlarni mashq qilyapmiz.|Schule
+buchstabieren||V|buːxʃtaˈbiːʁən|harflab aytmoq|Können Sie das bitte buchstabieren?|Iltimos, buni harflab ayta olasizmi?|Schule
+zahlen||V|ˈtsaːlən|pul to‘lamoq|Wir möchten zahlen, bitte.|Hisobni to‘lamoqchimiz, iltimos.|Alltag
+treffen||V|ˈtʁɛfn̩|uchrashmoq|Ich treffe meine Freunde im Café.|Do‘stlarim bilan kafeda uchrashaman.|Verben
+fertig||A|ˈfɛʁtɪç|tayyor; tugagan|Das Essen ist fertig.|Ovqat tayyor.|Adjektive
+frei||A|fʁaɪ̯|bo‘sh; ozod|Ist der Platz noch frei?|Bu joy hali bo‘shmi?|Adjektive
+kaputt||A|kaˈpʊt|buzilgan|Mein Fahrrad ist kaputt.|Velosipedim buzilgan.|Adjektive
+hell||A|hɛl|yorug‘|Das Zimmer ist hell.|Xona yorug‘.|Adjektive
+dunkel||A|ˈdʊŋkl̩|qorong‘i|Im Winter ist es früh dunkel.|Qishda erta qorong‘i tushadi.|Adjektive
+sauber||A|ˈzaʊ̯bɐ|toza|Die Küche ist sauber.|Oshxona toza.|Adjektive
+schmutzig||A|ˈʃmʊtsɪç|iflos|Die Schuhe sind schmutzig.|Tuflilar iflos.|Adjektive
+nah||A|naː|yaqin|Der Park ist ganz nah.|Bog‘ juda yaqin.|Adjektive
+weit||A|vaɪ̯t|uzoq|Ist es weit bis zum Bahnhof?|Vokzalgacha uzoqmi?|Adjektive
+wichtig||A|ˈvɪçtɪç|muhim|Das ist sehr wichtig.|Bu juda muhim.|Adjektive
+interessant||A|ɪntəʁɛˈsant|qiziq|Das Buch ist interessant.|Kitob qiziq.|Adjektive
+toll||A|tɔl|ajoyib|Das ist eine tolle Idee!|Bu ajoyib g‘oya!|Adjektive
+ledig||A|ˈleːdɪç|bo‘ydoq; turmush qurmagan|Mein Bruder ist noch ledig.|Akam hali uylanmagan.|Familie
+verheiratet||A|fɛɐ̯ˈhaɪ̯ʁaːtət|uylangan; turmush qurgan|Meine Schwester ist verheiratet.|Opam turmushga chiqqan.|Familie

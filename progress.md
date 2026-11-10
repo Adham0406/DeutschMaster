@@ -9,12 +9,21 @@ Hozirgi bosqich: **barcha 8 bosqich yakunlandi.**
 |---|---|
 | 1. Arxitektura | ✅ Bajarildi |
 | 2. UI/UX dizayn | ✅ Bajarildi (12 sahifa, dark/light, responsive) |
-| 3. So‘zlar bazasi | ✅ 129 so‘z (A1 22, A2 21, B1 22, B2 22, C1 21, C2 21), 14 mavzu |
+| 3. So‘zlar bazasi | ✅ 2013 so‘z (A1 374, A2 358, B1 390, B2 326, C1 280, C2 285), 14 mavzu |
 | 4. Flask backend | ✅ 8 endpoint, validatsiya, xatolar JSON, CSP, rate limit |
 | 5. Frontend funksiyalar | ✅ Barcha sahifalar ishlaydi |
 | 6. Gamification + storage | ✅ XP, level, 7 yutuq, streak, localStorage, eksport/import |
 | 7. QA | ✅ Avtomatik testlar (natijalar pastda) |
 | 8. Finalization | ✅ README, .env.example, .gitignore, ZIP |
+
+## 2026-11-10 — Lug‘at 2000+ so‘zga kengaytirildi
+- 129 → 2013 so‘z. Manba: `tools/words/*.txt` (qo‘lda yozilgan partiyalar), yig‘uvchi: `tools/build_words.py`.
+- IPA qo‘lda yozildi: `gruut` sinab ko‘rildi, lekin lug‘atda yo‘q so‘zlarda noto‘g‘ri IPA berdi (masalan “erinnern”), shuning uchun ishlatilmadi.
+- Tekshiruv vaqtida topilgan va tuzatilgan xatolar: soft-hyphen belgisi (“Umwelt­schutz”), o‘zbekcha matnga aralashgan kirill harflari (2 ta), mavjud so‘zlar bilan takrorlar (pünktlich, Entschuldigung), noto‘g‘ri misol formati (hinweisen), ma’nosiz sun’iy iboralar olib tashlandi.
+- Takror tekshiruvi katta-kichik harfga sezgir qilindi (Morgen “tong” / morgen “ertaga”).
+- Lug‘at sahifasi 100 tadan ko‘rsatadi (“Yana ko‘rsatish”), 2000 qator birdaniga chizilmaydi.
+- Testlar: ≥2000 so‘z, har darajada ≥200, kirill/ko‘rinmas belgi yo‘q, o‘zbekcha tarjimalar takrorlanmaydi. Jami **78 passed, 0 failed**.
+- Cheklov: tarjima va misollarni ona tili sohibi ko‘rib chiqishi tavsiya etiladi; IPA qo‘lda yozilgan, lug‘atlardagi rasmiy transkripsiya bilan avtomatik solishtirilmagan.
 
 ## 2026-11-10 — GitHub Pages rejimi
 - Muammo: GitHub Pages'da “Server xatosi (404)” — Pages Flask'ni ishga tushira olmaydi, `/api` yo‘q, workflow esa faqat `frontend/` ni joylardi (`data/words.json` saytga tushmasdi).

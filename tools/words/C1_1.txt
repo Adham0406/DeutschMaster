@@ -1,0 +1,110 @@
+# C1 — Nomen
+Abwägung|die|N|ˈapˌvɛːɡʊŋ|chamalab ko‘rish|Nach sorgfältiger Abwägung haben wir uns entschieden.|Puxta chamalab ko‘rgach, qaror qildik.|Nomen
+Akteur|der|N|akˈtøːɐ̯|ishtirokchi (jarayonda)|Viele Akteure sind an dem Projekt beteiligt.|Loyihada ko‘plab tomonlar ishtirok etmoqda.|Nomen
+Anliegen|das|N|ˈanˌliːɡn̩|iltimos; muhim masala|Was ist Ihr Anliegen?|Qanday masala bo‘yicha keldingiz?|Nomen
+Annahme|die|N|ˈanˌnaːmə|taxmin; qabul qilish|Diese Annahme ist falsch.|Bu taxmin noto‘g‘ri.|Nomen
+Ansatz|der|N|ˈanˌzats|yondashuv|Das ist ein interessanter Ansatz.|Bu qiziqarli yondashuv.|Universität
+Aufschwung|der|N|ˈaʊ̯fˌʃvʊŋ|yuksalish|Die Wirtschaft erlebt einen Aufschwung.|Iqtisodiyot yuksalishni boshdan kechirmoqda.|Arbeit
+Ausmaß|das|N|ˈaʊ̯sˌmaːs|ko‘lam|Das Ausmaß der Katastrophe ist enorm.|Falokat ko‘lami ulkan.|Nomen
+Ausprägung|die|N|ˈaʊ̯sˌpʁɛːɡʊŋ|namoyon bo‘lish darajasi|Die Krankheit hat verschiedene Ausprägungen.|Kasallik turli shakllarda namoyon bo‘ladi.|Nomen
+Auswertung|die|N|ˈaʊ̯sˌveːɐ̯tʊŋ|tahlil (natijalar)|Die Auswertung der Daten dauert eine Woche.|Ma’lumotlarni tahlil qilish bir hafta davom etadi.|Universität
+Befragung|die|N|bəˈfʁaːɡʊŋ|so‘roq; intervyu|Die Befragung ergab interessante Ergebnisse.|So‘rov qiziqarli natijalar berdi.|Universität
+Begebenheit|die|N|bəˈɡeːbn̩haɪ̯t|hodisa (voqea)|Der Film beruht auf einer wahren Begebenheit.|Film haqiqiy voqea asosida yaratilgan.|Nomen
+Beharrlichkeit|die|N|bəˈhaʁlɪçkaɪ̯t|qat’iyat|Mit Beharrlichkeit erreicht man viel.|Qat’iyat bilan ko‘p narsaga erishish mumkin.|Nomen
+Beitragssatz|der|N|ˈbaɪ̯tʁaːksˌzats|badal stavkasi|Der Beitragssatz zur Krankenkasse steigt.|Tibbiy sug‘urta badali stavkasi oshmoqda.|Arbeit
+Bestandteil|der|N|bəˈʃtantˌtaɪ̯l|tarkibiy qism|Sport ist ein fester Bestandteil meines Lebens.|Sport hayotimning ajralmas qismi.|Nomen
+Betrachtungsweise|die|N|bəˈtʁaxtʊŋsˌvaɪ̯zə|qarash usuli|Das ist eine einseitige Betrachtungsweise.|Bu bir tomonlama qarash.|Nomen
+Bilanz|die|N|biˈlants|balans; yakun|Die Bilanz des Jahres ist positiv.|Yil yakuni ijobiy.|Arbeit
+Diskrepanz|die|N|dɪskʁeˈpants|nomuvofiqlik|Es gibt eine Diskrepanz zwischen Theorie und Praxis.|Nazariya va amaliyot o‘rtasida nomuvofiqlik bor.|Universität
+Dynamik|die|N|dyˈnaːmɪk|dinamika|Die Dynamik des Marktes ist schwer vorherzusagen.|Bozor dinamikasini oldindan aytish qiyin.|Nomen
+Eigenschaft|die|N|ˈaɪ̯ɡn̩ʃaft|xususiyat|Geduld ist eine wichtige Eigenschaft.|Sabr — muhim fazilat.|Nomen
+Einbußen|die|N|ˈaɪ̯nˌbuːsn̩|yo‘qotishlar (daromad)|Die Händler haben große Einbußen erlitten.|Savdogarlar katta zarar ko‘rdi.|Arbeit
+Einschätzung|die|N|ˈaɪ̯nˌʃɛtsʊŋ|baho (fikr)|Nach meiner Einschätzung dauert das noch lange.|Mening fikrimcha, bu hali uzoq davom etadi.|Nomen
+Einwand|der|N|ˈaɪ̯nˌvant|e’tiroz|Haben Sie Einwände?|E’tirozingiz bormi?|Nomen
+Entwurf|der|N|ɛntˈvʊʁf|loyiha (qoralama)|Der erste Entwurf ist fertig.|Birinchi qoralama tayyor.|Arbeit
+Erhebung|die|N|ɛɐ̯ˈheːbʊŋ|tadqiqot so‘rovi; qo‘zg‘olon|Laut einer Erhebung lesen junge Leute weniger.|Tadqiqotga ko‘ra, yoshlar kamroq kitob o‘qiydi.|Universität
+Errungenschaft|die|N|ɛɐ̯ˈʁʊŋənʃaft|yutuq (erishilgan)|Das Internet ist eine große Errungenschaft.|Internet — ulkan yutuq.|Technologie
+Fachgebiet|das|N|ˈfaxɡəˌbiːt|mutaxassislik sohasi|Ihr Fachgebiet ist die Genetik.|Uning mutaxassisligi — genetika.|Universität
+Fazit|das|N|ˈfaːtsɪt|xulosa (yakuniy)|Mein Fazit: Die Reise hat sich gelohnt.|Xulosam: sayohat o‘ziga arzidi.|Nomen
+Fehlentwicklung|die|N|ˈfeːlʔɛntˌvɪklʊŋ|noto‘g‘ri rivojlanish|Diese Fehlentwicklung muss gestoppt werden.|Bu noto‘g‘ri tendensiyani to‘xtatish kerak.|Nomen
+Fortbildung|die|N|ˈfɔʁtˌbɪldʊŋ|malaka oshirish|Die Firma bezahlt die Fortbildung.|Malaka oshirish kursini kompaniya to‘laydi.|Arbeit
+Gegebenheit|die|N|ɡəˈɡeːbn̩haɪ̯t|mavjud sharoit|Wir müssen uns an die Gegebenheiten anpassen.|Mavjud sharoitga moslashishimiz kerak.|Nomen
+Gegenmaßnahme|die|N|ˈɡeːɡn̩ˌmaːsnaːmə|qarshi chora|Die Regierung plant Gegenmaßnahmen.|Hukumat qarshi choralar rejalashtiryapti.|Nomen
+Gesichtspunkt|der|N|ɡəˈzɪçtsˌpʊŋkt|nuqtai nazar (jihat)|Unter diesem Gesichtspunkt hast du recht.|Bu jihatdan sen haqsan.|Nomen
+Gewissen|das|N|ɡəˈvɪsn̩|vijdon|Ich habe ein schlechtes Gewissen.|Vijdonim qiynayapti.|Nomen
+Glaubwürdigkeit|die|N|ˈɡlaʊ̯pˌvʏʁdɪçkaɪ̯t|ishonchlilik (obro‘)|Der Politiker hat seine Glaubwürdigkeit verloren.|Siyosatchi o‘z ishonchini yo‘qotdi.|Nomen
+Grundsatz|der|N|ˈɡʁʊntˌzats|asosiy tamoyil|Das widerspricht meinen Grundsätzen.|Bu mening tamoyillarimga zid.|Nomen
+Handlungsbedarf|der|N|ˈhandlʊŋsbəˌdaʁf|chora ko‘rish zarurati|Es besteht dringender Handlungsbedarf.|Shoshilinch chora ko‘rish zarur.|Nomen
+Hintergrund|der|N|ˈhɪntɐˌɡʁʊnt|fon; sabab (orqa fon)|Welcher Hintergrund steckt dahinter?|Buning ortida nima bor?|Nomen
+Konsens|der|N|kɔnˈzɛns|kelishuv (umumiy fikr)|Wir haben einen Konsens erzielt.|Biz umumiy kelishuvga erishdik.|Nomen
+Kriterium|das|N|kʁiˈteːʁi̯ʊm|mezon|Der Preis ist ein wichtiges Kriterium.|Narx muhim mezon.|Nomen
+Lebensunterhalt|der|N|ˈleːbn̩sˌʔʊntɐhalt|tirikchilik|Er verdient seinen Lebensunterhalt als Taxifahrer.|U taksi haydab tirikchilik qiladi.|Arbeit
+Leitfaden|der|N|ˈlaɪ̯tˌfaːdn̩|qo‘llanma|Der Leitfaden erklärt alle Schritte.|Qo‘llanma barcha bosqichlarni tushuntiradi.|Arbeit
+Mangel|der|N|ˈmaŋl̩|tanqislik|Es herrscht ein Mangel an Fachkräften.|Malakali kadrlar tanqis.|Nomen
+Maßstab|der|N|ˈmaːsˌʃtaːp|o‘lchov; mezon (andoza)|Das setzt neue Maßstäbe.|Bu yangi andozalarni belgilaydi.|Nomen
+Missbrauch|der|N|ˈmɪsˌbʁaʊ̯x|suiiste’mol|Der Missbrauch von Daten ist strafbar.|Ma’lumotlarni suiiste’mol qilish jinoyat hisoblanadi.|Technologie
+Nachfolger|der|N|ˈnaːxˌfɔlɡɐ|vorisi; o‘rinbosar|Wer wird sein Nachfolger?|Uning vorisi kim bo‘ladi?|Arbeit
+Notwendigkeit|die|N|ˈnoːtvɛndɪçkaɪ̯t|zarurat|Ich sehe keine Notwendigkeit dafür.|Bunga hech qanday zarurat ko‘rmayapman.|Nomen
+Perspektive|die|N|pɛʁspɛkˈtiːvə|istiqbol; nuqtai nazar|Junge Leute brauchen eine Perspektive.|Yoshlarga istiqbol kerak.|Nomen
+Phänomen|das|N|fɛnoˈmeːn|hodisa (fenomen)|Das ist ein weltweites Phänomen.|Bu butun dunyoga xos hodisa.|Universität
+Rückgang|der|N|ˈʁʏkˌɡaŋ|pasayish|Es gibt einen Rückgang der Geburten.|Tug‘ilish soni kamaymoqda.|Nomen
+Sachkenntnis|die|N|ˈzaxˌkɛntnɪs|ishni bilish (bilimdonlik)|Er spricht mit großer Sachkenntnis.|U masalani yaxshi bilgan holda gapiradi.|Nomen
+Schlussfolgerung|die|N|ˈʃlʊsˌfɔlɡəʁʊŋ|mantiqiy xulosa|Welche Schlussfolgerung ziehst du daraus?|Bundan qanday xulosa chiqarasan?|Universität
+Spannungsfeld|das|N|ˈʃpanʊŋsˌfɛlt|ziddiyatli maydon|Die Firma bewegt sich im Spannungsfeld zwischen Profit und Ethik.|Kompaniya foyda va axloq o‘rtasidagi ziddiyatda faoliyat yuritadi.|Nomen
+Stellenwert|der|N|ˈʃtɛlənˌveːɐ̯t|o‘rin (ahamiyat darajasi)|Bildung hat einen hohen Stellenwert.|Ta’lim yuqori o‘rin egallaydi.|Nomen
+Stellungnahme|die|N|ˈʃtɛlʊŋˌnaːmə|rasmiy fikr bildirish|Die Firma gab eine Stellungnahme ab.|Kompaniya rasmiy bayonot berdi.|Nomen
+Tätigkeit|die|N|ˈtɛːtɪçkaɪ̯t|faoliyat|Welche Tätigkeit üben Sie aus?|Qanday faoliyat bilan shug‘ullanasiz?|Arbeit
+Tendenz|die|N|tɛnˈdɛnts|tendensiya|Die Tendenz ist steigend.|Tendensiya o‘sish tomon.|Nomen
+Überblick|der|N|ˈyːbɐˌblɪk|umumiy tasavvur|Ich habe den Überblick verloren.|Umumiy tasavvurni yo‘qotib qo‘ydim.|Nomen
+Überzeugung|die|N|ˌyːbɐˈtsɔɪ̯ɡʊŋ|e’tiqod; ishonch (qat’iy)|Er handelt aus Überzeugung.|U e’tiqodi asosida harakat qiladi.|Nomen
+Umsatz|der|N|ˈʊmˌzats|savdo aylanmasi|Der Umsatz ist um zehn Prozent gestiegen.|Savdo aylanmasi o‘n foizga oshdi.|Arbeit
+Unternehmen|das|N|ˌʊntɐˈneːmən|korxona (kompaniya)|Das Unternehmen expandiert nach Asien.|Kompaniya Osiyoga kengaymoqda.|Arbeit
+Unterstellung|die|N|ˌʊntɐˈʃtɛlʊŋ|tuhmat (asossiz ayblov)|Das ist eine böse Unterstellung!|Bu yomon tuhmat!|Nomen
+Ursprung|der|N|ˈuːɐ̯ˌʃpʁʊŋ|kelib chiqish manbai|Der Ursprung des Wortes ist lateinisch.|So‘zning kelib chiqishi lotincha.|Nomen
+Verfahren|das|N|fɛɐ̯ˈfaːʁən|usul; jarayon (rasmiy)|Das Verfahren dauert mehrere Monate.|Jarayon bir necha oy davom etadi.|Nomen
+Verknüpfung|die|N|fɛɐ̯ˈknʏpfʊŋ|bog‘lanish|Es gibt eine enge Verknüpfung zwischen beiden Themen.|Ikki mavzu o‘rtasida chambarchas bog‘liqlik bor.|Nomen
+Vermutung|die|N|fɛɐ̯ˈmuːtʊŋ|gumon|Meine Vermutung hat sich bestätigt.|Gumonim tasdiqlandi.|Nomen
+Verpflichtung|die|N|fɛɐ̯ˈpflɪçtʊŋ|majburiyat (qabul qilingan)|Wir haben vertragliche Verpflichtungen.|Bizning shartnomaviy majburiyatlarimiz bor.|Arbeit
+Verständnis|das|N|fɛɐ̯ˈʃtɛntnɪs|tushunish (hamdardlik)|Danke für Ihr Verständnis!|Tushunganingiz uchun rahmat!|Nomen
+Vielfalt|die|N|ˈfiːlˌfalt|rang-baranglik|Die kulturelle Vielfalt ist eine Bereicherung.|Madaniy rang-baranglik — boylik.|Nomen
+Voraussicht|die|N|foˈʁaʊ̯sˌzɪçt|uzoqni ko‘ra bilish|Aller Voraussicht nach wird es regnen.|Taxminlarga ko‘ra, yomg‘ir yog‘adi.|Nomen
+Vorbehalt|der|N|ˈfoːɐ̯bəˌhalt|shubha; shart (qo‘shimcha)|Ich habe gewisse Vorbehalte.|Mening ba’zi shubhalarim bor.|Nomen
+Vorgehensweise|die|N|ˈfoːɐ̯ɡeːənsˌvaɪ̯zə|ish tutish usuli|Diese Vorgehensweise ist effizient.|Bu ish tutish usuli samarali.|Arbeit
+Wechselwirkung|die|N|ˈvɛksl̩ˌvɪʁkʊŋ|o‘zaro ta’sir|Es gibt eine Wechselwirkung zwischen den Medikamenten.|Dorilar o‘rtasida o‘zaro ta’sir bor.|Gesundheit
+Widerspruch|der|N|ˈviːdɐˌʃpʁʊx|qarama-qarshilik|Das ist ein Widerspruch in sich.|Bu o‘z-o‘ziga zid.|Nomen
+Wohlbefinden|das|N|ˈvoːlbəˌfɪndn̩|o‘zini yaxshi his qilish|Sport steigert das Wohlbefinden.|Sport kayfiyat va salomatlikni yaxshilaydi.|Gesundheit
+Zielsetzung|die|N|ˈtsiːlˌzɛtsʊŋ|maqsad qo‘yish|Eine klare Zielsetzung ist wichtig.|Aniq maqsad qo‘yish muhim.|Arbeit
+Zugang|der|N|ˈtsuːˌɡaŋ|kirish imkoni|Jeder sollte Zugang zu Bildung haben.|Har kim ta’lim olish imkoniga ega bo‘lishi kerak.|Nomen
+Zusammenhalt|der|N|tsuˈzamənˌhalt|birdamlik|Der Zusammenhalt in der Familie ist stark.|Oiladagi birdamlik kuchli.|Familie
+Zuwanderung|die|N|ˈtsuːˌvandəʁʊŋ|immigratsiya|Die Zuwanderung verändert die Gesellschaft.|Immigratsiya jamiyatni o‘zgartirmoqda.|Nomen
+Zwiespalt|der|N|ˈtsviːˌʃpalt|ikkilanish (ichki ziddiyat)|Ich bin in einem inneren Zwiespalt.|Ichki ikkilanishdaman.|Nomen
+Ernährungspyramide|die|N|ɛɐ̯ˈnɛːʁʊŋspyʁaˌmiːdə|ovqatlanish piramidasi|Die Ernährungspyramide zeigt eine gesunde Ernährung.|Ovqatlanish piramidasi sog‘lom ovqatlanishni ko‘rsatadi.|Essen
+Genussmittel|das|N|ɡəˈnʊsˌmɪtl̩|lazzat uchun iste’mol mahsuloti|Kaffee und Schokolade sind Genussmittel.|Qahva va shokolad — lazzat uchun iste’mol qilinadigan mahsulotlar.|Essen
+Lebensmittelverschwendung|die|N|ˈleːbn̩smɪtl̩fɛɐ̯ˌʃvɛndʊŋ|oziq-ovqat isrofi|Lebensmittelverschwendung ist ein globales Problem.|Oziq-ovqat isrofi — global muammo.|Essen
+Spirituose|die|N|ʃpiʁituˈoːzə|kuchli spirtli ichimlik|Spirituosen sind hoch besteuert.|Kuchli spirtli ichimliklarga yuqori soliq solinadi.|Trinken
+Trinkgewohnheit|die|N|ˈtʁɪŋkɡəˌvoːnhaɪ̯t|ichish odati|Seine Trinkgewohnheiten haben sich geändert.|Uning ichish odatlari o‘zgardi.|Trinken
+Durstlöscher|der|N|ˈdʊʁstˌlœʃɐ|chanqoqbosdi ichimlik|Wasser ist der beste Durstlöscher.|Suv — eng yaxshi chanqoqbosdi.|Trinken
+Gastronomie|die|N|ɡastʁonoˈmiː|umumiy ovqatlanish sohasi|Er arbeitet seit Jahren in der Gastronomie.|U yillardan beri umumiy ovqatlanish sohasida ishlaydi.|Arbeit
+Sehnsucht|die|N|ˈzeːnˌzʊxt|qattiq sog‘inch|Sie hat Sehnsucht nach ihrer Heimat.|U vatanini qattiq sog‘inyapti.|Nomen
+Heimat|die|N|ˈhaɪ̯maːt|vatan|Usbekistan ist meine Heimat.|O‘zbekiston — mening vatanim.|Nomen
+Rundreise|die|N|ˈʁʊntˌʁaɪ̯zə|aylanma sayohat|Wir machen eine Rundreise durch Usbekistan.|O‘zbekiston bo‘ylab aylanma sayohat qilamiz.|Reisen
+Weltkulturerbe|das|N|ˈvɛltkʊlˌtuːɐ̯ʔɛʁbə|jahon madaniy merosi|Die Altstadt von Buchara gehört zum Weltkulturerbe.|Buxoroning eski shahri jahon madaniy merosiga kiradi.|Reisen
+Einreisebestimmung|die|N|ˈaɪ̯nʁaɪ̯zəbəˌʃtɪmʊŋ|mamlakatga kirish qoidasi|Informieren Sie sich über die Einreisebestimmungen.|Mamlakatga kirish qoidalari bilan tanishib chiqing.|Reisen
+Generationskonflikt|der|N|ɡenəʁaˈtsi̯oːnskɔnˌflɪkt|avlodlar ziddiyati|Der Generationskonflikt ist ein altes Thema.|Avlodlar ziddiyati — eski mavzu.|Familie
+Vormund|der|N|ˈfoːɐ̯ˌmʊnt|vasiy|Der Onkel wurde zum Vormund ernannt.|Amakisi vasiy etib tayinlandi.|Familie
+Erbschaft|die|N|ˈɛʁpʃaft|meros|Sie hat eine große Erbschaft gemacht.|U katta meros oldi.|Familie
+Lehrkraft|die|N|ˈleːɐ̯ˌkʁaft|pedagog|Es fehlen qualifizierte Lehrkräfte.|Malakali pedagoglar yetishmaydi.|Schule
+Bildungssystem|das|N|ˈbɪldʊŋszʏsˌteːm|ta’lim tizimi|Das Bildungssystem muss reformiert werden.|Ta’lim tizimini isloh qilish kerak.|Schule
+Lernerfolg|der|N|ˈlɛʁnʔɛɐ̯ˌfɔlk|o‘qishdagi muvaffaqiyat|Regelmäßiges Üben sichert den Lernerfolg.|Muntazam mashq o‘qishdagi muvaffaqiyatni ta’minlaydi.|Schule
+Fachliteratur|die|N|ˈfaxlɪtəʁaˌtuːɐ̯|ilmiy-texnik adabiyot|Die Fachliteratur ist meist auf Englisch.|Mutaxassislik adabiyoti asosan ingliz tilida.|Universität
+Quellenangabe|die|N|ˈkvɛlənˌʔanɡaːbə|manbaga havola|Jede Quellenangabe muss korrekt sein.|Har bir manbaga havola to‘g‘ri bo‘lishi kerak.|Universität
+Datenschutzerklärung|die|N|ˈdaːtn̩ʃʊtsʔɛɐ̯ˌklɛːʁʊŋ|maxfiylik siyosati|Lesen Sie die Datenschutzerklärung.|Maxfiylik siyosati bilan tanishing.|Technologie
+Algorithmus|der|N|alɡoˈʁɪtmʊs|algoritm|Der Algorithmus bestimmt, was wir sehen.|Nimani ko‘rishimizni algoritm belgilaydi.|Technologie
+Verschlüsselung|die|N|fɛɐ̯ˈʃlʏsəlʊŋ|shifrlash|Die Verschlüsselung schützt die Daten.|Shifrlash ma’lumotlarni himoya qiladi.|Technologie
+Fortpflanzung|die|N|ˈfɔʁtˌpflantsʊŋ|ko‘payish (biologik)|Die Fortpflanzung der Tiere wird untersucht.|Hayvonlarning ko‘payishi o‘rganilmoqda.|Natur
+Lebensraum|der|N|ˈleːbn̩sˌʁaʊ̯m|yashash muhiti|Viele Tiere verlieren ihren Lebensraum.|Ko‘plab hayvonlar yashash muhitini yo‘qotmoqda.|Natur
+Dürre|die|N|ˈdʏʁə|qurg‘oqchilik|Die Dürre hat die Ernte zerstört.|Qurg‘oqchilik hosilni nobud qildi.|Natur
+Überschwemmung|die|N|ˌyːbɐˈʃvɛmʊŋ|suv toshqini|Nach dem Regen kam es zu Überschwemmungen.|Yomg‘irdan keyin suv toshqinlari bo‘ldi.|Natur
+Erschöpfung|die|N|ɛɐ̯ˈʃœpfʊŋ|holdan toyish|Sie leidet unter totaler Erschöpfung.|U butunlay holdan toygan.|Gesundheit
+Beschwerden|die|N|bəˈʃveːɐ̯dn̩|shikoyatlar (sog‘liq)|Haben Sie noch Beschwerden?|Hali ham biror joyingiz bezovta qilyaptimi?|Gesundheit
+Heilung|die|N|ˈhaɪ̯lʊŋ|shifo topish|Die Heilung dauert mehrere Wochen.|Shifo topish bir necha hafta davom etadi.|Gesundheit

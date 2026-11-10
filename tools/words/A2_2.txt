@@ -1,0 +1,136 @@
+# A2 — Verben
+anfangen||V|ˈanˌfaŋən|boshlamoq|Wann fängt der Film an?|Film qachon boshlanadi?|Verben
+aufhören||V|ˈaʊ̯fˌhøːʁən|to‘xtatmoq|Hör bitte auf zu rauchen!|Iltimos, chekishni tashla!|Verben
+aufräumen||V|ˈaʊ̯fˌʁɔɪ̯mən|yig‘ishtirmoq|Räum bitte dein Zimmer auf!|Iltimos, xonangni yig‘ishtir!|Verben
+ausgehen||V|ˈaʊ̯sˌɡeːən|ko‘ngilxushlik uchun chiqmoq|Am Wochenende gehen wir aus.|Dam olish kunlari ko‘ngil ochgani chiqamiz.|Verben
+aussehen||V|ˈaʊ̯sˌzeːən|ko‘rinmoq (tashqi ko‘rinish)|Du siehst heute müde aus.|Bugun charchagan ko‘rinasan.|Verben
+aussteigen||V|ˈaʊ̯sˌʃtaɪ̯ɡn̩|(transportdan) tushmoq|Wir steigen an der nächsten Haltestelle aus.|Keyingi bekatda tushamiz.|Reisen
+einsteigen||V|ˈaɪ̯nˌʃtaɪ̯ɡn̩|(transportga) chiqmoq|Bitte schnell einsteigen!|Iltimos, tezroq chiqing!|Reisen
+umsteigen||V|ˈʊmˌʃtaɪ̯ɡn̩|transport almashtirmoq|In Frankfurt müssen wir umsteigen.|Frankfurtda boshqa poyezdga o‘tishimiz kerak.|Reisen
+abholen||V|ˈapˌhoːlən|kutib olmoq; olib ketmoq|Ich hole dich am Bahnhof ab.|Seni vokzaldan kutib olaman.|Verben
+mitbringen||V|ˈmɪtˌbʁɪŋən|o‘zi bilan olib kelmoq|Bring bitte Brot mit!|Iltimos, non olib kel!|Verben
+einladen||V|ˈaɪ̯nˌlaːdn̩|taklif qilmoq (mehmonga)|Ich lade dich zum Essen ein.|Seni ovqatga taklif qilaman.|Verben
+vergessen||V|fɛɐ̯ˈɡɛsn̩|unutmoq|Ich habe meinen Schirm vergessen.|Soyabonimni unutib qoldiribman.|Verben
+verlieren||V|fɛɐ̯ˈliːʁən|yo‘qotmoq|Ich habe mein Handy verloren.|Telefonimni yo‘qotib qo‘ydim.|Verben
+gewinnen||V|ɡəˈvɪnən|yutmoq|Wer hat das Spiel gewonnen?|O‘yinda kim yutdi?|Verben
+erklären||V|ɛɐ̯ˈklɛːʁən|tushuntirmoq|Kannst du mir das erklären?|Buni menga tushuntira olasanmi?|Verben
+erzählen||V|ɛɐ̯ˈtsɛːlən|hikoya qilmoq|Erzähl mir von deiner Reise!|Sayohating haqida gapirib ber!|Verben
+bekommen||V|bəˈkɔmən|olmoq (qo‘lga kiritmoq)|Ich habe einen Brief bekommen.|Men xat oldim.|Verben
+benutzen||V|bəˈnʊtsn̩|foydalanmoq|Darf ich dein Telefon benutzen?|Telefoningdan foydalansam maylimi?|Verben
+bringen||V|ˈbʁɪŋən|olib kelmoq|Der Kellner bringt die Suppe.|Ofitsiant sho‘rvani olib kelyapti.|Verben
+dauern||V|ˈdaʊ̯ɐn|davom etmoq|Wie lange dauert der Kurs?|Kurs qancha davom etadi?|Verben
+erreichen||V|ɛɐ̯ˈʁaɪ̯çn̩|yetib olmoq; erishmoq|Ich habe den Zug noch erreicht.|Poyezdga ulgurib qoldim.|Verben
+feiern||V|ˈfaɪ̯ɐn|nishonlamoq|Wir feiern heute seinen Geburtstag.|Bugun uning tug‘ilgan kunini nishonlaymiz.|Verben
+gratulieren||V|ɡʁatuˈliːʁən|tabriklamoq|Ich gratuliere dir zur Prüfung!|Imtihoning bilan tabriklayman!|Verben
+hängen||V|ˈhɛŋən|osilib turmoq; osmoq|Das Bild hängt an der Wand.|Rasm devorda osilib turibdi.|Verben
+legen||V|ˈleːɡn̩|yotqizib qo‘ymoq|Leg das Buch auf den Tisch!|Kitobni stol ustiga qo‘y!|Verben
+stellen||V|ˈʃtɛlən|tik qo‘ymoq|Stell die Flasche in den Kühlschrank!|Shishani muzlatkichga qo‘y!|Verben
+setzen||V|ˈzɛtsn̩|o‘tqazmoq|Setz dich bitte!|Iltimos, o‘tir!|Verben
+packen||V|ˈpakn̩|joylamoq (yukni)|Ich packe meinen Koffer.|Chamadonimni yig‘yapman.|Reisen
+parken||V|ˈpaʁkn̩|mashinani to‘xtatib qo‘ymoq|Hier darf man nicht parken.|Bu yerda mashina qo‘yish mumkin emas.|Reisen
+passieren||V|paˈsiːʁən|sodir bo‘lmoq|Was ist passiert?|Nima bo‘ldi?|Verben
+regnen||V|ˈʁeːɡnən|yomg‘ir yog‘moq|Es regnet seit gestern.|Kechadan beri yomg‘ir yog‘yapti.|Natur
+scheinen||V|ˈʃaɪ̯nən|charaqlamoq; tuyulmoq|Heute scheint die Sonne.|Bugun quyosh charaqlab turibdi.|Natur
+schenken||V|ˈʃɛŋkn̩|sovg‘a qilmoq|Was schenkst du deiner Mutter?|Onangga nima sovg‘a qilasan?|Verben
+schicken||V|ˈʃɪkn̩|yubormoq|Ich schicke dir eine Nachricht.|Senga xabar yuboraman.|Verben
+schneiden||V|ˈʃnaɪ̯dn̩|kesmoq|Schneid bitte das Brot!|Iltimos, nonni kes!|Verben
+sparen||V|ˈʃpaːʁən|tejamoq|Wir sparen für ein neues Auto.|Yangi mashina uchun pul yig‘yapmiz.|Verben
+tragen||V|ˈtʁaːɡn̩|ko‘tarmoq; kiyib yurmoq|Sie trägt ein rotes Kleid.|U qizil ko‘ylak kiygan.|Verben
+übernachten||V|ˌyːbɐˈnaxtn̩|tunab qolmoq|Wir übernachten in einem Hotel.|Biz mehmonxonada tunaymiz.|Reisen
+vergleichen||V|fɛɐ̯ˈɡlaɪ̯çn̩|solishtirmoq|Vergleich die Preise!|Narxlarni solishtir!|Verben
+versuchen||V|fɛɐ̯ˈzuːxn̩|urinib ko‘rmoq|Ich versuche es noch einmal.|Yana bir marta urinib ko‘raman.|Verben
+vorstellen||V|ˈfoːɐ̯ˌʃtɛlən|tanishtirmoq|Darf ich Ihnen meine Frau vorstellen?|Sizni xotinim bilan tanishtirsam maylimi?|Verben
+wählen||V|ˈvɛːlən|tanlamoq; ovoz bermoq|Wählen Sie eine Farbe!|Rang tanlang!|Verben
+wechseln||V|ˈvɛksl̩n|almashtirmoq|Ich möchte Geld wechseln.|Pul almashtirmoqchiman.|Verben
+weinen||V|ˈvaɪ̯nən|yig‘lamoq|Warum weinst du?|Nega yig‘layapsan?|Verben
+lachen||V|ˈlaxn̩|kulmoq|Wir haben viel gelacht.|Ko‘p kuldik.|Verben
+wünschen||V|ˈvʏnʃn̩|tilamoq|Ich wünsche dir viel Glück!|Senga omad tilayman!|Verben
+ziehen||V|ˈtsiːən|tortmoq; ko‘chib o‘tmoq|Wir ziehen nach Berlin.|Biz Berlinga ko‘chib o‘tyapmiz.|Verben
+umziehen||V|ˈʊmˌtsiːən|ko‘chib o‘tmoq (uydan uyga)|Nächsten Monat ziehen wir um.|Keyingi oy boshqa uyga ko‘chamiz.|Alltag
+ausfüllen||V|ˈaʊ̯sˌfʏlən|to‘ldirmoq (blanka)|Bitte füllen Sie das Formular aus.|Iltimos, blankani to‘ldiring.|Alltag
+unterschreiben||V|ˌʊntɐˈʃʁaɪ̯bn̩|imzolamoq|Unterschreiben Sie bitte hier.|Iltimos, shu yerga imzo qo‘ying.|Alltag
+reparieren||V|ʁepaˈʁiːʁən|ta’mirlamoq|Kannst du mein Fahrrad reparieren?|Velosipedimni tuzatib bera olasanmi?|Verben
+funktionieren||V|fʊŋktsi̯oˈniːʁən|ishlamoq (qurilma)|Der Drucker funktioniert nicht.|Printer ishlamayapti.|Technologie
+telefonieren||V|telefoˈniːʁən|telefonda gaplashmoq|Sie telefoniert mit ihrer Mutter.|U onasi bilan telefonda gaplashyapti.|Verben
+fotografieren||V|fotoɡʁaˈfiːʁən|suratga olmoq|Darf man hier fotografieren?|Bu yerda suratga olish mumkinmi?|Verben
+korrigieren||V|kɔʁiˈɡiːʁən|tuzatmoq (xatoni)|Die Lehrerin korrigiert die Tests.|O‘qituvchi testlarni tekshiryapti.|Schule
+bestehen||V|bəˈʃteːən|(imtihondan) o‘tmoq|Ich habe die Prüfung bestanden.|Men imtihondan o‘tdim.|Schule
+verdienen||V|fɛɐ̯ˈdiːnən|pul topmoq|Er verdient gut.|U yaxshi maosh oladi.|Arbeit
+kündigen||V|ˈkʏndɪɡn̩|ishdan bo‘shamoq; shartnomani bekor qilmoq|Sie hat ihre Arbeit gekündigt.|U ishdan bo‘shadi.|Arbeit
+bedeuten||V|bəˈdɔɪ̯tn̩|anglatmoq|Was bedeutet das Wort?|Bu so‘z nimani anglatadi?|Verben
+gehören||V|ɡəˈhøːʁən|tegishli bo‘lmoq|Wem gehört die Tasche?|Bu sumka kimniki?|Verben
+gefallen||V|ɡəˈfalən|yoqmoq|Die Stadt gefällt mir sehr.|Shahar menga juda yoqdi.|Verben
+passen||V|ˈpasn̩|mos kelmoq|Die Hose passt mir nicht.|Shim menga to‘g‘ri kelmayapti.|Verben
+schmerzen||V|ˈʃmɛʁtsn̩|og‘rimoq|Mein Knie schmerzt.|Tizzam og‘riyapti.|Gesundheit
+sich freuen||V|zɪç ˈfʁɔɪ̯ən|xursand bo‘lmoq|Ich freue mich auf den Urlaub.|Ta’tilni intiqlik bilan kutyapman.|Verben
+sich treffen||V|zɪç ˈtʁɛfn̩|o‘zaro uchrashmoq|Wir treffen uns um sieben.|Soat yettida uchrashamiz.|Verben
+sich waschen||V|zɪç ˈvaʃn̩|yuvinmoq|Das Kind wäscht sich allein.|Bola o‘zi yuvinadi.|Verben
+sich anziehen||V|zɪç ˈanˌtsiːən|kiyinmoq|Ich ziehe mich schnell an.|Tezda kiyinaman.|Verben
+sich beeilen||V|zɪç bəˈʔaɪ̯lən|shoshilmoq|Beeil dich, der Bus kommt!|Shoshil, avtobus kelyapti!|Verben
+sich ausruhen||V|zɪç ˈaʊ̯sˌʁuːən|dam olmoq|Am Sonntag ruhe ich mich aus.|Yakshanba kuni dam olaman.|Verben
+sich interessieren||V|zɪç ɪntəʁɛˈsiːʁən|qiziqmoq|Ich interessiere mich für Musik.|Men musiqaga qiziqaman.|Verben
+sich fühlen||V|zɪç ˈfyːlən|o‘zini his qilmoq|Ich fühle mich heute gut.|Bugun o‘zimni yaxshi his qilyapman.|Gesundheit
+sich setzen||V|zɪç ˈzɛtsn̩|o‘tirib olmoq|Bitte setzen Sie sich!|Iltimos, o‘tiring!|Verben
+# A2 — Adjektive und Adverbien
+bequem||A|bəˈkveːm|qulay|Die Schuhe sind sehr bequem.|Tuflilar juda qulay.|Adjektive
+gemütlich||A|ɡəˈmyːtlɪç|shinam|Das Café ist sehr gemütlich.|Kafe juda shinam.|Adjektive
+ruhig||A|ˈʁuːɪç|tinch|Unsere Straße ist ruhig.|Ko‘chamiz tinch.|Adjektive
+gefährlich||A|ɡəˈfɛːɐ̯lɪç|xavfli|Die Straße ist gefährlich.|Ko‘cha xavfli.|Adjektive
+sicher||A|ˈzɪçɐ|xavfsiz; aniq|Hier ist es sicher.|Bu yer xavfsiz.|Adjektive
+möglich||A|ˈmøːklɪç|mumkin|Ist das möglich?|Bu mumkinmi?|Adjektive
+nötig||A|ˈnøːtɪç|zarur|Das ist nicht nötig.|Bunga hojat yo‘q.|Adjektive
+fremd||A|fʁɛmt|begona; notanish|Ich bin fremd hier.|Men bu yerda begonaman.|Adjektive
+ähnlich||A|ˈɛːnlɪç|o‘xshash|Die Brüder sind sich sehr ähnlich.|Aka-ukalar bir-biriga juda o‘xshaydi.|Adjektive
+verschieden||A|fɛɐ̯ˈʃiːdn̩|har xil|Wir haben verschiedene Meinungen.|Fikrlarimiz har xil.|Adjektive
+bekannt||A|bəˈkant|mashhur; tanish|Der Sänger ist sehr bekannt.|Xonanda juda mashhur.|Adjektive
+berühmt||A|bəˈʁyːmt|dong taratgan|Samarkand ist berühmt für seine Moscheen.|Samarqand masjidlari bilan dong taratgan.|Adjektive
+hungrig||A|ˈhʊŋʁɪç|och (qorni)|Die Kinder sind hungrig.|Bolalarning qorni och.|Adjektive
+durstig||A|ˈdʊʁstɪç|chanqagan|Nach dem Sport bin ich durstig.|Sportdan keyin chanqayman.|Adjektive
+satt||A|zat|to‘q (qorni)|Danke, ich bin satt.|Rahmat, to‘ydim.|Essen
+süß||A|zyːs|shirin|Der Kuchen ist sehr süß.|Pirog juda shirin.|Essen
+sauer||A|ˈzaʊ̯ɐ|nordon; jahli chiqqan|Die Zitrone ist sauer.|Limon nordon.|Essen
+salzig||A|ˈzaltsɪç|sho‘r|Die Suppe ist zu salzig.|Sho‘rva o‘ta sho‘r.|Essen
+scharf||A|ʃaʁf|achchiq; o‘tkir|Das Essen ist sehr scharf.|Ovqat juda achchiq.|Essen
+frisch||A|fʁɪʃ|yangi uzilgan; toza|Das Brot ist frisch.|Non yangi.|Essen
+fit||A|fɪt|baquvvat; sog‘lom holatda|Mein Opa ist noch sehr fit.|Bobom hali juda baquvvat.|Gesundheit
+nass||A|nas|ho‘l|Meine Jacke ist nass.|Kurtkam ho‘l bo‘lib ketdi.|Adjektive
+trocken||A|ˈtʁɔkn̩|quruq|Die Wäsche ist trocken.|Kir qurib qoldi.|Adjektive
+bunt||A|bʊnt|rang-barang|Die Kinder malen bunte Bilder.|Bolalar rang-barang rasmlar chizyapti.|Adjektive
+hoch||A|hoːx|baland|Das Gebäude ist sehr hoch.|Bino juda baland.|Adjektive
+tief||A|tiːf|chuqur|Das Wasser ist hier tief.|Bu yerda suv chuqur.|Adjektive
+breit||A|bʁaɪ̯t|keng|Die Straße ist breit.|Ko‘cha keng.|Adjektive
+schmal||A|ʃmaːl|tor|Der Weg ist sehr schmal.|Yo‘l juda tor.|Adjektive
+dick||A|dɪk|qalin; semiz|Das Buch ist sehr dick.|Kitob juda qalin.|Adjektive
+dünn||A|dʏn|ingichka; yupqa|Das Papier ist dünn.|Qog‘oz yupqa.|Adjektive
+stark||A|ʃtaʁk|kuchli|Der Kaffee ist sehr stark.|Qahva juda quyuq.|Adjektive
+schwach||A|ʃvax|kuchsiz|Ich fühle mich schwach.|O‘zimni holsiz his qilyapman.|Adjektive
+ganz||A|ɡants|butun; butunlay|Ich habe den ganzen Tag gearbeitet.|Kun bo‘yi ishladim.|Adjektive
+fleißig||A|ˈflaɪ̯sɪç|tirishqoq|Sie ist eine fleißige Schülerin.|U tirishqoq o‘quvchi.|Adjektive
+faul||A|faʊ̯l|dangasa|Am Sonntag bin ich faul.|Yakshanba kuni dangasa bo‘laman.|Adjektive
+höflich||A|ˈhøːflɪç|odobli|Das Kind ist sehr höflich.|Bola juda odobli.|Adjektive
+lustig||A|ˈlʊstɪç|kulgili; quvnoq|Der Film war sehr lustig.|Film juda kulgili edi.|Adjektive
+langweilig||A|ˈlaŋˌvaɪ̯lɪç|zerikarli|Der Vortrag war langweilig.|Ma’ruza zerikarli edi.|Adjektive
+spannend||A|ˈʃpanənt|hayajonli|Das Spiel war spannend.|O‘yin hayajonli o‘tdi.|Adjektive
+wunderbar||A|ˈvʊndɐbaːɐ̯|ajoyib; zo‘r|Das Wetter ist wunderbar.|Havo zo‘r.|Adjektive
+einfach||A|ˈaɪ̯nfax|oddiy; oson|Die Übung ist einfach.|Mashq oson.|Adjektive
+kompliziert||A|kɔmpliˈtsiːɐ̯t|murakkab|Das Formular ist kompliziert.|Blanka murakkab.|Adjektive
+selten||D|ˈzɛltn̩|kamdan-kam|Ich esse selten Fleisch.|Men kamdan-kam go‘sht yeyman.|Alltag
+meistens||D|ˈmaɪ̯stn̩s|ko‘pincha|Meistens fahre ich mit dem Bus.|Ko‘pincha avtobusda yuraman.|Alltag
+bald||D|balt|yaqinda; tez orada|Bis bald!|Ko‘rishguncha!|Alltag
+sofort||D|zoˈfɔʁt|darhol|Komm sofort nach Hause!|Darhol uyga kel!|Alltag
+später||D|ˈʃpɛːtɐ|keyinroq|Ich rufe dich später an.|Senga keyinroq qo‘ng‘iroq qilaman.|Alltag
+vorher||D|ˈfoːɐ̯heːɐ̯|oldin|Ruf mich vorher an!|Oldin menga qo‘ng‘iroq qil!|Alltag
+danach||D|daˈnaːx|undan keyin|Danach gehen wir essen.|Undan keyin ovqatlangani boramiz.|Alltag
+zuerst||D|tsuˈʔeːɐ̯st|avval|Zuerst lerne ich, dann spiele ich.|Avval dars qilaman, keyin o‘ynayman.|Alltag
+endlich||D|ˈɛntlɪç|nihoyat|Endlich ist der Sommer da!|Nihoyat yoz keldi!|Alltag
+leider||D|ˈlaɪ̯dɐ|afsuski|Ich habe leider keine Zeit.|Afsuski, vaqtim yo‘q.|Alltag
+vielleicht||D|fiˈlaɪ̯çt|balki|Vielleicht komme ich morgen.|Balki ertaga kelarman.|Alltag
+natürlich||D|naˈtyːɐ̯lɪç|albatta|Natürlich helfe ich dir.|Albatta, senga yordam beraman.|Alltag
+genau||D|ɡəˈnaʊ̯|aynan; aniq|Genau, das meine ich.|Aynan, men shuni nazarda tutyapman.|Alltag
+ziemlich||D|ˈtsiːmlɪç|ancha|Es ist ziemlich kalt.|Havo ancha sovuq.|Alltag
+fast||D|fast|deyarli|Ich bin fast fertig.|Deyarli tugatdim.|Alltag
+überall||D|ˌyːbɐˈʔal|hamma joyda|Überall liegt Schnee.|Hamma joyda qor yotibdi.|Alltag
+draußen||D|ˈdʁaʊ̯sn̩|tashqarida|Die Kinder spielen draußen.|Bolalar tashqarida o‘ynab yuribdi.|Alltag
+drinnen||D|ˈdʁɪnən|ichkarida|Bei Regen bleiben wir drinnen.|Yomg‘irda ichkarida qolamiz.|Alltag
+unten||D|ˈʊntn̩|pastda|Der Bäcker ist unten im Haus.|Novvoy binoning pastki qavatida.|Alltag
+oben||D|ˈoːbn̩|tepada|Das Schlafzimmer ist oben.|Yotoqxona tepada.|Alltag

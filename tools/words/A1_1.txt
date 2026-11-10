@@ -1,0 +1,125 @@
+# A1 — Familie, Menschen, Körper
+Eltern|die|N|ˈɛltɐn|ota-ona|Meine Eltern wohnen in Taschkent.|Ota-onam Toshkentda yashaydi.|Familie
+Kind|das|N|kɪnt|bola|Das Kind spielt im Park.|Bola bog‘da o‘ynayapti.|Familie
+Sohn|der|N|zoːn|o‘g‘il|Mein Sohn geht in die Schule.|O‘g‘lim maktabga boradi.|Familie
+Tochter|die|N|ˈtɔxtɐ|qiz (farzand)|Ihre Tochter ist fünf Jahre alt.|Uning qizi besh yoshda.|Familie
+Oma|die|N|ˈoːma|buvi|Die Oma backt einen Kuchen.|Buvi pirog pishiryapti.|Familie
+Opa|der|N|ˈoːpa|bobo|Mein Opa liest die Zeitung.|Bobom gazeta o‘qiyapti.|Familie
+Mann|der|N|man|erkak; er|Der Mann wartet an der Tür.|Erkak eshik oldida kutyapti.|Familie
+Frau|die|N|fʁaʊ̯|ayol; xotin|Die Frau trinkt einen Tee.|Ayol choy ichyapti.|Familie
+Junge|der|N|ˈjʊŋə|o‘g‘il bola|Der Junge spielt Fußball.|O‘g‘il bola futbol o‘ynayapti.|Familie
+Mädchen|das|N|ˈmɛːtçən|qiz bola|Das Mädchen singt ein Lied.|Qiz bola qo‘shiq aytyapti.|Familie
+Baby|das|N|ˈbeːbi|chaqaloq|Das Baby weint.|Chaqaloq yig‘layapti.|Familie
+Freund|der|N|fʁɔɪ̯nt|do‘st|Mein Freund kommt heute.|Do‘stim bugun keladi.|Familie
+Freundin|die|N|ˈfʁɔɪ̯ndɪn|dugona; qiz do‘st|Meine Freundin heißt Laura.|Dugonamning ismi Laura.|Familie
+Familie|die|N|faˈmiːli̯ə|oila|Meine Familie ist groß.|Oilam katta.|Familie
+Name|der|N|ˈnaːmə|ism|Wie ist Ihr Name?|Ismingiz nima?|Alltag
+Kopf|der|N|kɔpf|bosh|Mein Kopf tut weh.|Boshim og‘riyapti.|Gesundheit
+Hand|die|N|hant|qo‘l (kaft)|Gib mir deine Hand!|Qo‘lingni ber!|Gesundheit
+Auge|das|N|ˈaʊ̯ɡə|ko‘z|Sie hat blaue Augen.|Uning ko‘zlari ko‘k.|Gesundheit
+Ohr|das|N|oːɐ̯|quloq|Mein Ohr tut weh.|Qulog‘im og‘riyapti.|Gesundheit
+Mund|der|N|mʊnt|og‘iz|Mach bitte den Mund auf!|Iltimos, og‘zingni och!|Gesundheit
+Nase|die|N|ˈnaːzə|burun|Meine Nase ist kalt.|Burnim sovqotgan.|Gesundheit
+Bein|das|N|baɪ̯n|oyoq|Er hat sich das Bein gebrochen.|U oyog‘ini sindirib oldi.|Gesundheit
+Fuß|der|N|fuːs|oyoq panjasi|Mein Fuß ist kalt.|Oyog‘im muzlab qoldi.|Gesundheit
+Bauch|der|N|baʊ̯x|qorin|Mein Bauch tut weh.|Qornim og‘riyapti.|Gesundheit
+Zahn|der|N|tsaːn|tish|Der Zahn tut sehr weh.|Tishim qattiq og‘riyapti.|Gesundheit
+Haar|das|N|haːɐ̯|soch|Sie hat lange Haare.|Uning sochlari uzun.|Gesundheit
+krank|| A|kʁaŋk|kasal|Ich bin heute krank.|Men bugun kasalman.|Gesundheit
+gesund||A|ɡəˈzʊnt|sog‘lom|Obst ist gesund.|Meva sog‘liq uchun foydali.|Gesundheit
+# Essen
+Ei|das|N|aɪ̯|tuxum|Ich esse ein Ei zum Frühstück.|Nonushtaga bitta tuxum yeyman.|Essen
+Käse|der|N|ˈkɛːzə|pishloq|Der Käse kommt aus Holland.|Pishloq Gollandiyadan keltirilgan.|Essen
+Butter|die|N|ˈbʊtɐ|sariyog‘|Ich esse Brot mit Butter.|Men nonni sariyog‘ bilan yeyman.|Essen
+Fleisch|das|N|flaɪ̯ʃ|go‘sht|Wir essen heute kein Fleisch.|Bugun go‘sht yemaymiz.|Essen
+Fisch|der|N|fɪʃ|baliq|Der Fisch ist sehr frisch.|Baliq juda yangi.|Essen
+Reis|der|N|ʁaɪ̯s|guruch|Zum Plov brauchen wir Reis.|Palov uchun guruch kerak.|Essen
+Nudeln|die|N|ˈnuːdl̩n|makaron; lag‘mon xamiri|Die Kinder essen gern Nudeln.|Bolalar makaronni yaxshi ko‘radi.|Essen
+Kartoffel|die|N|kaʁˈtɔfl̩|kartoshka|Die Kartoffeln sind noch heiß.|Kartoshka hali issiq.|Essen
+Tomate|die|N|toˈmaːtə|pomidor|Die Tomaten sind rot.|Pomidorlar qizil.|Essen
+Gurke|die|N|ˈɡʊʁkə|bodring|Ich schneide eine Gurke.|Men bodring to‘g‘rayapman.|Essen
+Zwiebel|die|N|ˈtsviːbl̩|piyoz|Für die Suppe brauche ich eine Zwiebel.|Sho‘rva uchun bitta piyoz kerak.|Essen
+Banane|die|N|baˈnaːnə|banan|Die Banane ist gelb.|Banan sariq.|Essen
+Orange|die|N|oˈʁɑ̃ːʒə|apelsin|Ich kaufe drei Orangen.|Men uchta apelsin sotib olaman.|Essen
+Obst|das|N|oːpst|meva|Obst ist im Sommer billig.|Yozda meva arzon.|Essen
+Kuchen|der|N|ˈkuːxn̩|pirog; tort|Der Kuchen schmeckt sehr gut.|Pirog juda mazali.|Essen
+Suppe|die|N|ˈzʊpə|sho‘rva|Die Suppe ist zu salzig.|Sho‘rva juda sho‘r.|Essen
+Salat|der|N|zaˈlaːt|salat|Ich bestelle einen Salat.|Men salat buyurtma qilaman.|Essen
+Zucker|der|N|ˈtsʊkɐ|shakar|Nimmst du Zucker in den Tee?|Choyga shakar solasanmi?|Essen
+Salz|das|N|zalts|tuz|Gib mir bitte das Salz!|Iltimos, tuzni uzat!|Essen
+Schokolade|die|N|ʃokoˈlaːdə|shokolad|Kinder lieben Schokolade.|Bolalar shokoladni juda yaxshi ko‘radi.|Essen
+Mittagessen|das|N|ˈmɪtaːkˌʔɛsn̩|tushlik|Das Mittagessen ist um eins.|Tushlik soat birda.|Essen
+Abendessen|das|N|ˈaːbn̩tˌʔɛsn̩|kechki ovqat|Zum Abendessen gibt es Suppe.|Kechki ovqatga sho‘rva bor.|Essen
+Restaurant|das|N|ʁɛstoˈʁɑ̃ː|restoran|Das Restaurant ist heute geschlossen.|Restoran bugun yopiq.|Essen
+Hunger|der|N|ˈhʊŋɐ|ochlik|Ich habe großen Hunger.|Qornim juda och.|Essen
+lecker||A|ˈlɛkɐ|mazali|Das Essen ist sehr lecker.|Ovqat juda mazali.|Essen
+kochen||V|ˈkɔxn̩|ovqat pishirmoq|Heute koche ich Plov.|Bugun men palov pishiraman.|Essen
+# Trinken
+Tee|der|N|teː|choy|In Usbekistan trinkt man viel Tee.|O‘zbekistonda ko‘p choy ichiladi.|Trinken
+Bier|das|N|biːɐ̯|pivo|Er bestellt ein Bier.|U bitta pivo buyurtma qiladi.|Trinken
+Wein|der|N|vaɪ̯n|vino|Der Wein kommt aus Italien.|Vino Italiyadan keltirilgan.|Trinken
+Glas|das|N|ɡlaːs|stakan|Ein Glas Wasser, bitte!|Bir stakan suv, iltimos!|Trinken
+Tasse|die|N|ˈtasə|piyola; chashka|Möchtest du eine Tasse Kaffee?|Bir chashka qahva ichasanmi?|Trinken
+Flasche|die|N|ˈflaʃə|shisha (idish)|Die Flasche ist leer.|Shisha bo‘sh.|Trinken
+Durst|der|N|dʊʁst|chanqoq|Ich habe Durst.|Chanqadim.|Trinken
+Kakao|der|N|kaˈkaʊ̯|kakao|Die Kinder trinken warmen Kakao.|Bolalar iliq kakao ichyapti.|Trinken
+Cola|die|N|ˈkoːla|kola|Eine Cola ohne Eis, bitte!|Muzsiz bitta kola, iltimos!|Trinken
+# Wohnen und Alltag
+Wohnung|die|N|ˈvoːnʊŋ|kvartira|Unsere Wohnung hat drei Zimmer.|Kvartiramiz uch xonali.|Alltag
+Zimmer|das|N|ˈtsɪmɐ|xona|Mein Zimmer ist hell.|Xonam yorug‘.|Alltag
+Küche|die|N|ˈkʏçə|oshxona|Die Küche ist klein, aber schön.|Oshxona kichik, lekin chiroyli.|Alltag
+Bad|das|N|baːt|hammom; vannaxona|Das Bad ist neben der Küche.|Vannaxona oshxonaning yonida.|Alltag
+Tür|die|N|tyːɐ̯|eshik|Mach bitte die Tür zu!|Iltimos, eshikni yop!|Alltag
+Fenster|das|N|ˈfɛnstɐ|deraza|Das Fenster ist offen.|Deraza ochiq.|Alltag
+Tisch|der|N|tɪʃ|stol|Das Buch liegt auf dem Tisch.|Kitob stol ustida turibdi.|Alltag
+Stuhl|der|N|ʃtuːl|stul|Der Stuhl ist kaputt.|Stul buzilgan.|Alltag
+Bett|das|N|bɛt|karavot|Das Bett ist sehr bequem.|Karavot juda qulay.|Alltag
+Schrank|der|N|ʃʁaŋk|shkaf|Die Kleider sind im Schrank.|Kiyimlar shkafda.|Alltag
+Lampe|die|N|ˈlampə|chiroq|Die Lampe ist sehr hell.|Chiroq juda yorqin.|Alltag
+Schlüssel|der|N|ˈʃlʏsl̩|kalit|Wo ist mein Schlüssel?|Kalitim qayerda?|Alltag
+Geld|das|N|ɡɛlt|pul|Ich habe kein Geld dabei.|Yonimda pul yo‘q.|Alltag
+Uhr|die|N|uːɐ̯|soat|Wie viel Uhr ist es?|Soat necha bo‘ldi?|Alltag
+Tag|der|N|taːk|kun|Heute ist ein schöner Tag.|Bugun ajoyib kun.|Alltag
+Woche|die|N|ˈvɔxə|hafta|Die Woche hat sieben Tage.|Haftada yetti kun bor.|Alltag
+Monat|der|N|ˈmoːnat|oy (vaqt)|Der Monat Mai ist warm.|May oyi iliq bo‘ladi.|Alltag
+Jahr|das|N|jaːɐ̯|yil|Ich lerne seit einem Jahr Deutsch.|Bir yildan beri nemis tilini o‘rganyapman.|Alltag
+Morgen|der|N|ˈmɔʁɡn̩|ertalab; tong|Am Morgen trinke ich Kaffee.|Ertalab qahva ichaman.|Alltag
+Abend|der|N|ˈaːbn̩t|kechqurun|Am Abend sehe ich fern.|Kechqurun televizor ko‘raman.|Alltag
+Nacht|die|N|naxt|tun|Gute Nacht!|Xayrli tun!|Alltag
+Stadt|die|N|ʃtat|shahar|Taschkent ist eine große Stadt.|Toshkent katta shahar.|Alltag
+Straße|die|N|ˈʃtʁaːsə|ko‘cha|Die Straße ist sehr laut.|Ko‘cha juda shovqinli.|Alltag
+Geschäft|das|N|ɡəˈʃɛft|do‘kon|Das Geschäft öffnet um neun.|Do‘kon soat to‘qqizda ochiladi.|Alltag
+Supermarkt|der|N|ˈzuːpɐˌmaʁkt|supermarket|Ich gehe in den Supermarkt.|Men supermarketga ketyapman.|Alltag
+Markt|der|N|maʁkt|bozor|Auf dem Markt ist das Obst frisch.|Bozorda meva yangi.|Alltag
+Kleidung|die|N|ˈklaɪ̯dʊŋ|kiyim-kechak|Die Kleidung ist im Angebot.|Kiyimlar chegirmada.|Alltag
+Hose|die|N|ˈhoːzə|shim|Die Hose ist zu lang.|Shim juda uzun.|Alltag
+Hemd|das|N|hɛmt|ko‘ylak (erkaklar)|Er trägt ein weißes Hemd.|U oq ko‘ylak kiygan.|Alltag
+Schuh|der|N|ʃuː|poyabzal; tufli|Die Schuhe sind neu.|Tuflilar yangi.|Alltag
+Jacke|die|N|ˈjakə|kurtka|Nimm eine Jacke mit, es ist kalt!|Kurtka olib ol, havo sovuq!|Alltag
+Kleid|das|N|klaɪ̯t|ayollar ko‘ylagi|Das Kleid ist sehr schön.|Ko‘ylak juda chiroyli.|Alltag
+Tasche|die|N|ˈtaʃə|sumka|Meine Tasche ist schwer.|Sumkam og‘ir.|Alltag
+Farbe|die|N|ˈfaʁbə|rang|Welche Farbe magst du?|Qaysi rangni yoqtirasan?|Alltag
+Fernseher|der|N|ˈfɛʁnˌzeːɐ|televizor|Der Fernseher ist neu.|Televizor yangi.|Technologie
+Computer|der|N|kɔmˈpjuːtɐ|kompyuter|Ich arbeite am Computer.|Men kompyuterda ishlayman.|Technologie
+Telefon|das|N|ˈteːləfoːn|telefon|Das Telefon klingelt.|Telefon jiringlayapti.|Technologie
+Foto|das|N|ˈfoːto|surat|Darf ich ein Foto machen?|Surat olsam maylimi?|Technologie
+# Natur und Wetter
+Katze|die|N|ˈkatsə|mushuk|Die Katze schläft auf dem Sofa.|Mushuk divanda uxlayapti.|Natur
+Vogel|der|N|ˈfoːɡl̩|qush|Der Vogel singt am Morgen.|Qush ertalab sayraydi.|Natur
+Pferd|das|N|pfeːɐ̯t|ot (hayvon)|Das Pferd läuft schnell.|Ot tez chopadi.|Natur
+Baum|der|N|baʊ̯m|daraxt|Der Baum ist sehr alt.|Daraxt juda qari.|Natur
+Blume|die|N|ˈbluːmə|gul|Ich schenke dir eine Blume.|Senga bitta gul sovg‘a qilaman.|Natur
+Garten|der|N|ˈɡaʁtn̩|bog‘|Im Garten wachsen Äpfel.|Bog‘da olma o‘sadi.|Natur
+Regen|der|N|ˈʁeːɡn̩|yomg‘ir|Morgen kommt Regen.|Ertaga yomg‘ir yog‘adi.|Natur
+Schnee|der|N|ʃneː|qor|Im Winter liegt viel Schnee.|Qishda qor ko‘p bo‘ladi.|Natur
+Wind|der|N|vɪnt|shamol|Der Wind ist heute stark.|Bugun shamol kuchli.|Natur
+Himmel|der|N|ˈhɪml̩|osmon|Der Himmel ist blau.|Osmon moviy.|Natur
+Sommer|der|N|ˈzɔmɐ|yoz|Im Sommer ist es heiß.|Yozda havo issiq.|Natur
+Winter|der|N|ˈvɪntɐ|qish|Der Winter ist kalt.|Qish sovuq.|Natur
+Frühling|der|N|ˈfʁyːlɪŋ|bahor|Im Frühling blühen die Bäume.|Bahorda daraxtlar gullaydi.|Natur
+Herbst|der|N|hɛʁpst|kuz|Im Herbst fallen die Blätter.|Kuzda barglar to‘kiladi.|Natur
+Meer|das|N|meːɐ̯|dengiz|Das Meer ist warm.|Dengiz iliq.|Natur
+Berg|der|N|bɛʁk|tog‘|Der Berg ist sehr hoch.|Tog‘ juda baland.|Natur
+warm||A|vaʁm|iliq|Heute ist es warm.|Bugun havo iliq.|Natur
+kalt||A|kalt|sovuq|Das Wasser ist kalt.|Suv sovuq.|Natur
+heiß||A|haɪ̯s|issiq|Der Tee ist sehr heiß.|Choy juda issiq.|Natur

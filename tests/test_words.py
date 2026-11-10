@@ -23,7 +23,26 @@ def test_metadata():
 
 
 def test_minimum_total(words):
-    assert len(words) >= 120
+    assert len(words) >= 2000
+
+
+def test_each_level_has_at_least_200_words(words):
+    counts = Counter(w["level"] for w in words)
+    assert all(counts[lvl] >= 200 for lvl in LEVELS), counts
+
+
+def test_no_cyrillic_or_invisible_characters(words):
+    """Uzbek is written in Latin script here; mixed Cyrillic letters are typos."""
+    for w in words:
+        for f in ("uzbek", "example_uz"):
+            assert not any("Ѐ" <= ch <= "ӿ" for ch in w[f]), (w["german"], w[f])
+        for f in REQUIRED_FIELDS:
+            assert not any(ch in str(w[f]) for ch in "­​‌‍﻿"), (w["german"], f)
+
+
+def test_uzbek_translations_unique(words):
+    dupes = [t for t, n in Counter(w["uzbek"].casefold() for w in words).items() if n > 1]
+    assert not dupes, dupes
 
 
 @pytest.mark.parametrize("level", LEVELS)
@@ -54,7 +73,8 @@ def test_required_fields_present(words):
 def test_unique_ids_and_words(words):
     ids = [w["id"] for w in words]
     assert len(ids) == len(set(ids))
-    dupes = [g for g, n in Counter(w["german"].casefold() for w in words).items() if n > 1]
+    # case-sensitive: in German "Morgen" (morning) and "morgen" (tomorrow) are different words
+    dupes = [g for g, n in Counter(w["german"] for w in words).items() if n > 1]
     assert not dupes, f"Takroriy so‘zlar: {dupes}"
 
 

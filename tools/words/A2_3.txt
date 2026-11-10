@@ -1,0 +1,96 @@
+# A2 — Arbeit, Schule, Technologie, Kommunikation
+Arbeitsplatz|der|N|ˈaʁbaɪ̯tsˌplats|ish joyi|Mein Arbeitsplatz ist im zweiten Stock.|Ish joyim ikkinchi qavatda.|Arbeit
+Mitarbeiter|der|N|ˈmɪtˌʔaʁbaɪ̯tɐ|xodim|Die Firma sucht neue Mitarbeiter.|Kompaniya yangi xodimlar qidiryapti.|Arbeit
+Stelle|die|N|ˈʃtɛlə|lavozim; ish o‘rni|Ich suche eine neue Stelle.|Yangi ish o‘rni qidiryapman.|Arbeit
+Besprechung|die|N|bəˈʃpʁɛçʊŋ|yig‘ilish|Die Besprechung dauert eine Stunde.|Yig‘ilish bir soat davom etadi.|Arbeit
+Kunde|der|N|ˈkʊndə|mijoz|Der Kunde möchte den Chef sprechen.|Mijoz boshliq bilan gaplashmoqchi.|Arbeit
+Lohn|der|N|loːn|ish haqi|Der Lohn kommt am Monatsende.|Ish haqi oy oxirida beriladi.|Arbeit
+Arbeitszeit|die|N|ˈaʁbaɪ̯tsˌtsaɪ̯t|ish vaqti|Meine Arbeitszeit ist von acht bis fünf.|Ish vaqtim sakkizdan beshgacha.|Arbeit
+Überstunde|die|N|ˈyːbɐˌʃtʊndə|qo‘shimcha ish soati|Diese Woche mache ich Überstunden.|Bu hafta qo‘shimcha soat ishlayman.|Arbeit
+Praktikum|das|N|ˈpʁaktikʊm|amaliyot|Ich mache ein Praktikum in einer Bank.|Bankda amaliyot o‘tyapman.|Arbeit
+Ausbildung|die|N|ˈaʊ̯sˌbɪldʊŋ|kasbiy ta’lim|Er macht eine Ausbildung als Koch.|U oshpazlik kasbini o‘rganyapti.|Arbeit
+Fabrik|die|N|faˈbʁiːk|zavod; fabrika|Mein Onkel arbeitet in einer Fabrik.|Amakim zavodda ishlaydi.|Arbeit
+Werkstatt|die|N|ˈvɛʁkˌʃtat|ustaxona|Das Auto ist in der Werkstatt.|Mashina ustaxonada.|Arbeit
+Koch|der|N|kɔx|oshpaz|Der Koch macht den besten Plov.|Oshpaz eng zo‘r palovni pishiradi.|Arbeit
+Ingenieur|der|N|ɪnʒeˈni̯øːɐ̯|muhandis|Sie arbeitet als Ingenieurin.|U muhandis bo‘lib ishlaydi.|Arbeit
+Krankenschwester|die|N|ˈkʁaŋkn̩ˌʃvɛstɐ|hamshira|Die Krankenschwester misst das Fieber.|Hamshira isitmani o‘lchayapti.|Gesundheit
+Fahrer|der|N|ˈfaːʁɐ|haydovchi|Der Fahrer wartet vor dem Hotel.|Haydovchi mehmonxona oldida kutyapti.|Arbeit
+Zeugnis|das|N|ˈtsɔɪ̯knɪs|tabel; guvohnoma|Das Zeugnis ist sehr gut.|Tabel juda yaxshi.|Schule
+Note|die|N|ˈnoːtə|baho|Ich habe eine gute Note bekommen.|Men yaxshi baho oldim.|Schule
+Fach|das|N|fax|fan (o‘quv)|Mein Lieblingsfach ist Mathe.|Sevimli fanim — matematika.|Schule
+Unterricht|der|N|ˈʊntɐˌʁɪçt|dars|Der Unterricht beginnt um acht.|Dars soat sakkizda boshlanadi.|Schule
+Test|der|N|tɛst|test; nazorat ishi|Morgen schreiben wir einen Test.|Ertaga nazorat ishi yozamiz.|Schule
+Übung|die|N|ˈyːbʊŋ|mashq|Macht bitte Übung drei!|Iltimos, uchinchi mashqni bajaring!|Schule
+Wörterbuch|das|N|ˈvœʁtɐˌbuːx|lug‘at (kitob)|Ich suche das Wort im Wörterbuch.|So‘zni lug‘atdan qidiryapman.|Schule
+Bibliothek|die|N|biblioˈteːk|kutubxona|Die Bibliothek ist bis acht geöffnet.|Kutubxona soat sakkizgacha ochiq.|Universität
+Universität|die|N|univɛʁziˈtɛːt|universitet|Sie studiert an der Universität.|U universitetda o‘qiydi.|Universität
+Semester|das|N|zeˈmɛstɐ|semestr|Das Semester beginnt im Oktober.|Semestr oktyabrda boshlanadi.|Universität
+Kindergarten|der|N|ˈkɪndɐˌɡaʁtn̩|bolalar bog‘chasi|Meine Tochter geht in den Kindergarten.|Qizim bog‘chaga boradi.|Schule
+Internet|das|N|ˈɪntɐnɛt|internet|Das Internet ist heute langsam.|Bugun internet sekin.|Technologie
+E-Mail|die|N|ˈiːmeɪ̯l|elektron pochta|Ich schreibe dir eine E-Mail.|Senga elektron xat yozaman.|Technologie
+Nachricht|die|N|ˈnaːxˌʁɪçt|xabar|Hast du meine Nachricht gelesen?|Xabarimni o‘qidingmi?|Technologie
+Passwort|das|N|ˈpasˌvɔʁt|parol|Ich habe mein Passwort vergessen.|Parolimni unutib qo‘ydim.|Technologie
+Drucker|der|N|ˈdʁʊkɐ|printer|Der Drucker hat kein Papier.|Printerda qog‘oz yo‘q.|Technologie
+Bildschirm|der|N|ˈbɪltˌʃɪʁm|ekran|Der Bildschirm ist zu dunkel.|Ekran juda qorong‘i.|Technologie
+Tastatur|die|N|tastaˈtuːɐ̯|klaviatura|Die Tastatur hat keine Umlaute.|Klaviaturada umlaut harflari yo‘q.|Technologie
+Laptop|der|N|ˈlɛptɔp|noutbuk|Ich nehme den Laptop mit.|Noutbukni o‘zim bilan olaman.|Technologie
+Programm|das|N|pʁoˈɡʁam|dastur|Das Programm ist kostenlos.|Dastur bepul.|Technologie
+Akku|der|N|ˈaku|akkumulyator|Mein Akku ist leer.|Telefonim zaryadi tugadi.|Technologie
+Kamera|die|N|ˈkaməʁa|kamera; fotoapparat|Die Kamera macht schöne Fotos.|Kamera chiroyli suratlar oladi.|Technologie
+Radio|das|N|ˈʁaːdi̯o|radio|Im Auto höre ich Radio.|Mashinada radio tinglayman.|Technologie
+Nummer|die|N|ˈnʊmɐ|raqam|Wie ist deine Telefonnummer?|Telefon raqaming qanday?|Alltag
+Termin vereinbaren||X|tɛʁˈmiːn fɛɐ̯ˈʔaɪ̯nbaːʁən|uchrashuv vaqtini belgilamoq|Ich möchte einen Termin vereinbaren.|Uchrashuv vaqtini belgilamoqchiman.|Alltag
+Meinung|die|N|ˈmaɪ̯nʊŋ|fikr|Was ist deine Meinung?|Sening fikring qanday?|Nomen
+Idee|die|N|iˈdeː|g‘oya|Das ist eine gute Idee.|Bu yaxshi g‘oya.|Nomen
+Problem|das|N|pʁoˈbleːm|muammo|Kein Problem!|Muammo yo‘q!|Nomen
+Grund|der|N|ɡʁʊnt|sabab|Was ist der Grund?|Sababi nima?|Nomen
+Hilfe|die|N|ˈhɪlfə|yordam|Danke für die Hilfe!|Yordam uchun rahmat!|Nomen
+Glück|das|N|ɡlʏk|omad; baxt|Viel Glück bei der Prüfung!|Imtihonda omad!|Nomen
+Angst|die|N|aŋst|qo‘rquv|Ich habe Angst vor Hunden.|Men itlardan qo‘rqaman.|Nomen
+Spaß|der|N|ʃpaːs|zavq; hazil|Deutsch lernen macht Spaß.|Nemis tilini o‘rganish zavqli.|Nomen
+Wunsch|der|N|vʊnʃ|istak|Hast du einen Wunsch?|Biror istaging bormi?|Nomen
+Zeit|die|N|tsaɪ̯t|vaqt|Ich habe heute keine Zeit.|Bugun vaqtim yo‘q.|Nomen
+Ende|das|N|ˈɛndə|oxir|Am Ende war alles gut.|Oxirida hammasi yaxshi bo‘ldi.|Nomen
+Anfang|der|N|ˈanfaŋ|boshlanish|Am Anfang war es schwer.|Boshida qiyin edi.|Nomen
+Teil|der|N|taɪ̯l|qism|Der erste Teil war gut.|Birinchi qismi yaxshi edi.|Nomen
+Ding|das|N|dɪŋ|narsa|Was ist das für ein Ding?|Bu qanday narsa?|Nomen
+Sache|die|N|ˈzaxə|ish; narsa|Das ist eine wichtige Sache.|Bu muhim ish.|Nomen
+Leute|die|N|ˈlɔɪ̯tə|odamlar|Viele Leute warten an der Kasse.|Kassada ko‘p odam kutyapti.|Nomen
+Mensch|der|N|mɛnʃ|inson|Er ist ein guter Mensch.|U yaxshi inson.|Nomen
+Leben|das|N|ˈleːbn̩|hayot|Das Leben in der Stadt ist teuer.|Shahardagi hayot qimmat.|Nomen
+Welt|die|N|vɛlt|dunyo|Ich möchte die Welt sehen.|Dunyoni ko‘rmoqchiman.|Nomen
+Erfolg|der|N|ɛɐ̯ˈfɔlk|muvaffaqiyat|Viel Erfolg!|Muvaffaqiyat tilayman!|Nomen
+Beispiel|das|N|ˈbaɪ̯ˌʃpiːl|misol|Gib mir bitte ein Beispiel!|Iltimos, bitta misol keltir!|Nomen
+Ergebnis|das|N|ɛɐ̯ˈɡeːpnɪs|natija|Das Ergebnis ist gut.|Natija yaxshi.|Nomen
+Information|die|N|ɪnfɔʁmaˈtsi̯oːn|ma’lumot|Ich brauche mehr Informationen.|Menga ko‘proq ma’lumot kerak.|Nomen
+Erlaubnis|die|N|ɛɐ̯ˈlaʊ̯pnɪs|ruxsat|Hast du die Erlaubnis?|Ruxsating bormi?|Nomen
+Verbot|das|N|fɛɐ̯ˈboːt|taqiq|Hier gilt ein Rauchverbot.|Bu yerda chekish taqiqlangan.|Nomen
+Ordnung|die|N|ˈɔʁdnʊŋ|tartib|Alles ist in Ordnung.|Hammasi joyida.|Nomen
+Ruhe|die|N|ˈʁuːə|tinchlik; sokinlik|Ich brauche jetzt Ruhe.|Hozir menga tinchlik kerak.|Nomen
+Lärm|der|N|lɛʁm|shovqin|Der Lärm stört mich.|Shovqin menga xalaqit beryapti.|Nomen
+Ausgang|der|N|ˈaʊ̯sˌɡaŋ|chiqish joyi|Wo ist der Ausgang?|Chiqish qayerda?|Alltag
+Eingang|der|N|ˈaɪ̯nˌɡaŋ|kirish joyi|Der Eingang ist links.|Kirish chap tomonda.|Alltag
+Schild|das|N|ʃɪlt|lavha; belgi|Was steht auf dem Schild?|Lavhada nima yozilgan?|Alltag
+Regenschirm|der|N|ˈʁeːɡn̩ˌʃɪʁm|soyabon|Nimm einen Regenschirm mit!|Soyabon olib ol!|Alltag
+Brille|die|N|ˈbʁɪlə|ko‘zoynak|Ohne Brille sehe ich nichts.|Ko‘zoynaksiz hech narsani ko‘rmayman.|Alltag
+Mantel|der|N|ˈmantl̩|palto|Im Winter trage ich einen Mantel.|Qishda palto kiyaman.|Alltag
+Pullover|der|N|pʊˈloːvɐ|sviter|Der Pullover ist warm.|Sviter issiq.|Alltag
+Rock|der|N|ʁɔk|yubka|Sie trägt einen langen Rock.|U uzun yubka kiygan.|Alltag
+Mütze|die|N|ˈmʏtsə|qalpoq; telpak|Zieh eine Mütze an, es ist kalt!|Telpak kiy, havo sovuq!|Alltag
+Handschuh|der|N|ˈhantˌʃuː|qo‘lqop|Ich habe meine Handschuhe verloren.|Qo‘lqoplarimni yo‘qotib qo‘ydim.|Alltag
+Uhrmacher|der|N|ˈuːɐ̯ˌmaxɐ|soatsoz|Der Uhrmacher repariert meine Uhr.|Soatsoz soatimni tuzatyapti.|Arbeit
+Friseur|der|N|fʁiˈzøːɐ̯|sartarosh|Ich gehe morgen zum Friseur.|Ertaga sartaroshga boraman.|Alltag
+Briefmarke|die|N|ˈbʁiːfˌmaʁkə|pochta markasi|Ich brauche eine Briefmarke.|Menga pochta markasi kerak.|Alltag
+Paket|das|N|paˈkeːt|posilka|Das Paket kommt morgen an.|Posilka ertaga yetib keladi.|Alltag
+Stadtplan|der|N|ˈʃtatˌplaːn|shahar xaritasi|Hast du einen Stadtplan?|Shahar xaritang bormi?|Reisen
+Doppelzimmer|das|N|ˈdɔpl̩ˌtsɪmɐ|ikki kishilik xona|Wir möchten ein Doppelzimmer.|Biz ikki kishilik xona istaymiz.|Reisen
+Einzelzimmer|das|N|ˈaɪ̯ntsl̩ˌtsɪmɐ|bir kishilik xona|Ein Einzelzimmer kostet sechzig Euro.|Bir kishilik xona oltmish yevro turadi.|Reisen
+Rezeption|die|N|ʁetsɛpˈtsi̯oːn|qabulxona (mehmonxona)|Der Schlüssel liegt an der Rezeption.|Kalit qabulxonada turibdi.|Reisen
+Fahrplan|der|N|ˈfaːɐ̯ˌplaːn|qatnov jadvali|Schau mal auf den Fahrplan!|Qatnov jadvaliga qarab ko‘r!|Reisen
+Verkehr|der|N|fɛɐ̯ˈkeːɐ̯|transport harakati|Am Morgen ist viel Verkehr.|Ertalab yo‘lda harakat ko‘p.|Reisen
+Stau|der|N|ʃtaʊ̯|tirbandlik|Wir stehen im Stau.|Biz tirbandlikda turibmiz.|Reisen
+Führerschein|der|N|ˈfyːʁɐˌʃaɪ̯n|haydovchilik guvohnomasi|Ich mache den Führerschein.|Haydovchilik guvohnomasini olyapman.|Reisen
+Benzin|das|N|bɛnˈtsiːn|benzin|Das Benzin ist teurer geworden.|Benzin qimmatlashdi.|Reisen
+Tankstelle|die|N|ˈtaŋkˌʃtɛlə|yoqilg‘i quyish shoxobchasi|Die nächste Tankstelle ist zehn Kilometer weit.|Eng yaqin benzin shoxobchasi o‘n kilometr uzoqda.|Reisen
+Kilometer|der|N|kiloˈmeːtɐ|kilometr|Bis Buchara sind es zweihundert Kilometer.|Buxorogacha ikki yuz kilometr.|Reisen
+Plan|der|N|plaːn|reja|Was ist dein Plan für morgen?|Ertangi rejang nima?|Nomen

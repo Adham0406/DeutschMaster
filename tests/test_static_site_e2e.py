@@ -94,7 +94,8 @@ def test_static_mode_dictionary_search_and_topics(page, site):
     page.goto(f"{site}#/dictionary")
     words = json.loads((ROOT / "data" / "words.json").read_text(encoding="utf-8"))["words"]
     page.wait_for_selector(".dict-row")
-    assert page.locator(".dict-row").count() == len(words)
+    assert page.locator(".dict-row").count() == 100  # paged
+    assert page.inner_text("#dc-count") == f"{len(words)} ta so‘z"
     assert page.locator("#dc-topic option").count() == 15  # "Barchasi" + 14 topics
     page.fill("#dc-q", "o'qituvchi")
     page.wait_for_function("() => document.querySelector('#dc-count').textContent.includes('qituvchi')")

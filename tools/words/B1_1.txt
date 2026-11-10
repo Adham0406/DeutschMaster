@@ -1,0 +1,125 @@
+# B1 — Nomen
+Alltag|der|N|ˈalˌtaːk|kundalik hayot|Sport gehört zu meinem Alltag.|Sport kundalik hayotimning bir qismi.|Alltag
+Abschluss|der|N|ˈapˌʃlʊs|tugatish; diplom|Nach dem Abschluss suche ich Arbeit.|O‘qishni tugatgach ish qidiraman.|Universität
+Absicht|die|N|ˈapˌzɪçt|niyat|Das war keine böse Absicht.|Bu yomon niyatda qilinmagan edi.|Nomen
+Ahnung|die|N|ˈaːnʊŋ|tasavvur; xabar|Ich habe keine Ahnung.|Hech qanday tasavvurim yo‘q.|Nomen
+Anzeige|die|N|ˈanˌtsaɪ̯ɡə|e’lon|Ich habe eine Anzeige in der Zeitung gelesen.|Gazetada bir e’lon o‘qidim.|Alltag
+Anmeldung|die|N|ˈanˌmɛldʊŋ|ro‘yxatdan o‘tish|Die Anmeldung ist online möglich.|Ro‘yxatdan internet orqali o‘tish mumkin.|Alltag
+Antrag|der|N|ˈanˌtʁaːk|ariza (rasmiy)|Ich stelle einen Antrag auf ein Visum.|Viza uchun ariza topshiryapman.|Alltag
+Arbeitslosigkeit|die|N|ˈaʁbaɪ̯tsloːzɪçkaɪ̯t|ishsizlik|Die Arbeitslosigkeit ist gesunken.|Ishsizlik kamaydi.|Arbeit
+Aufgabe|die|N|ˈaʊ̯fˌɡaːbə|vazifa|Das ist eine schwierige Aufgabe.|Bu qiyin vazifa.|Arbeit
+Aufmerksamkeit|die|N|ˈaʊ̯fmɛʁkzaːmkaɪ̯t|diqqat|Vielen Dank für Ihre Aufmerksamkeit!|E’tiboringiz uchun katta rahmat!|Nomen
+Ausnahme|die|N|ˈaʊ̯sˌnaːmə|istisno|Heute machen wir eine Ausnahme.|Bugun istisno qilamiz.|Nomen
+Ausstellung|die|N|ˈaʊ̯sˌʃtɛlʊŋ|ko‘rgazma|Die Ausstellung ist bis Mai geöffnet.|Ko‘rgazma maygacha ochiq.|Alltag
+Auswahl|die|N|ˈaʊ̯sˌvaːl|tanlov; assortiment|Der Laden hat eine große Auswahl.|Do‘konda tanlov katta.|Alltag
+Bedeutung|die|N|bəˈdɔɪ̯tʊŋ|ma’no; ahamiyat|Das Wort hat zwei Bedeutungen.|So‘zning ikki ma’nosi bor.|Nomen
+Bedingung|die|N|bəˈdɪŋʊŋ|shart|Unter einer Bedingung komme ich mit.|Bitta shart bilan boraman.|Nomen
+Begriff|der|N|bəˈɡʁɪf|tushuncha; atama|Diesen Begriff kenne ich nicht.|Bu atamani bilmayman.|Nomen
+Beschreibung|die|N|bəˈʃʁaɪ̯bʊŋ|tavsif|Die Beschreibung ist sehr genau.|Tavsif juda aniq.|Nomen
+Beschwerde|die|N|bəˈʃveːɐ̯də|shikoyat|Ich möchte eine Beschwerde einreichen.|Shikoyat qilmoqchiman.|Alltag
+Besitzer|der|N|bəˈzɪtsɐ|egasi (mulk)|Wer ist der Besitzer des Autos?|Mashinaning egasi kim?|Nomen
+Betrieb|der|N|bəˈtʁiːp|korxona|Der Betrieb hat fünfzig Angestellte.|Korxonada ellikta xodim ishlaydi.|Arbeit
+Bevölkerung|die|N|bəˈfœlkəʁʊŋ|aholi|Die Bevölkerung wächst schnell.|Aholi tez o‘smoqda.|Nomen
+Beweis|der|N|bəˈvaɪ̯s|dalil|Es gibt keinen Beweis.|Hech qanday dalil yo‘q.|Nomen
+Bildung|die|N|ˈbɪldʊŋ|ta’lim|Bildung ist sehr wichtig.|Ta’lim juda muhim.|Schule
+Botschaft|die|N|ˈboːtʃaft|elchixona; xabar|Ich muss zur deutschen Botschaft.|Germaniya elchixonasiga borishim kerak.|Reisen
+Bürger|der|N|ˈbʏʁɡɐ|fuqaro|Alle Bürger dürfen wählen.|Barcha fuqarolar ovoz bera oladi.|Nomen
+Dank|der|N|daŋk|minnatdorchilik|Vielen Dank für alles!|Hamma narsa uchun katta rahmat!|Nomen
+Durchschnitt|der|N|ˈdʊʁçˌʃnɪt|o‘rtacha|Im Durchschnitt schlafe ich sieben Stunden.|O‘rtacha yetti soat uxlayman.|Nomen
+Eindruck|der|N|ˈaɪ̯nˌdʁʊk|taassurot|Sie macht einen guten Eindruck.|U yaxshi taassurot qoldiradi.|Nomen
+Einkommen|das|N|ˈaɪ̯nˌkɔmən|daromad|Sein Einkommen ist gestiegen.|Uning daromadi oshdi.|Arbeit
+Einwohner|der|N|ˈaɪ̯nˌvoːnɐ|aholi vakili; yashovchi|Taschkent hat über zwei Millionen Einwohner.|Toshkentda ikki milliondan ortiq aholi yashaydi.|Nomen
+Entfernung|die|N|ɛntˈfɛʁnʊŋ|masofa|Die Entfernung beträgt zehn Kilometer.|Masofa o‘n kilometr.|Reisen
+Entscheidung|die|N|ɛntˈʃaɪ̯dʊŋ|qaror|Das war eine schwere Entscheidung.|Bu og‘ir qaror edi.|Nomen
+Ereignis|das|N|ɛɐ̯ˈʔaɪ̯ɡnɪs|voqea|Die Hochzeit war ein großes Ereignis.|To‘y katta voqea bo‘ldi.|Nomen
+Ernährungsberater|der|N|ɛɐ̯ˈnɛːʁʊŋsbəˌʁaːtɐ|parhez maslahatchisi|Der Ernährungsberater empfiehlt mehr Gemüse.|Parhez maslahatchisi ko‘proq sabzavot yeyishni tavsiya qiladi.|Gesundheit
+Erinnerung|die|N|ɛɐ̯ˈʔɪnəʁʊŋ|xotira|Das ist eine schöne Erinnerung.|Bu yoqimli xotira.|Nomen
+Erklärung|die|N|ɛɐ̯ˈklɛːʁʊŋ|tushuntirish|Danke für die Erklärung.|Tushuntirganingiz uchun rahmat.|Nomen
+Erlebnis|das|N|ɛɐ̯ˈleːpnɪs|kechinma; boshdan kechirilgan voqea|Die Reise war ein tolles Erlebnis.|Sayohat unutilmas kechinma bo‘ldi.|Nomen
+Fortschritt|der|N|ˈfɔʁtˌʃʁɪt|taraqqiyot; yutuq|Du machst große Fortschritte.|Sen katta yutuqlarga erishyapsan.|Nomen
+Fähigkeit|die|N|ˈfɛːɪçkaɪ̯t|qobiliyat|Sie hat besondere Fähigkeiten.|Uning alohida qobiliyatlari bor.|Nomen
+Fehler|der|N|ˈfeːlɐ|xato|Jeder macht Fehler.|Hamma xato qiladi.|Nomen
+Feuer|das|N|ˈfɔɪ̯ɐ|olov; yong‘in|Das Feuer brennt im Ofen.|Pechkada olov yonyapti.|Natur
+Feuerwehr|die|N|ˈfɔɪ̯ɐˌveːɐ̯|o‘t o‘chirish xizmati|Die Feuerwehr kam sehr schnell.|O‘t o‘chiruvchilar juda tez yetib keldi.|Alltag
+Gebühr|die|N|ɡəˈbyːɐ̯|to‘lov (yig‘im)|Die Gebühr beträgt zwanzig Euro.|Yig‘im yigirma yevro.|Alltag
+Geduld|die|N|ɡəˈdʊlt|sabr|Du brauchst etwas Geduld.|Senga biroz sabr kerak.|Nomen
+Gefahr|die|N|ɡəˈfaːɐ̯|xavf|Es besteht keine Gefahr.|Hech qanday xavf yo‘q.|Nomen
+Gefühl|das|N|ɡəˈfyːl|tuyg‘u|Ich habe ein gutes Gefühl.|Ko‘nglim yaxshilikni sezyapti.|Nomen
+Gegend|die|N|ˈɡeːɡn̩t|hudud; atrof|Die Gegend ist sehr ruhig.|Bu hudud juda tinch.|Nomen
+Gegenteil|das|N|ˈɡeːɡn̩ˌtaɪ̯l|teskarisi|Das Gegenteil von groß ist klein.|“Katta” so‘zining teskarisi “kichik”.|Nomen
+Gelegenheit|die|N|ɡəˈleːɡn̩haɪ̯t|qulay fursat|Das ist eine gute Gelegenheit.|Bu yaxshi fursat.|Nomen
+Gericht|das|N|ɡəˈʁɪçt|taom; sud|Plov ist ein typisches Gericht in Usbekistan.|Palov O‘zbekistonning an’anaviy taomi.|Essen
+Geschichte|die|N|ɡəˈʃɪçtə|tarix; hikoya|Ich interessiere mich für Geschichte.|Men tarixga qiziqaman.|Schule
+Gesellschaft|die|N|ɡəˈzɛlʃaft|jamiyat|Die Gesellschaft verändert sich.|Jamiyat o‘zgarmoqda.|Nomen
+Gesetz|das|N|ɡəˈzɛts|qonun|Das neue Gesetz gilt ab Januar.|Yangi qonun yanvardan kuchga kiradi.|Nomen
+Gespräch|das|N|ɡəˈʃpʁɛːç|suhbat|Das Gespräch war sehr angenehm.|Suhbat juda yoqimli bo‘ldi.|Nomen
+Gewicht|das|N|ɡəˈvɪçt|vazn|Ich möchte mein Gewicht halten.|Vaznimni saqlab qolmoqchiman.|Gesundheit
+Gewohnheit|die|N|ɡəˈvoːnhaɪ̯t|odat|Rauchen ist eine schlechte Gewohnheit.|Chekish — yomon odat.|Nomen
+Grenzkontrolle|die|N|ˈɡʁɛntskɔnˌtʁɔlə|chegara nazorati|Die Grenzkontrolle dauerte eine Stunde.|Chegara nazorati bir soat davom etdi.|Reisen
+Hälfte|die|N|ˈhɛlftə|yarmi|Die Hälfte der Studenten kommt aus dem Ausland.|Talabalarning yarmi chet eldan kelgan.|Nomen
+Handwerker|der|N|ˈhantˌvɛʁkɐ|hunarmand; usta|Der Handwerker kommt am Montag.|Usta dushanba kuni keladi.|Arbeit
+Haltung|die|N|ˈhaltʊŋ|munosabat; qaddi-qomat|Ich verstehe seine Haltung nicht.|Uning bu munosabatini tushunmayapman.|Nomen
+Hausmeister|der|N|ˈhaʊ̯sˌmaɪ̯stɐ|bino nazoratchisi|Der Hausmeister repariert das Licht.|Bino nazoratchisi chiroqni tuzatyapti.|Alltag
+Hinweis|der|N|ˈhɪnˌvaɪ̯s|ishora; ko‘rsatma|Danke für den Hinweis!|Ko‘rsatmangiz uchun rahmat!|Nomen
+Inhalt|der|N|ˈɪnˌhalt|mazmun|Der Inhalt des Buches ist spannend.|Kitobning mazmuni qiziqarli.|Nomen
+Interesse|das|N|ɪntəˈʁɛsə|qiziqish|Ich habe großes Interesse an Kunst.|San’atga katta qiziqishim bor.|Nomen
+Jugend|die|N|ˈjuːɡn̩t|yoshlik|In meiner Jugend habe ich viel Sport gemacht.|Yoshligimda sport bilan ko‘p shug‘ullanganman.|Nomen
+Kenntnis|die|N|ˈkɛntnɪs|bilim|Sie hat gute Deutschkenntnisse.|Uning nemis tilini bilish darajasi yaxshi.|Schule
+Kindheit|die|N|ˈkɪnthaɪ̯t|bolalik|Meine Kindheit war sehr schön.|Bolaligim juda yaxshi o‘tgan.|Familie
+Klima|das|N|ˈkliːma|iqlim|Das Klima in Usbekistan ist trocken.|O‘zbekiston iqlimi quruq.|Natur
+Konflikt|der|N|kɔnˈflɪkt|nizo|Wir müssen den Konflikt lösen.|Nizoni hal qilishimiz kerak.|Nomen
+Kontakt|der|N|kɔnˈtakt|aloqa|Wir bleiben in Kontakt!|Aloqada bo‘lamiz!|Nomen
+Kosten|die|N|ˈkɔstn̩|xarajatlar|Die Kosten sind zu hoch.|Xarajatlar juda katta.|Arbeit
+Kraft|die|N|kʁaft|kuch|Ich habe keine Kraft mehr.|Boshqa kuchim qolmadi.|Nomen
+Kritik|die|N|kʁiˈtiːk|tanqid|Er kann keine Kritik vertragen.|U tanqidni ko‘tara olmaydi.|Nomen
+Kultur|die|N|kʊlˈtuːɐ̯|madaniyat|Ich interessiere mich für die deutsche Kultur.|Nemis madaniyatiga qiziqaman.|Nomen
+Kunst|die|N|kʊnst|san’at|Moderne Kunst verstehe ich nicht.|Zamonaviy san’atni tushunmayman.|Nomen
+Lebensmittel|die|N|ˈleːbn̩sˌmɪtl̩|oziq-ovqat mahsulotlari|Lebensmittel sind teurer geworden.|Oziq-ovqat mahsulotlari qimmatlashdi.|Essen
+Lösung|die|N|ˈløːzʊŋ|yechim|Wir haben eine Lösung gefunden.|Biz yechim topdik.|Nomen
+Lust|die|N|lʊst|xohish; ishtiyoq|Hast du Lust auf Kino?|Kinoga borgan xohishing bormi?|Nomen
+Mehrheit|die|N|ˈmeːɐ̯haɪ̯t|ko‘pchilik|Die Mehrheit ist dafür.|Ko‘pchilik buning tarafdori.|Nomen
+Menge|die|N|ˈmɛŋə|miqdor; ko‘plik|Eine Menge Leute war da.|U yerda juda ko‘p odam bor edi.|Nomen
+Mitglied|das|N|ˈmɪtˌɡliːt|a’zo|Ich bin Mitglied in einem Sportverein.|Men sport klubi a’zosiman.|Nomen
+Mittel|das|N|ˈmɪtl̩|vosita; dori|Das ist ein gutes Mittel gegen Husten.|Bu yo‘talga qarshi yaxshi dori.|Nomen
+Mode|die|N|ˈmoːdə|moda|Sie interessiert sich für Mode.|U modaga qiziqadi.|Alltag
+Mühe|die|N|ˈmyːə|mehnat; urinish|Gib dir mehr Mühe!|Ko‘proq harakat qil!|Nomen
+Muttersprache|die|N|ˈmʊtɐˌʃpʁaːxə|ona tili|Meine Muttersprache ist Usbekisch.|Ona tilim o‘zbek tili.|Schule
+Nachteil|der|N|ˈnaːxˌtaɪ̯l|kamchilik|Das hat auch Nachteile.|Buning kamchiliklari ham bor.|Nomen
+Vorteil|der|N|ˈfoːɐ̯ˌtaɪ̯l|afzallik|Der Vorteil ist der Preis.|Afzalligi — narxi.|Nomen
+Natur|die|N|naˈtuːɐ̯|tabiat|Ich liebe die Natur.|Men tabiatni sevaman.|Natur
+Not|die|N|noːt|muhtojlik; qiyin ahvol|In der Not hilft die Familie.|Qiyin paytda oila yordam beradi.|Nomen
+Öffentlichkeit|die|N|ˈœfn̩tlɪçkaɪ̯t|jamoatchilik|Die Öffentlichkeit wurde informiert.|Jamoatchilik xabardor qilindi.|Nomen
+Partner|der|N|ˈpaʁtnɐ|sherik|Er ist mein Partner in der Firma.|U kompaniyadagi sherigim.|Arbeit
+Pflicht|die|N|pflɪçt|majburiyat|Das ist deine Pflicht.|Bu sening burching.|Nomen
+Politik|die|N|poliˈtiːk|siyosat|Ich interessiere mich nicht für Politik.|Siyosatga qiziqmayman.|Nomen
+Qualität|die|N|kvaliˈtɛːt|sifat|Die Qualität ist sehr gut.|Sifati juda yaxshi.|Nomen
+Ratschlag|der|N|ˈʁaːtˌʃlaːk|maslahat|Danke für den Ratschlag!|Maslahatingiz uchun rahmat!|Nomen
+Recht|das|N|ʁɛçt|huquq|Jeder hat das Recht auf Bildung.|Har kim ta’lim olish huquqiga ega.|Nomen
+Regel|die|N|ˈʁeːɡl̩|qoida|Das ist gegen die Regeln.|Bu qoidalarga zid.|Nomen
+Regierung|die|N|ʁeˈɡiːʁʊŋ|hukumat|Die Regierung plant neue Gesetze.|Hukumat yangi qonunlarni rejalashtiryapti.|Nomen
+Reihe|die|N|ˈʁaɪ̯ə|qator; navbat|Jetzt bist du an der Reihe.|Endi sening navbating.|Nomen
+Ruf|der|N|ʁuːf|obro‘; chaqiriq|Die Firma hat einen guten Ruf.|Kompaniyaning obro‘si yaxshi.|Nomen
+Schaden|der|N|ˈʃaːdn̩|zarar|Der Schaden ist nicht groß.|Zarar katta emas.|Nomen
+Schuld|die|N|ʃʊlt|ayb|Das ist nicht deine Schuld.|Bu sening aybing emas.|Nomen
+Sicherheit|die|N|ˈzɪçɐhaɪ̯t|xavfsizlik|Sicherheit geht vor.|Xavfsizlik birinchi o‘rinda.|Nomen
+Situation|die|N|zituaˈtsi̯oːn|vaziyat (holat)|Die Situation ist schwierig.|Ahvol og‘ir.|Nomen
+Sorge|die|N|ˈzɔʁɡə|tashvish|Mach dir keine Sorgen!|Tashvishlanma!|Nomen
+Stimmung|die|N|ˈʃtɪmʊŋ|kayfiyat|Die Stimmung auf der Party war super.|Bazmda kayfiyat zo‘r edi.|Nomen
+Streit|der|N|ʃtʁaɪ̯t|janjal|Die Kinder haben Streit.|Bolalar urishib qolishdi.|Nomen
+Teilnehmer|der|N|ˈtaɪ̯lˌneːmɐ|ishtirokchi|Jeder Teilnehmer bekommt ein Zertifikat.|Har bir ishtirokchi sertifikat oladi.|Nomen
+Tradition|die|N|tʁadiˈtsi̯oːn|an’ana|Das ist eine alte Tradition.|Bu qadimiy an’ana.|Nomen
+Unterschied|der|N|ˈʊntɐˌʃiːt|farq|Was ist der Unterschied?|Farqi nima?|Nomen
+Ursache|die|N|ˈuːɐ̯ˌzaxə|sabab (kelib chiqish)|Die Ursache ist noch unklar.|Sababi hali noma’lum.|Nomen
+Verantwortlichkeit|die|N|fɛɐ̯ˈʔantvɔʁtlɪçkaɪ̯t|javobgarlik|Die Verantwortlichkeiten sind klar verteilt.|Javobgarlik aniq taqsimlangan.|Arbeit
+Verbindung|die|N|fɛɐ̯ˈbɪndʊŋ|aloqa; ulanish|Die Verbindung ist schlecht.|Aloqa yomon.|Technologie
+Verein|der|N|fɛɐ̯ˈʔaɪ̯n|klub; jamiyat|Er spielt in einem Fußballverein.|U futbol klubida o‘ynaydi.|Alltag
+Vertrag|der|N|fɛɐ̯ˈtʁaːk|shartnoma|Ich habe den Vertrag unterschrieben.|Shartnomani imzoladim.|Arbeit
+Vertrauen|das|N|fɛɐ̯ˈtʁaʊ̯ən|ishonch|Vertrauen ist wichtig.|Ishonch muhim.|Nomen
+Verwandte|die|N|fɛɐ̯ˈvantə|qarindoshlar|Am Wochenende besuchen uns Verwandte.|Dam olish kunlari qarindoshlarimiz keladi.|Familie
+Vorschlag|der|N|ˈfoːɐ̯ˌʃlaːk|taklif (fikr)|Hast du einen besseren Vorschlag?|Yaxshiroq taklifing bormi?|Nomen
+Wahl|die|N|vaːl|saylov; tanlov|Die Wahl findet im Herbst statt.|Saylov kuzda bo‘lib o‘tadi.|Nomen
+Wirtschaft|die|N|ˈvɪʁtʃaft|iqtisodiyot|Die Wirtschaft wächst langsam.|Iqtisodiyot sekin o‘smoqda.|Arbeit
+Wissen|das|N|ˈvɪsn̩|bilim (umumiy)|Wissen ist Macht.|Bilim — kuch.|Schule
+Ziel|das|N|tsiːl|maqsad|Mein Ziel ist es, Deutsch zu sprechen.|Maqsadim — nemischa gapirish.|Nomen
+Zufall|der|N|ˈtsuːˌfal|tasodif|Was für ein Zufall!|Qanday tasodif!|Nomen
+Zustand|der|N|ˈtsuːˌʃtant|holat (ahvol)|Das Auto ist in gutem Zustand.|Mashina yaxshi holatda.|Nomen

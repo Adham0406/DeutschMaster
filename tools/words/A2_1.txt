@@ -1,0 +1,109 @@
+# A2 — Alltag, Wohnen, Einkaufen, Gesundheit
+Miete|die|N|ˈmiːtə|ijara haqi|Die Miete ist sehr hoch.|Ijara haqi juda baland.|Alltag
+Vermieter|der|N|fɛɐ̯ˈmiːtɐ|uy egasi (ijaraga beruvchi)|Der Vermieter repariert die Heizung.|Uy egasi isitish tizimini tuzatyapti.|Alltag
+Heizung|die|N|ˈhaɪ̯tsʊŋ|isitish tizimi|Die Heizung funktioniert nicht.|Isitish tizimi ishlamayapti.|Alltag
+Balkon|der|N|balˈkɔŋ|balkon|Wir frühstücken auf dem Balkon.|Biz balkonda nonushta qilamiz.|Alltag
+Treppe|die|N|ˈtʁɛpə|zina|Die Treppe ist sehr steil.|Zina juda tik.|Alltag
+Aufzug|der|N|ˈaʊ̯fˌtsuːk|lift|Der Aufzug ist leider kaputt.|Afsuski, lift buzilgan.|Alltag
+Stock|der|N|ʃtɔk|qavat|Wir wohnen im dritten Stock.|Biz uchinchi qavatda yashaymiz.|Alltag
+Möbel|die|N|ˈmøːbl̩|mebel|Die Möbel sind neu.|Mebellar yangi.|Alltag
+Teppich|der|N|ˈtɛpɪç|gilam|Der Teppich kommt aus Buchara.|Gilam Buxorodan keltirilgan.|Alltag
+Spiegel|der|N|ˈʃpiːɡl̩|ko‘zgu|Der Spiegel hängt im Flur.|Ko‘zgu dahlizda osilgan.|Alltag
+Flur|der|N|fluːɐ̯|dahliz|Die Schuhe stehen im Flur.|Tuflilar dahlizda turibdi.|Alltag
+Waschmaschine|die|N|ˈvaʃmaˌʃiːnə|kir yuvish mashinasi|Die Waschmaschine ist laut.|Kir yuvish mashinasi shovqinli.|Alltag
+Müll|der|N|mʏl|axlat|Bring bitte den Müll raus!|Iltimos, axlatni chiqarib tashla!|Alltag
+Einkauf|der|N|ˈaɪ̯nˌkaʊ̯f|xarid|Der Einkauf hat lange gedauert.|Xarid uzoq davom etdi.|Alltag
+Kasse|die|N|ˈkasə|kassa|Bitte zahlen Sie an der Kasse.|Iltimos, kassada to‘lang.|Alltag
+Quittung|die|N|ˈkvɪtʊŋ|kvitansiya; chek|Kann ich eine Quittung bekommen?|Chek olsam bo‘ladimi?|Alltag
+Angebot|das|N|ˈanɡəˌboːt|taklif; chegirmali tovar|Die Äpfel sind heute im Angebot.|Bugun olmalar chegirmada.|Alltag
+Größe|die|N|ˈɡʁøːsə|o‘lcham|Welche Größe haben Sie?|O‘lchamingiz qanday?|Alltag
+Kreditkarte|die|N|kʁeˈdiːtˌkaʁtə|kredit karta|Kann ich mit Kreditkarte zahlen?|Kredit karta bilan to‘lasam bo‘ladimi?|Alltag
+Bäckerei|die|N|bɛkəˈʁaɪ̯|novvoyxona|Die Bäckerei öffnet um sechs.|Novvoyxona soat oltida ochiladi.|Essen
+Metzgerei|die|N|mɛtsɡəˈʁaɪ̯|qassobxona|In der Metzgerei kaufe ich Fleisch.|Qassobxonadan go‘sht sotib olaman.|Essen
+Kilo|das|N|ˈkiːlo|kilogramm|Ein Kilo Tomaten, bitte!|Bir kilo pomidor, iltimos!|Essen
+Packung|die|N|ˈpakʊŋ|qadoq; paket|Ich kaufe eine Packung Reis.|Bir qadoq guruch sotib olaman.|Essen
+Rezept|das|N|ʁeˈtsɛpt|retsept|Das Rezept ist von meiner Oma.|Bu retsept buvimniki.|Essen
+Speisekarte|die|N|ˈʃpaɪ̯zəˌkaʁtə|menyu|Die Speisekarte, bitte!|Menyuni bering, iltimos!|Essen
+Nachtisch|der|N|ˈnaːxˌtɪʃ|shirinlik (ovqatdan keyin)|Zum Nachtisch gibt es Eis.|Shirinlikka muzqaymoq bor.|Essen
+Eis|das|N|aɪ̯s|muzqaymoq; muz|Im Sommer esse ich viel Eis.|Yozda ko‘p muzqaymoq yeyman.|Essen
+Pfeffer|der|N|ˈpfɛfɐ|qalampir (murch)|Die Suppe braucht mehr Pfeffer.|Sho‘rvaga ko‘proq murch kerak.|Essen
+Öl|das|N|øːl|yog‘ (o‘simlik)|Für den Plov braucht man viel Öl.|Palov uchun ko‘p yog‘ kerak.|Essen
+Mehl|das|N|meːl|un|Für den Kuchen brauche ich Mehl.|Pirog uchun un kerak.|Essen
+Huhn|das|N|huːn|tovuq|Heute gibt es Huhn mit Reis.|Bugun guruch bilan tovuq bor.|Essen
+Wurst|die|N|vʊʁst|kolbasa|Die Kinder essen gern Wurst.|Bolalar kolbasani yaxshi ko‘radi.|Essen
+Brötchen|das|N|ˈbʁøːtçən|bulochka|Zum Frühstück esse ich zwei Brötchen.|Nonushtaga ikkita bulochka yeyman.|Essen
+Mineralwasser|das|N|mineˈʁaːlˌvasɐ|mineral suv|Ein Mineralwasser ohne Kohlensäure, bitte.|Gazsiz mineral suv, iltimos.|Trinken
+Limonade|die|N|limoˈnaːdə|limonad|Die Limonade ist zu süß.|Limonad juda shirin.|Trinken
+Kanne|die|N|ˈkanə|choynak|Die Kanne Tee ist noch warm.|Choynakdagi choy hali iliq.|Trinken
+Erkältung|die|N|ɛɐ̯ˈkɛltʊŋ|shamollash|Ich habe eine starke Erkältung.|Qattiq shamollaganman.|Gesundheit
+Husten|der|N|ˈhuːstn̩|yo‘tal|Der Husten ist schlimmer geworden.|Yo‘tal kuchaydi.|Gesundheit
+Schmerz|der|N|ʃmɛʁts|og‘riq|Ich habe Schmerzen im Rücken.|Belimda og‘riq bor.|Gesundheit
+Rücken|der|N|ˈʁʏkn̩|bel; orqa|Mein Rücken tut weh.|Belim og‘riyapti.|Gesundheit
+Hals|der|N|hals|tomoq; bo‘yin|Ich habe Halsschmerzen.|Tomog‘im og‘riyapti.|Gesundheit
+Arm|der|N|aʁm|qo‘l (yelkadan pastgacha)|Er hat sich den Arm gebrochen.|U qo‘lini sindirib oldi.|Gesundheit
+Herz|das|N|hɛʁts|yurak|Das Herz schlägt schnell.|Yurak tez uryapti.|Gesundheit
+Tablette|die|N|taˈblɛtə|tabletka|Nehmen Sie zweimal täglich eine Tablette.|Kuniga ikki marta bittadan tabletka iching.|Gesundheit
+Praxis|die|N|ˈpʁaksɪs|shifokor qabulxonasi|Die Praxis ist am Mittwoch geschlossen.|Qabulxona chorshanba kuni yopiq.|Gesundheit
+Zahnarzt|der|N|ˈtsaːnˌʔaːɐ̯tst|tish shifokori|Ich muss zum Zahnarzt.|Tish shifokoriga borishim kerak.|Gesundheit
+Versicherung|die|N|fɛɐ̯ˈzɪçəʁʊŋ|sug‘urta|Die Versicherung zahlt die Behandlung.|Davolash xarajatini sug‘urta to‘laydi.|Gesundheit
+Unfall|der|N|ˈʊnfal|baxtsiz hodisa; avariya|Gestern gab es einen Unfall.|Kecha avariya bo‘ldi.|Alltag
+Notfall|der|N|ˈnoːtˌfal|favqulodda holat|Im Notfall rufen Sie 112 an.|Favqulodda holatda 112 ga qo‘ng‘iroq qiling.|Gesundheit
+Ausweis|der|N|ˈaʊ̯sˌvaɪ̯s|shaxsiy guvohnoma|Zeigen Sie bitte Ihren Ausweis.|Iltimos, guvohnomangizni ko‘rsating.|Alltag
+Formular|das|N|fɔʁmuˈlaːɐ̯|ariza shakli; blanka|Füllen Sie bitte das Formular aus.|Iltimos, blankani to‘ldiring.|Alltag
+Adresse|die|N|aˈdʁɛsə|manzil|Wie ist Ihre Adresse?|Manzilingiz qanday?|Alltag
+Unterschrift|die|N|ˈʊntɐˌʃʁɪft|imzo|Hier fehlt noch Ihre Unterschrift.|Bu yerda imzoingiz yetishmayapti.|Alltag
+Geburtsort|der|N|ɡəˈbuːɐ̯tsˌʔɔʁt|tug‘ilgan joy|Mein Geburtsort ist Fergana.|Tug‘ilgan joyim — Farg‘ona.|Alltag
+Hochzeit|die|N|ˈhɔxˌtsaɪ̯t|to‘y|Die Hochzeit ist im Juni.|To‘y iyunda bo‘ladi.|Familie
+Ehemann|der|N|ˈeːəˌman|er (turmush o‘rtog‘i)|Ihr Ehemann ist Arzt.|Uning eri shifokor.|Familie
+Ehefrau|die|N|ˈeːəˌfʁaʊ̯|xotin (turmush o‘rtog‘i)|Seine Ehefrau arbeitet als Lehrerin.|Uning xotini o‘qituvchi bo‘lib ishlaydi.|Familie
+Onkel|der|N|ˈɔŋkl̩|amaki; tog‘a|Mein Onkel wohnt in Andischan.|Amakim Andijonda yashaydi.|Familie
+Tante|die|N|ˈtantə|xola; amma|Meine Tante kocht sehr gut.|Xolam juda yaxshi ovqat pishiradi.|Familie
+Cousin|der|N|kuˈzɛ̃ː|amakivachcha; xolavachcha|Mein Cousin studiert in Taschkent.|Amakivachcham Toshkentda o‘qiydi.|Familie
+Enkel|der|N|ˈɛŋkl̩|nabira|Die Oma spielt mit ihrem Enkel.|Buvi nabirasi bilan o‘ynayapti.|Familie
+Geschwister|die|N|ɡəˈʃvɪstɐ|aka-uka va opa-singillar|Hast du Geschwister?|Aka-ukang yoki opa-singlingiz bormi?|Familie
+Gast|der|N|ɡast|mehmon|Heute Abend kommen Gäste.|Bugun kechqurun mehmonlar keladi.|Familie
+Einladung|die|N|ˈaɪ̯nˌlaːdʊŋ|taklifnoma|Danke für die Einladung!|Taklif uchun rahmat!|Alltag
+Fest|das|N|fɛst|bayram|Navruz ist ein großes Fest.|Navro‘z — katta bayram.|Alltag
+Feiertag|der|N|ˈfaɪ̯ɐˌtaːk|bayram kuni (dam olish)|Morgen ist ein Feiertag.|Ertaga bayram kuni.|Alltag
+Ferien|die|N|ˈfeːʁi̯ən|ta’til (maktab)|In den Ferien fahren wir ans Meer.|Ta’tilda dengizga boramiz.|Schule
+Freizeit|die|N|ˈfʁaɪ̯ˌtsaɪ̯t|bo‘sh vaqt|In meiner Freizeit lese ich.|Bo‘sh vaqtimda kitob o‘qiyman.|Alltag
+Spaziergang|der|N|ʃpaˈtsiːɐ̯ˌɡaŋ|sayr|Wir machen einen Spaziergang im Park.|Bog‘da sayr qilamiz.|Alltag
+Ausflug|der|N|ˈaʊ̯sˌfluːk|sayohat (bir kunlik)|Am Sonntag machen wir einen Ausflug.|Yakshanba kuni sayohatga chiqamiz.|Reisen
+Mannschaft|die|N|ˈmanʃaft|jamoa (sport)|Unsere Mannschaft hat gewonnen.|Jamoamiz g‘alaba qozondi.|Alltag
+Spiel|das|N|ʃpiːl|o‘yin|Das Spiel beginnt um acht.|O‘yin soat sakkizda boshlanadi.|Alltag
+Konzert|das|N|kɔnˈtsɛʁt|konsert|Das Konzert war fantastisch.|Konsert ajoyib bo‘ldi.|Alltag
+Museum|das|N|muˈzeːʊm|muzey|Das Museum ist montags geschlossen.|Muzey dushanba kunlari yopiq.|Reisen
+Theater|das|N|teˈaːtɐ|teatr|Wir gehen heute ins Theater.|Bugun teatrga boramiz.|Alltag
+Bild|das|N|bɪlt|rasm|Das Bild hängt an der Wand.|Rasm devorda osilib turibdi.|Alltag
+Wand|die|N|vant|devor|Die Wand ist weiß.|Devor oq.|Alltag
+Ecke|die|N|ˈɛkə|burchak|Die Bank ist an der Ecke.|Bank burchakda joylashgan.|Alltag
+Platz|der|N|plats|maydon; joy|Ist dieser Platz frei?|Bu joy bo‘shmi?|Alltag
+Brücke|die|N|ˈbʁʏkə|ko‘prik|Die Brücke ist sehr alt.|Ko‘prik juda qadimiy.|Reisen
+Kirche|die|N|ˈkɪʁçə|cherkov|Die Kirche steht im Zentrum.|Cherkov markazda joylashgan.|Reisen
+Moschee|die|N|mɔˈʃeː|masjid|In Samarkand gibt es schöne Moscheen.|Samarqandda chiroyli masjidlar bor.|Reisen
+Rathaus|das|N|ˈʁaːtˌhaʊ̯s|shahar hokimiyati|Das Rathaus ist neben dem Markt.|Hokimiyat bozor yonida.|Alltag
+Ampel|die|N|ˈampl̩|svetofor|Die Ampel ist rot.|Svetoforda qizil chiroq yonib turibdi.|Reisen
+Parkplatz|der|N|ˈpaʁkˌplats|avtoturargoh|Hier gibt es keinen Parkplatz.|Bu yerda avtoturargoh yo‘q.|Reisen
+Taxi|das|N|ˈtaksi|taksi|Wir nehmen ein Taxi zum Hotel.|Mehmonxonaga taksida boramiz.|Reisen
+U-Bahn|die|N|ˈuːˌbaːn|metro|Die U-Bahn fährt alle fünf Minuten.|Metro har besh daqiqada qatnaydi.|Reisen
+Gleis|das|N|ɡlaɪ̯s|yo‘l (poyezd platformasi)|Der Zug fährt von Gleis drei ab.|Poyezd uchinchi yo‘ldan jo‘naydi.|Reisen
+Abfahrt|die|N|ˈapˌfaːɐ̯t|jo‘nash|Die Abfahrt ist um zehn Uhr.|Jo‘nash soat o‘nda.|Reisen
+Ankunft|die|N|ˈanˌkʊnft|yetib kelish|Die Ankunft ist um zwölf Uhr.|Yetib kelish soat o‘n ikkida.|Reisen
+Reise|die|N|ˈʁaɪ̯zə|sayohat; safar|Die Reise war sehr schön.|Sayohat juda zo‘r o‘tdi.|Reisen
+Gepäck|das|N|ɡəˈpɛk|yuk; bagaj|Wo kann ich mein Gepäck abholen?|Yukimni qayerdan olsam bo‘ladi?|Reisen
+Rucksack|der|N|ˈʁʊkˌzak|ryukzak|Der Rucksack ist voll.|Ryukzak to‘la.|Reisen
+Zelt|das|N|tsɛlt|chodir|Wir schlafen im Zelt.|Biz chodirda uxlaymiz.|Reisen
+Ausland|das|N|ˈaʊ̯sˌlant|chet el|Sie arbeitet im Ausland.|U chet elda ishlaydi.|Reisen
+Grenze|die|N|ˈɡʁɛntsə|chegara|An der Grenze kontrolliert die Polizei.|Chegarada politsiya tekshiradi.|Reisen
+Strand|der|N|ʃtʁant|plyaj; sohil|Wir liegen den ganzen Tag am Strand.|Kun bo‘yi plyajda yotamiz.|Reisen
+See|der|N|zeː|ko‘l|Der See ist sehr tief.|Ko‘l juda chuqur.|Natur
+Fluss|der|N|flʊs|daryo|Der Fluss heißt Amudarja.|Daryoning nomi Amudaryo.|Natur
+Wald|der|N|valt|o‘rmon|Im Wald ist es ruhig.|O‘rmonda tinch.|Natur
+Wüste|die|N|ˈvyːstə|cho‘l; sahro|Die Wüste Kysylkum ist sehr groß.|Qizilqum sahrosi juda katta.|Natur
+Tier|das|N|tiːɐ̯|hayvon|Welches Tier magst du am liebsten?|Qaysi hayvonni eng ko‘p yoqtirasan?|Natur
+Kuh|die|N|kuː|sigir|Die Kuh gibt Milch.|Sigir sut beradi.|Natur
+Schaf|das|N|ʃaːf|qo‘y|Der Bauer hat hundert Schafe.|Dehqonning yuzta qo‘yi bor.|Natur
+Wolke|die|N|ˈvɔlkə|bulut|Am Himmel sind viele Wolken.|Osmonda bulutlar ko‘p.|Natur
+Gewitter|das|N|ɡəˈvɪtɐ|momaqaldiroq|Heute Nacht gibt es ein Gewitter.|Bu kecha momaqaldiroq bo‘ladi.|Natur
+Temperatur|die|N|tɛmpəʁaˈtuːɐ̯|harorat|Die Temperatur steigt auf dreißig Grad.|Harorat o‘ttiz darajagacha ko‘tariladi.|Natur
+Grad|der|N|ɡʁaːt|daraja (harorat)|Heute sind es zehn Grad.|Bugun o‘n daraja.|Natur

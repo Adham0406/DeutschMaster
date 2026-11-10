@@ -1,0 +1,49 @@
+# C1 — Ergänzung
+Anerkennung|die|N|ˈanʔɛɐ̯ˌkɛnʊŋ|e’tirof|Sie verdient Anerkennung für ihre Arbeit.|U mehnati uchun e’tirofga loyiq.|Nomen
+Aufenthaltsgenehmigung|die|N|ˈaʊ̯fʔɛnthaltsɡəˌneːmɪɡʊŋ|yashash uchun ruxsatnoma|Ich brauche eine Aufenthaltsgenehmigung.|Menga yashash uchun ruxsatnoma kerak.|Reisen
+Ausschreibung|die|N|ˈaʊ̯sˌʃʁaɪ̯bʊŋ|tender e’loni|Die Firma hat die Ausschreibung gewonnen.|Kompaniya tenderda g‘olib chiqdi.|Arbeit
+Befugnis|die|N|bəˈfuːknɪs|vakolat|Dazu habe ich keine Befugnis.|Bunga vakolatim yo‘q.|Arbeit
+Beschluss|der|N|bəˈʃlʊs|qaror (rasmiy)|Der Beschluss wurde einstimmig gefasst.|Qaror bir ovozdan qabul qilindi.|Nomen
+Darlehen|das|N|ˈdaːɐ̯ˌleːən|qarz (kredit)|Wir haben ein Darlehen bei der Bank aufgenommen.|Bankdan qarz oldik.|Arbeit
+Einfallsreichtum|der|N|ˈaɪ̯nfalsˌʁaɪ̯çtuːm|topqirlik|Ihr Einfallsreichtum ist beeindruckend.|Uning topqirligi hayratlanarli.|Nomen
+Entfremdung|die|N|ɛntˈfʁɛmdʊŋ|begonalashuv|Die Entfremdung zwischen den Generationen wächst.|Avlodlar o‘rtasidagi begonalashuv kuchaymoqda.|Familie
+Fachausdruck|der|N|ˈfaxˌʔaʊ̯sdʁʊk|termin (mutaxassislik)|Diesen Fachausdruck kenne ich nicht.|Bu terminni bilmayman.|Schule
+Gewissenhaftigkeit|die|N|ɡəˈvɪsn̩haftɪçkaɪ̯t|vijdonlilik (mas’uliyatlilik)|Gewissenhaftigkeit wird hier geschätzt.|Bu yerda vijdonan ishlash qadrlanadi.|Arbeit
+Haftung|die|N|ˈhaftʊŋ|javobgarlik (huquqiy)|Für Schäden übernehmen wir keine Haftung.|Zararlar uchun javobgarlikni o‘z zimmamizga olmaymiz.|Arbeit
+Kündigungsschutz|der|N|ˈkʏndɪɡʊŋsˌʃʊts|ishdan asossiz bo‘shatishdan himoya|Schwangere Frauen haben besonderen Kündigungsschutz.|Homilador ayollar ishdan bo‘shatishdan alohida himoyalangan.|Arbeit
+Lebensgefährte|der|N|ˈleːbn̩sɡəˌfɛːɐ̯tə|hayot yo‘ldoshi (nikohsiz)|Sie wohnt mit ihrem Lebensgefährten zusammen.|U hayot yo‘ldoshi bilan birga yashaydi.|Familie
+Machtmissbrauch|der|N|ˈmaxtˌmɪsbʁaʊ̯x|hokimiyatni suiiste’mol qilish|Machtmissbrauch muss bestraft werden.|Hokimiyatni suiiste’mol qilish jazolanishi kerak.|Nomen
+Pflegeheim|das|N|ˈpfleːɡəˌhaɪ̯m|qariyalar uyi|Ihre Großmutter lebt in einem Pflegeheim.|Uning buvisi qariyalar uyida yashaydi.|Gesundheit
+Rehabilitation|die|N|ʁehabilitaˈtsi̯oːn|reabilitatsiya|Nach der Operation folgt eine Rehabilitation.|Operatsiyadan keyin reabilitatsiya bo‘ladi.|Gesundheit
+Sachlage|die|N|ˈzaxˌlaːɡə|ish holati (faktlar)|Die Sachlage ist eindeutig.|Ish holati aniq.|Nomen
+Selbstverwirklichung|die|N|ˈzɛlpstfɛɐ̯ˌvɪʁklɪçʊŋ|o‘zini namoyon qilish|Für viele ist Arbeit eine Form der Selbstverwirklichung.|Ko‘pchilik uchun ish — o‘zini namoyon qilish shakli.|Nomen
+Teilzeit|die|N|ˈtaɪ̯lˌtsaɪ̯t|to‘liqsiz ish kuni|Sie arbeitet in Teilzeit.|U to‘liqsiz ish kunida ishlaydi.|Arbeit
+Tragweite|die|N|ˈtʁaːkˌvaɪ̯tə|ahamiyati (oqibatlar ko‘lami)|Die Tragweite der Entscheidung ist enorm.|Qarorning oqibatlari ko‘lami ulkan.|Nomen
+Umschulung|die|N|ˈʊmˌʃuːlʊŋ|qayta tayyorlash (kasb)|Er macht eine Umschulung zum Programmierer.|U dasturchi bo‘lish uchun qayta tayyorlovdan o‘tyapti.|Arbeit
+Verbindlichkeit|die|N|fɛɐ̯ˈbɪntlɪçkaɪ̯t|majburiylik; qarzdorlik|Die Firma hat hohe Verbindlichkeiten.|Kompaniyaning qarzlari katta.|Arbeit
+Wahlrecht|das|N|ˈvaːlˌʁɛçt|saylov huquqi|Das Wahlrecht gilt ab achtzehn.|Saylov huquqi o‘n sakkiz yoshdan beriladi.|Nomen
+Wohlwollen|das|N|ˈvoːlˌvɔlən|xayrixohlik|Er hat sich das Wohlwollen seines Chefs erarbeitet.|U boshlig‘ining xayrixohligini qozondi.|Nomen
+Zeitverschwendung|die|N|ˈtsaɪ̯tfɛɐ̯ˌʃvɛndʊŋ|vaqtni behuda sarflash|Das Meeting war reine Zeitverschwendung.|Yig‘ilish vaqtni behuda sarflash bo‘ldi.|Nomen
+Zivilcourage|die|N|tsiˈviːlkuˌʁaːʒə|fuqarolik jasorati|Zivilcourage ist in solchen Situationen wichtig.|Bunday vaziyatlarda fuqarolik jasorati muhim.|Nomen
+Zuständigkeit|die|N|ˈtsuːˌʃtɛndɪçkaɪ̯t|vakolat doirasi|Das liegt nicht in meiner Zuständigkeit.|Bu mening vakolatim doirasiga kirmaydi.|Arbeit
+anprangern||V|ˈanˌpʁaŋɐn|qoralamoq (ommaviy)|Die Zeitung prangert die Korruption an.|Gazeta korrupsiyani qoralaydi.|Verben
+appellieren||V|apɛˈliːʁən|chaqiriq qilmoq|Der Präsident appelliert an die Vernunft der Bürger.|Prezident fuqarolarni aql-idrokka chaqirdi.|Verben
+ausschöpfen||V|ˈaʊ̯sˌʃœpfn̩|to‘liq foydalanmoq (imkoniyatdan)|Wir haben alle Möglichkeiten ausgeschöpft.|Barcha imkoniyatlardan to‘liq foydalandik.|Verben
+bekräftigen||V|bəˈkʁɛftɪɡn̩|qayta tasdiqlamoq|Die Minister bekräftigten ihre Zusammenarbeit.|Vazirlar hamkorlikni yana bir bor tasdiqladi.|Verben
+beschönigen||V|bəˈʃøːnɪɡn̩|bo‘yab ko‘rsatmoq|Man sollte die Lage nicht beschönigen.|Vaziyatni bo‘yab ko‘rsatmaslik kerak.|Verben
+eindämmen||V|ˈaɪ̯nˌdɛmən|cheklab qo‘ymoq (tarqalishini)|Man versucht, die Epidemie einzudämmen.|Epidemiyaning tarqalishini cheklashga urinishmoqda.|Gesundheit
+entgegenwirken||V|ɛntˈɡeːɡn̩ˌvɪʁkn̩|qarshi turmoq|Wir müssen dem Fachkräftemangel entgegenwirken.|Kadrlar tanqisligiga qarshi kurashishimiz kerak.|Verben
+erwägen||V|ɛɐ̯ˈvɛːɡn̩|ko‘rib chiqmoq (imkoniyat sifatida)|Wir erwägen einen Umzug nach München.|Myunxenga ko‘chishni o‘ylab ko‘ryapmiz.|Verben
+gegenüberstellen||V|ˌɡeːɡn̩ˈʔyːbɐˌʃtɛlən|qiyoslamoq|Der Autor stellt beide Theorien gegenüber.|Muallif ikkala nazariyani qiyoslaydi.|Universität
+hervorrufen||V|hɛɐ̯ˈfoːɐ̯ˌʁuːfn̩|uyg‘otmoq (his); keltirib chiqarmoq|Das Medikament kann Allergien hervorrufen.|Dori allergiya keltirib chiqarishi mumkin.|Verben
+sich bewähren||V|zɪç bəˈvɛːʁən|o‘zini oqlamoq|Die Methode hat sich bewährt.|Usul o‘zini oqladi.|Verben
+sich etablieren||V|zɪç etaˈbliːʁən|mustahkam o‘rin egallamoq|Die Marke hat sich auf dem Markt etabliert.|Brend bozorda o‘z o‘rnini egalladi.|Verben
+überschätzen||V|ˌyːbɐˈʃɛtsn̩|ortiqcha baholamoq|Man sollte sich nicht überschätzen.|O‘zingni ortiqcha baholamasliging kerak.|Verben
+unterschätzen||V|ˌʊntɐˈʃɛtsn̩|yetarlicha baholamaslik|Unterschätze die Gefahr nicht!|Xavfni yengil sanama!|Verben
+vereinbaren||V|fɛɐ̯ˈʔaɪ̯nbaːʁən|kelishib olmoq|Wir haben einen Termin vereinbart.|Uchrashuv vaqtini kelishib oldik.|Verben
+verzeichnen||V|fɛɐ̯ˈtsaɪ̯çnən|qayd etmoq (natija)|Die Firma verzeichnet ein starkes Wachstum.|Kompaniya kuchli o‘sishni qayd etmoqda.|Arbeit
+zuspitzen||V|ˈtsuːˌʃpɪtsn̩|keskinlashmoq|Die Lage hat sich zugespitzt.|Vaziyat keskinlashdi.|Verben
+belastbar||A|bəˈlastbaːɐ̯|bosimga chidamli|Für diese Stelle muss man belastbar sein.|Bu lavozim uchun bosimga chidamli bo‘lish kerak.|Arbeit
+eigenwillig||A|ˈaɪ̯ɡn̩ˌvɪlɪç|o‘ziga xos (o‘jar)|Er hat einen eigenwilligen Stil.|Uning o‘ziga xos uslubi bor.|Adjektive
+gesellschaftlich||A|ɡəˈzɛlʃaftlɪç|ijtimoiy (jamiyatga oid)|Das ist ein gesellschaftliches Problem.|Bu ijtimoiy muammo.|Adjektive
+tiefgreifend||A|ˈtiːfˌɡʁaɪ̯fn̩t|chuqur (tub)|Das Land erlebt tiefgreifende Veränderungen.|Mamlakat tub o‘zgarishlarni boshdan kechirmoqda.|Adjektive

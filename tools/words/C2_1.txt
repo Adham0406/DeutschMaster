@@ -1,0 +1,83 @@
+# C2 — Nomen
+Ambition|die|N|ambiˈtsi̯oːn|ulkan intilish (shuhrat istagi)|Ihm fehlt jede Ambition.|Unda hech qanday intilish yo‘q.|Nomen
+Anmaßung|die|N|ˈanˌmaːsʊŋ|surbetlik (o‘zini haddan oshirish)|Das ist eine unerhörte Anmaßung!|Bu eshitilmagan surbetlik!|Nomen
+Antagonismus|der|N|antaɡoˈnɪsmʊs|murosasiz ziddiyat|Der Antagonismus zwischen den Parteien wächst.|Partiyalar o‘rtasidagi murosasiz ziddiyat kuchaymoqda.|Nomen
+Ausflüchte|die|N|ˈaʊ̯sˌflʏçtə|bahonalar (qochish uchun)|Ich will keine Ausflüchte hören.|Bahonalarni eshitishni xohlamayman.|Nomen
+Ausgewogenheit|die|N|ˈaʊ̯sɡəˌvoːɡn̩haɪ̯t|muvozanatlilik|Der Bericht zeichnet sich durch Ausgewogenheit aus.|Hisobot muvozanatliligi bilan ajralib turadi.|Nomen
+Bagatelle|die|N|baɡaˈtɛlə|arzimas narsa|Für ihn ist das nur eine Bagatelle.|Uning uchun bu arzimas narsa.|Nomen
+Behäbigkeit|die|N|bəˈhɛːbɪçkaɪ̯t|sustkashlik|Die Behäbigkeit der Verwaltung ist bekannt.|Ma’muriyatning sustkashligi hammaga ma’lum.|Nomen
+Beigeschmack|der|N|ˈbaɪ̯ɡəˌʃmak|yoqimsiz ta’m (ma’noviy)|Der Sieg hat einen bitteren Beigeschmack.|G‘alaba achchiq ta’m qoldirdi.|Nomen
+Besonnenheit|die|N|bəˈzɔnənhaɪ̯t|vazminlik (aql bilan ish tutish)|In der Krise bewies sie Besonnenheit.|Inqiroz paytida u vazminlik ko‘rsatdi.|Nomen
+Bevormundung|die|N|bəˈfoːɐ̯mʊndʊŋ|vasiylik qilish (erkinlikni cheklash)|Die Bürger wehren sich gegen staatliche Bevormundung.|Fuqarolar davlatning ortiqcha vasiyligiga qarshi.|Nomen
+Binsenweisheit|die|N|ˈbɪnzn̩ˌvaɪ̯shaɪ̯t|hammaga ma’lum haqiqat|Dass Rauchen schadet, ist eine Binsenweisheit.|Chekish zararli ekani hammaga ma’lum haqiqat.|Nomen
+Dilemma|das|N|diˈlɛma|qaltis tanlov (dilemma)|Wir stehen vor einem echten Dilemma.|Biz haqiqiy dilemma oldida turibmiz.|Nomen
+Duktus|der|N|ˈdʊktʊs|uslub (yozish ohangi)|Der Duktus des Textes ist sehr förmlich.|Matn uslubi juda rasmiy.|Nomen
+Eigendynamik|die|N|ˈaɪ̯ɡn̩dyˌnaːmɪk|o‘z-o‘zidan rivojlanib ketish|Der Konflikt entwickelte eine Eigendynamik.|Ziddiyat o‘z-o‘zidan avj olib ketdi.|Nomen
+Eitelkeit|die|N|ˈaɪ̯tl̩kaɪ̯t|kibr; manmanlik|Seine Eitelkeit ist unerträglich.|Uning manmanligiga chidab bo‘lmaydi.|Nomen
+Engstirnigkeit|die|N|ˈɛŋˌʃtɪʁnɪçkaɪ̯t|tor fikrlilik|Engstirnigkeit verhindert Fortschritt.|Tor fikrlilik taraqqiyotga to‘sqinlik qiladi.|Nomen
+Erbitterung|die|N|ɛɐ̯ˈbɪtəʁʊŋ|qattiq g‘azab (alam)|Mit Erbitterung kämpften sie weiter.|Ular alam bilan kurashni davom ettirishdi.|Nomen
+Erosion|die|N|eʁoˈzi̯oːn|yemirilish (eroziya)|Die Erosion des Vertrauens ist gefährlich.|Ishonchning yemirilishi xavfli.|Nomen
+Fauxpas|der|N|foˈpa|nojo‘ya xatti-harakat|Das war ein peinlicher Fauxpas.|Bu uyatli nojo‘ya xatti-harakat edi.|Nomen
+Feingefühl|das|N|ˈfaɪ̯nɡəˌfyːl|nozik did; ehtiyotkorlik (muomalada)|Das Thema erfordert viel Feingefühl.|Bu mavzu katta nozik his talab qiladi.|Nomen
+Fehlschlag|der|N|ˈfeːlˌʃlaːk|muvaffaqiyatsizlik|Das Experiment war ein Fehlschlag.|Tajriba muvaffaqiyatsiz chiqdi.|Nomen
+Geflecht|das|N|ɡəˈflɛçt|chigal tarmoq|Ein Geflecht aus Interessen bestimmt die Politik.|Siyosatni manfaatlarning chigal tarmog‘i belgilaydi.|Nomen
+Gemengelage|die|N|ɡəˈmɛŋəˌlaːɡə|chigal vaziyat|Die politische Gemengelage ist unübersichtlich.|Siyosiy vaziyat chigal va noaniq.|Nomen
+Gepräge|das|N|ɡəˈpʁɛːɡə|o‘ziga xos qiyofa|Die Altstadt hat ein mittelalterliches Gepräge.|Eski shahar o‘rta asrlarga xos qiyofaga ega.|Nomen
+Gesinnung|die|N|ɡəˈzɪnʊŋ|dunyoqarash (e’tiqod)|Seine politische Gesinnung ist bekannt.|Uning siyosiy qarashlari ma’lum.|Nomen
+Habgier|die|N|ˈhaːpˌɡiːɐ̯|ochko‘zlik|Habgier zerstört Freundschaften.|Ochko‘zlik do‘stlikni buzadi.|Nomen
+Hemmschwelle|die|N|ˈhɛmˌʃvɛlə|ichki to‘siq (tortinish chegarasi)|Im Internet sinkt die Hemmschwelle.|Internetda tortinish chegarasi pasayadi.|Nomen
+Hingabe|die|N|ˈhɪnˌɡaːbə|fidoyilik (berilish)|Sie pflegt ihre Mutter mit großer Hingabe.|U onasini katta fidoyilik bilan parvarish qiladi.|Nomen
+Hochmut|der|N|ˈhoːxˌmuːt|takabburlik|Hochmut kommt vor dem Fall.|Takabburlik yiqilishdan oldin keladi.|Nomen
+Indiz|das|N|ɪnˈdiːts|bilvosita dalil|Es gibt mehrere Indizien für seine Schuld.|Uning aybiga bir nechta bilvosita dalil bor.|Nomen
+Inbegriff|der|N|ˈɪnbəˌɡʁɪf|timsol|Er ist der Inbegriff der Eleganz.|U nafislik timsoli.|Nomen
+Kalkül|das|N|kalˈkyːl|hisob-kitob (yashirin maqsad)|Hinter der Entscheidung steckt politisches Kalkül.|Qaror ortida siyosiy hisob-kitob yotadi.|Nomen
+Kehrseite|die|N|ˈkeːɐ̯ˌzaɪ̯tə|teskari tomoni|Das ist die Kehrseite des Erfolgs.|Bu muvaffaqiyatning teskari tomoni.|Nomen
+Klischee|das|N|kliˈʃeː|qolip (stereotip)|Das Buch ist voller Klischees.|Kitob qoliplarga to‘la.|Nomen
+Kompetenzgerangel|das|N|kɔmpeˈtɛntsɡəˌʁaŋl̩|vakolat talashuvi|Das Kompetenzgerangel zwischen den Behörden verzögert alles.|Idoralar o‘rtasidagi vakolat talashuvi hamma narsani kechiktiradi.|Arbeit
+Lapsus|der|N|ˈlapsʊs|tasodifiy xato (til tutilishi)|Das war nur ein kleiner Lapsus.|Bu shunchaki kichik til tutilishi edi.|Nomen
+Leitmotiv|das|N|ˈlaɪ̯tmoˌtiːf|yetakchi g‘oya|Freiheit ist das Leitmotiv des Romans.|Erkinlik — romanning yetakchi g‘oyasi.|Nomen
+Missgunst|die|N|ˈmɪsˌɡʊnst|hasad (ko‘rolmaslik)|Er begegnet ihr mit Missgunst.|U unga hasad bilan qaraydi.|Nomen
+Mitgefühl|das|N|ˈmɪtɡəˌfyːl|hamdardlik|Ich habe großes Mitgefühl mit den Opfern.|Jabrlanganlarga chuqur hamdardlik bildiraman.|Nomen
+Nachsicht|die|N|ˈnaːxˌzɪçt|kechirimlilik (yumshoqlik)|Ich bitte um Nachsicht.|Kechirimli bo‘lishingizni so‘rayman.|Nomen
+Nuance|die|N|nyˈɑ̃ːsə|nozik farq|Die Nuancen der Sprache sind schwer zu lernen.|Tilning nozik farqlarini o‘rganish qiyin.|Nomen
+Ohnmacht|die|N|ˈoːnˌmaxt|ojizlik; hushdan ketish|Sie fiel in Ohnmacht.|U hushidan ketdi.|Nomen
+Pendant|das|N|pɑ̃ˈdɑ̃ː|muqobili (juftlik)|Das deutsche Pendant zu diesem Wort fehlt.|Bu so‘zning nemischa muqobili yo‘q.|Nomen
+Prämisse|die|N|pʁɛˈmɪsə|dastlabki shart (asos)|Die Prämisse der Studie ist fragwürdig.|Tadqiqotning dastlabki asosi shubhali.|Universität
+Quintessenz|die|N|ˈkvɪntʔɛˌsɛnts|mohiyat (asosiy mazmun)|Die Quintessenz seiner Rede war einfach.|Uning nutqining mohiyati oddiy edi.|Nomen
+Rückhalt|der|N|ˈʁʏkˌhalt|tayanch; qo‘llab-quvvatlash|Die Familie gibt mir Rückhalt.|Oila menga tayanch bo‘ladi.|Familie
+Schikane|die|N|ʃiˈkaːnə|ataylab qiynash|Die neuen Vorschriften sind reine Schikane.|Yangi qoidalar shunchaki qiynash uchun o‘ylab topilgan.|Nomen
+Schlagfertigkeit|die|N|ˈʃlaːkˌfɛʁtɪçkaɪ̯t|hozirjavoblik|Ihre Schlagfertigkeit ist legendär.|Uning hozirjavobligi afsonaviy.|Nomen
+Scheinheiligkeit|die|N|ˈʃaɪ̯nˌhaɪ̯lɪçkaɪ̯t|ikkiyuzlamachilik|Diese Scheinheiligkeit ärgert mich.|Bu ikkiyuzlamachilik meni g‘azablantiradi.|Nomen
+Schwermut|die|N|ˈʃveːɐ̯ˌmuːt|chuqur g‘amginlik|Eine tiefe Schwermut lag über ihm.|Uni chuqur g‘amginlik qamrab olgan edi.|Nomen
+Spitzfindigkeit|die|N|ˈʃpɪtsˌfɪndɪçkaɪ̯t|mayda-chuyda bahsbozlik|Das sind juristische Spitzfindigkeiten.|Bu huquqiy mayda bahslar.|Nomen
+Stegreif|der|N|ˈʃteːkˌʁaɪ̯f|tayyorgarliksiz (ekspromt)|Er hielt die Rede aus dem Stegreif.|U nutqni tayyorgarliksiz so‘zladi.|Nomen
+Streitkultur|die|N|ˈʃtʁaɪ̯tkʊlˌtuːɐ̯|bahslashish madaniyati|Eine gute Streitkultur ist wichtig für die Demokratie.|Yaxshi bahs madaniyati demokratiya uchun muhim.|Nomen
+Tatendrang|der|N|ˈtaːtn̩ˌdʁaŋ|ishga chanqoqlik|Nach dem Urlaub bin ich voller Tatendrang.|Ta’tildan keyin ishga chanqoqman.|Nomen
+Tragödie|die|N|tʁaˈɡøːdi̯ə|fojia|Der Unfall war eine Tragödie.|Avariya fojia bo‘ldi.|Nomen
+Trugschluss|der|N|ˈtʁuːkˌʃlʊs|noto‘g‘ri xulosa (aldamchi)|Es ist ein Trugschluss zu glauben, Geld mache glücklich.|Pul baxt keltiradi deb o‘ylash — aldamchi xulosa.|Nomen
+Übermut|der|N|ˈyːbɐˌmuːt|haddan oshgan sho‘xlik|Aus Übermut sprang er ins kalte Wasser.|Sho‘xligi tutib, u sovuq suvga sakradi.|Nomen
+Unbehagen|das|N|ˈʊnbəˌhaːɡn̩|noqulaylik hissi|Der Gedanke bereitet mir Unbehagen.|Bu fikr menda noqulaylik uyg‘otadi.|Nomen
+Ungereimtheit|die|N|ˈʊnɡəˌʁaɪ̯mthaɪ̯t|nomuvofiq jihat|Im Bericht gibt es einige Ungereimtheiten.|Hisobotda ayrim nomuvofiqliklar bor.|Nomen
+Unzulänglichkeit|die|N|ˈʊntsuˌlɛŋlɪçkaɪ̯t|yetarli emaslik (nuqson)|Die Unzulänglichkeiten des Systems sind offensichtlich.|Tizimning nuqsonlari yaqqol ko‘rinib turibdi.|Nomen
+Verdrossenheit|die|N|fɛɐ̯ˈdʁɔsn̩haɪ̯t|hafsalasizlik|Die Politikverdrossenheit nimmt zu.|Siyosatdan hafsalasi pir bo‘lish ortmoqda.|Nomen
+Verfehlung|die|N|fɛɐ̯ˈfeːlʊŋ|qoidabuzarlik (gunoh)|Er musste für seine Verfehlungen büßen.|U o‘z xatolari uchun javob berishiga to‘g‘ri keldi.|Nomen
+Vergänglichkeit|die|N|fɛɐ̯ˈɡɛŋlɪçkaɪ̯t|o‘tkinchilik|Das Gedicht handelt von der Vergänglichkeit.|She’r o‘tkinchilik haqida.|Nomen
+Verhängnis|das|N|fɛɐ̯ˈhɛŋnɪs|halokatli taqdir|Sein Stolz wurde ihm zum Verhängnis.|Uning g‘ururi uning halokatiga sabab bo‘ldi.|Nomen
+Vorwand|der|N|ˈfoːɐ̯ˌvant|bahona (soxta sabab)|Er benutzte die Krankheit als Vorwand.|U kasallikni bahona qildi.|Nomen
+Weitblick|der|N|ˈvaɪ̯tˌblɪk|uzoqni ko‘rish qobiliyati|Die Gründerin bewies großen Weitblick.|Asoschi ayol uzoqni ko‘ra bilishini isbotladi.|Nomen
+Wermutstropfen|der|N|ˈveːɐ̯muːtsˌtʁɔpfn̩|quvonchga qo‘shilgan achchiq tomchi|Der einzige Wermutstropfen war das Wetter.|Yagona achchiq tomoni ob-havo edi.|Nomen
+Willkür|die|N|ˈvɪlˌkyːɐ̯|o‘zboshimchalik|Die Bürger litten unter der Willkür der Beamten.|Fuqarolar amaldorlarning o‘zboshimchaligidan aziyat chekdi.|Nomen
+Zerrissenheit|die|N|tsɛɐ̯ˈʁɪsn̩haɪ̯t|ichki parchalanganlik|Der Roman beschreibt die innere Zerrissenheit des Helden.|Roman qahramonning ichki parchalanganligini tasvirlaydi.|Nomen
+Zugeständnis|das|N|ˈtsuːɡəˌʃtɛntnɪs|yon berish (konsessiya)|Beide Seiten mussten Zugeständnisse machen.|Ikkala tomon ham yon berishga majbur bo‘ldi.|Nomen
+Zwickmühle|die|N|ˈtsvɪkˌmyːlə|qopqon (qaltis ahvol)|Ich stecke in einer Zwickmühle.|Men qaltis ahvolda qoldim.|Nomen
+Ehrenamt|das|N|ˈeːʁənˌʔamt|ko‘ngilli xizmat|Sie ist im Ehrenamt sehr engagiert.|U ko‘ngilli xizmatda juda faol.|Arbeit
+Fluktuation|die|N|flʊktu̯aˈtsi̯oːn|kadrlar qo‘nimsizligi|Die Fluktuation in der Firma ist hoch.|Kompaniyada kadrlar qo‘nimsizligi yuqori.|Arbeit
+Insolvenz|die|N|ɪnzɔlˈvɛnts|bankrotlik|Das Unternehmen hat Insolvenz angemeldet.|Kompaniya bankrot deb e’lon qilindi.|Arbeit
+Vetternwirtschaft|die|N|ˈfɛtɐnˌvɪʁtʃaft|qarindosh-urug‘chilik (nepotizm)|Vetternwirtschaft schadet dem Unternehmen.|Qarindosh-urug‘chilik kompaniyaga zarar keltiradi.|Arbeit
+Abfindung|die|N|ˈapˌfɪndʊŋ|ishdan bo‘shatishdagi kompensatsiya|Er bekam eine hohe Abfindung.|U katta kompensatsiya oldi.|Arbeit
+Habilitation|die|N|habilitaˈtsi̯oːn|habilitatsiya (professorlik ilmiy darajasi)|Nach der Habilitation wurde sie Professorin.|Habilitatsiyadan so‘ng u professor bo‘ldi.|Universität
+Kolloquium|das|N|kɔˈloːkvi̯ʊm|ilmiy kollokvium|Das Kolloquium findet im Hörsaal statt.|Kollokvium auditoriyada bo‘lib o‘tadi.|Universität
+Plagiat|das|N|plaˈɡi̯aːt|plagiat|Die Arbeit wurde als Plagiat entlarvt.|Ish plagiat ekani fosh etildi.|Universität
+Lehrauftrag|der|N|ˈleːɐ̯ˌʔaʊ̯ftʁaːk|o‘qitish topshirig‘i|Er hat einen Lehrauftrag an der Universität.|U universitetda dars berish topshirig‘iga ega.|Universität
+Bildungsbürgertum|das|N|ˈbɪldʊŋsˌbʏʁɡɐtuːm|ma’rifatli ziyolilar qatlami|Das Theater war ein Ort des Bildungsbürgertums.|Teatr ziyolilar qatlamining makoni edi.|Schule
+Frühförderung|die|N|ˈfʁyːˌfœʁdəʁʊŋ|erta rivojlantirish|Frühförderung hilft Kindern mit Lernschwierigkeiten.|Erta rivojlantirish o‘qishda qiynaladigan bolalarga yordam beradi.|Schule

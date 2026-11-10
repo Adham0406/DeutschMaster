@@ -16,7 +16,8 @@ export default {
   title: "Lug‘at",
   subtitle: "Nemischa va o‘zbekcha qidiruv, talaffuz va misollar",
   render(view, ctx) {
-    const state = { q: ctx.params.q || "", lang: "all", level: "", topic: "", results: ctx.words, open: new Set(), offline: false };
+    const PAGE = 100; // rows rendered at a time; 2000+ rows at once makes the page sluggish on phones
+    const state = { q: ctx.params.q || "", lang: "all", level: "", topic: "", results: ctx.words, open: new Set(), offline: false, shown: PAGE };
     let timer = null, seq = 0;
 
     view.innerHTML = `<div class="page-head"><div><h2>Lug‘at</h2><p>${ctx.words.length} ta so‘z · A1–C2</p></div></div>
@@ -58,17 +59,20 @@ export default {
         return;
       }
       const learned = getState().learned;
-      $("#dc-results").innerHTML = list.slice(0, 200).map((w) => `<div class="dict-row ${state.open.has(w.id) ? "open" : ""}" data-row="${w.id}">
+      const rest = list.length - state.shown;
+      const more = rest > 0 ? `<div class="flash-controls"><button class="btn" data-more>${icon("chevrons-down")} Yana ko‘rsatish (${rest} ta qoldi)</button></div>` : "";
+      $("#dc-results").innerHTML = list.slice(0, state.shown).map((w) => `<div class="dict-row ${state.open.has(w.id) ? "open" : ""}" data-row="${w.id}">
         <button class="dict-summary" aria-expanded="${state.open.has(w.id)}"><span class="de">${germanHtml(w)}</span><span class="uz">${esc(w.uzbek)}</span>
           ${learned[w.id] ? `<span class="badge green">${icon("check")}</span>` : ""}${levelBadge(w.level)}${icon("chevron-down").replace("<i", '<i class="chev"')}</button>
         <div class="dict-detail"><div class="row between"><span class="word-ipa">${esc(w.pronunciation)}</span><div class="row">${speakButton(w)}${favButton(w)}</div></div>
           <div class="mt">${exampleHtml(w)}</div>
-          <div class="word-meta mt"><span class="badge">${esc(w.topic)}</span><span class="badge">${esc(w.part_of_speech)}</span></div></div></div>`).join("");
+          <div class="word-meta mt"><span class="badge">${esc(w.topic)}</span><span class="badge">${esc(w.part_of_speech)}</span></div></div></div>`).join("") + more;
       icons($("#dc-results"));
     }
 
     async function runSearch() {
       const mySeq = ++seq;
+      state.shown = PAGE;
       const { q, lang, level, topic } = state;
       if (!q.trim()) {
         state.results = ctx.words.filter((w) => (!level || w.level === level) && (!topic || w.topic === topic));
@@ -91,6 +95,7 @@ export default {
     $("#dc-q").addEventListener("input", (e) => { state.q = e.target.value; clearTimeout(timer); timer = setTimeout(runSearch, 220); });
     ["lang", "level", "topic"].forEach((k) => $(`#dc-${k}`).addEventListener("change", (e) => { state[k] = e.target.value; runSearch(); }));
     $("#dc-results").addEventListener("click", (e) => {
+      if (e.target.closest("[data-more]")) { state.shown += PAGE; renderResults(); return; }
       if (e.target.closest("[data-action]")) return;
       const row = e.target.closest("[data-row]");
       if (!row || !e.target.closest(".dict-summary")) return;

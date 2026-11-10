@@ -1,0 +1,54 @@
+# C2 — Ergänzung: Redewendungen und gehobener Wortschatz
+Achillesferse|die|N|aˈxɪlɛsˌfɛʁzə|zaif nuqta (Axillesning tovoni)|Die Bürokratie ist die Achillesferse des Systems.|Byurokratiya — tizimning zaif nuqtasi.|Nomen
+Augenwischerei|die|N|ˈaʊ̯ɡn̩vɪʃəˌʁaɪ̯|ko‘zbo‘yamachilik|Die Reform ist reine Augenwischerei.|Islohot shunchaki ko‘zbo‘yamachilik.|Nomen
+Bärendienst|der|N|ˈbɛːʁənˌdiːnst|ayiq xizmati (zararli yordam)|Mit seiner Hilfe hat er uns einen Bärendienst erwiesen.|U o‘z yordami bilan bizga ayiqning xizmatini qildi.|Nomen
+Damoklesschwert|das|N|ˈdaːmoklɛsˌʃveːɐ̯t|Damokl qilichi (doimiy xavf)|Die Kündigung schwebt wie ein Damoklesschwert über ihm.|Ishdan bo‘shatish uning boshida Damokl qilichidek osilib turibdi.|Nomen
+Eiertanz|der|N|ˈaɪ̯ɐˌtants|ehtiyotkorona aylanib o‘tish|Er vollführte einen Eiertanz um die Frage.|U savolni ehtiyotkorlik bilan aylanib o‘tdi.|Nomen
+Fingerspitzengefühl|das|N|ˈfɪŋɐʃpɪtsn̩ɡəˌfyːl|nozik farosat|Für diese Verhandlung braucht man Fingerspitzengefühl.|Bu muzokara uchun nozik farosat kerak.|Nomen
+Gretchenfrage|die|N|ˈɡʁeːtçənˌfʁaːɡə|hal qiluvchi qaltis savol|Die Gretchenfrage lautet: Wer bezahlt das?|Hal qiluvchi savol: buni kim to‘laydi?|Nomen
+Hiobsbotschaft|die|N|ˈhiːɔpsˌboːtʃaft|qora xabar (shum xabar)|Die Hiobsbotschaft kam am Montag.|Shum xabar dushanba kuni keldi.|Nomen
+Katzenjammer|der|N|ˈkatsn̩ˌjamɐ|keyingi pushaymonlik (xumor)|Nach dem Fest folgte der Katzenjammer.|Bayramdan keyin pushaymonlik keldi.|Nomen
+Milchmädchenrechnung|die|N|ˈmɪlçmɛːtçənˌʁɛçnʊŋ|sodda (noto‘g‘ri) hisob-kitob|Das ist eine Milchmädchenrechnung.|Bu juda sodda hisob-kitob.|Nomen
+Ohrwurm|der|N|ˈoːɐ̯ˌvʊʁm|xayoldan chiqmaydigan kuy|Dieses Lied ist ein echter Ohrwurm.|Bu qo‘shiq xayoldan chiqmaydi.|Nomen
+Pyrrhussieg|der|N|ˈpʏʁʊsˌziːk|Pirr g‘alabasi (qimmatga tushgan g‘alaba)|Der Sieg war ein Pyrrhussieg.|Bu g‘alaba Pirr g‘alabasi bo‘ldi.|Nomen
+Schadenfreude|die|N|ˈʃaːdn̩ˌfʁɔɪ̯də|o‘zgalar baxtsizligidan shodlanish|Schadenfreude ist keine schöne Eigenschaft.|O‘zgalar baxtsizligidan quvonish — yomon xislat.|Nomen
+Schnapsidee|die|N|ˈʃnapsʔiˌdeː|bema’ni g‘oya|Das war eine Schnapsidee.|Bu bema’ni g‘oya edi.|Nomen
+Sündenbock|der|N|ˈzʏndn̩ˌbɔk|aybdor qilib ko‘rsatilgan qurbon|Er wurde zum Sündenbock gemacht.|Uni aybdor qilib ko‘rsatishdi.|Nomen
+Torschlusspanik|die|N|ˈtoːɐ̯ʃlʊsˌpaːnɪk|kech qolishdan qo‘rqish vahimasi|Mit vierzig bekam er Torschlusspanik.|Qirq yoshida u kech qolishdan vahimaga tushdi.|Nomen
+Verschlimmbesserung|die|N|fɛɐ̯ˈʃlɪmbɛsəʁʊŋ|yaxshilayman deb battar qilish|Die neue Version ist eine Verschlimmbesserung.|Yangi versiya yaxshilayman deb battar qilingan.|Technologie
+Weltschmerz|der|N|ˈvɛltˌʃmɛʁts|dunyo g‘ami (chuqur tushkunlik)|Der junge Dichter litt an Weltschmerz.|Yosh shoir dunyo g‘amidan aziyat chekardi.|Nomen
+Zeitgeist|der|N|ˈtsaɪ̯tˌɡaɪ̯st|zamon ruhi|Der Film trifft den Zeitgeist.|Film zamon ruhiga mos.|Nomen
+Zungenbrecher|der|N|ˈtsʊŋənˌbʁɛçɐ|tez aytish (til qiyin aylanadigan ibora)|Das Wort ist ein echter Zungenbrecher.|Bu so‘zni aytish juda qiyin.|Schule
+Kauderwelsch|das|N|ˈkaʊ̯dɐˌvɛlʃ|tushunarsiz til (g‘aliz gap)|Der Vertrag ist in einem juristischen Kauderwelsch verfasst.|Shartnoma tushunarsiz huquqiy tilda yozilgan.|Schule
+Amtsschimmel|der|N|ˈamtsˌʃɪml̩|byurokratiya (qog‘ozbozlik)|Der Amtsschimmel wiehert wieder.|Yana qog‘ozbozlik boshlandi.|Arbeit
+Schlitzohr|das|N|ˈʃlɪtsˌʔoːɐ̯|ayyor (mug‘ombir)|Der Händler ist ein echtes Schlitzohr.|Savdogar haqiqiy mug‘ombir.|Nomen
+Habenichts|der|N|ˈhaːbəˌnɪçts|kambag‘al (hech narsasi yo‘q odam)|Er kam als Habenichts in die Stadt.|U shaharga hech narsasiz kelgan edi.|Nomen
+Wichtigtuer|der|N|ˈvɪçtɪçˌtuːɐ|o‘zini muhim qilib ko‘rsatuvchi|Er ist ein unerträglicher Wichtigtuer.|U chidab bo‘lmas darajada o‘zini katta oladi.|Nomen
+Gutmensch|der|N|ˈɡuːtˌmɛnʃ|o‘ta xayrixoh (kinoyali)|Er wird oft als Gutmensch verspottet.|Uni ko‘pincha o‘ta xayrixoh deb masxara qilishadi.|Nomen
+Kleinkrämer|der|N|ˈklaɪ̯nˌkʁɛːmɐ|mayda gap (xasis fikrli)|Sei nicht so ein Kleinkrämer!|Bunchalik mayda gap bo‘lma!|Nomen
+Hinterwäldler|der|N|ˈhɪntɐˌvɛltlɐ|qoloq (dunyodan bexabar)|Er benimmt sich wie ein Hinterwäldler.|U dunyodan bexabar odamdek tutadi.|Nomen
+Querdenker|der|N|ˈkveːɐ̯ˌdɛŋkɐ|noan’anaviy fikrlovchi|Die Firma sucht Querdenker.|Kompaniya noan’anaviy fikrlovchilarni qidiryapti.|Arbeit
+Lebemann|der|N|ˈleːbəˌman|aysh-ishratparast|Sein Onkel war ein Lebemann.|Uning amakisi aysh-ishratni sevadigan odam edi.|Nomen
+abkanzeln||V|ˈapˌkantsl̩n|qattiq urishmoq (tanbeh bermoq)|Der Chef kanzelte ihn vor allen ab.|Boshliq uni hammaning oldida qattiq urishdi.|Verben
+anzetteln||V|ˈanˌtsɛtl̩n|uyushtirmoq (fitna)|Wer hat diesen Streit angezettelt?|Bu janjalni kim boshlagan?|Verben
+ausbaldowern||V|ˈaʊ̯sbalˌdoːvɐn|ayyorlik bilan bilib olmoq|Er hat ausbaldowert, wo es billig ist.|U qayerda arzonligini ayyorlik bilan bilib oldi.|Verben
+bewerkstelligen||V|bəˈvɛʁkʃtɛlɪɡn̩|uddasidan chiqmoq (qiyin ishni)|Wie sollen wir das bewerkstelligen?|Buning uddasidan qanday chiqamiz?|Verben
+brillieren||V|bʁɪlˈjiːʁən|porlamoq (mohirlik ko‘rsatmoq)|Die Pianistin brillierte beim Konzert.|Pianinochi ayol konsertda mahoratini namoyish etdi.|Verben
+düpieren||V|dyˈpiːʁən|aldab sharmanda qilmoq|Er fühlte sich düpiert.|U o‘zini aldangan va sharmanda bo‘lgandek his qildi.|Verben
+eruieren||V|eʁuˈiːʁən|aniqlab chiqmoq (tadqiq qilib)|Wir müssen die Ursache eruieren.|Sababini aniqlab chiqishimiz kerak.|Universität
+goutieren||V|ɡuˈtiːʁən|ma’qullamoq (yoqtirmoq)|Seine Witze wurden nicht von allen goutiert.|Uning hazillarini hamma ham ma’qullamadi.|Verben
+insinuieren||V|ɪnzinuˈiːʁən|shama qilmoq (yomon niyatda)|Wollen Sie insinuieren, dass ich lüge?|Meni yolg‘onchi deb shama qilmoqchimisiz?|Verben
+kaschieren||V|kaˈʃiːʁən|yashirmoq (kamchilikni)|Das Make-up kaschiert die Augenringe.|Pardoz ko‘z ostidagi qoraliklarni yashiradi.|Verben
+lancieren||V|lɑ̃ˈsiːʁən|ishga tushirmoq (bozorga chiqarmoq)|Die Firma lanciert ein neues Produkt.|Kompaniya yangi mahsulotni bozorga chiqaryapti.|Arbeit
+negieren||V|neˈɡiːʁən|inkor etmoq|Man kann die Fakten nicht negieren.|Faktlarni inkor etib bo‘lmaydi.|Verben
+oktroyieren||V|ɔktʁoaˈjiːʁən|majburan tiqishtirmoq|Man darf anderen seine Meinung nicht oktroyieren.|O‘z fikringni boshqalarga majburan tiqishtirmaslik kerak.|Verben
+perpetuieren||V|pɛʁpetuˈiːʁən|abadiylashtirmoq (davom ettirmoq)|Solche Bilder perpetuieren Vorurteile.|Bunday tasvirlar xurofotlarni davom ettiradi.|Verben
+sublimieren||V|zubliˈmiːʁən|yuksaltirmoq (his-tuyg‘uni ijodga aylantirmoq)|Er sublimierte seinen Schmerz in Musik.|U dardini musiqaga aylantirdi.|Verben
+tangieren||V|taŋˈɡiːʁən|daxl qilmoq (ta’sir qilmoq)|Das tangiert mich nicht.|Bu menga daxldor emas.|Verben
+verballhornen||V|fɛɐ̯ˈbalhɔʁnən|buzib talaffuz qilmoq (kulgili qilib)|Die Kinder verballhornen den Namen des Lehrers.|Bolalar o‘qituvchining ismini buzib aytishadi.|Verben
+zelebrieren||V|tseleˈbʁiːʁən|tantanali nishonlamoq|Sie zelebrieren jedes Essen.|Ular har bir ovqatlanishni tantanaga aylantirishadi.|Verben
+abstrus||A|apsˈtʁuːs|chalkash (bema’ni)|Das ist eine abstruse Theorie.|Bu chalkash nazariya.|Adjektive
+apodiktisch||A|apoˈdɪktɪʃ|e’tiroz qabul qilmaydigan|Er sprach in apodiktischem Ton.|U e’tirozga o‘rin qoldirmaydigan ohangda gapirdi.|Adjektive
+bigott||A|biˈɡɔt|riyokor (dindorlikni ko‘z-ko‘z qiluvchi)|Er ist ein bigotter Mensch.|U riyokor odam.|Adjektive
+ephemer||A|efeˈmeːɐ̯|bir zumlik (o‘tkinchi)|Ruhm ist oft ephemer.|Shon-shuhrat ko‘pincha bir zumlik bo‘ladi.|Adjektive
+obskur||A|ɔpsˈkuːɐ̯|qorong‘i (noma’lum, shubhali)|Er hat obskure Quellen zitiert.|U shubhali manbalardan iqtibos keltirdi.|Adjektive

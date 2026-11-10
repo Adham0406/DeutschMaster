@@ -1,0 +1,129 @@
+# A1 — Verben
+sein||V|zaɪ̯n|bo‘lmoq|Ich bin Student.|Men talabaman.|Verben
+haben||V|ˈhaːbn̩|ega bo‘lmoq|Ich habe einen Bruder.|Mening bitta akam bor.|Verben
+kommen||V|ˈkɔmən|kelmoq|Ich komme aus Usbekistan.|Men O‘zbekistondanman.|Verben
+wohnen||V|ˈvoːnən|yashamoq (turar joyda)|Wir wohnen in Samarkand.|Biz Samarqandda yashaymiz.|Verben
+heißen||V|ˈhaɪ̯sn̩|atalmoq; ismi … bo‘lmoq|Ich heiße Aziz.|Mening ismim Aziz.|Verben
+lernen||V|ˈlɛʁnən|o‘rganmoq|Ich lerne jeden Tag Deutsch.|Men har kuni nemis tilini o‘rganaman.|Verben
+sprechen||V|ˈʃpʁɛçn̩|gapirmoq|Sprechen Sie Englisch?|Inglizcha gapirasizmi?|Verben
+sagen||V|ˈzaːɡn̩|aytmoq|Was sagst du?|Nima deyapsan?|Verben
+fragen||V|ˈfʁaːɡn̩|so‘ramoq|Darf ich etwas fragen?|Bir narsa so‘rasam maylimi?|Verben
+antworten||V|ˈantvɔʁtn̩|javob bermoq|Bitte antworten Sie schnell.|Iltimos, tezroq javob bering.|Verben
+lesen||V|ˈleːzn̩|o‘qimoq (matn)|Ich lese gern Bücher.|Men kitob o‘qishni yaxshi ko‘raman.|Verben
+schreiben||V|ˈʃʁaɪ̯bn̩|yozmoq|Ich schreibe eine E-Mail.|Men elektron xat yozyapman.|Verben
+hören||V|ˈhøːʁən|eshitmoq|Ich höre Musik.|Men musiqa tinglayapman.|Verben
+sehen||V|ˈzeːən|ko‘rmoq|Ich sehe dich morgen.|Ertaga seni ko‘raman.|Verben
+machen||V|ˈmaxn̩|qilmoq|Was machst du heute?|Bugun nima qilyapsan?|Verben
+arbeiten||V|ˈaʁbaɪ̯tn̩|ishlamoq|Mein Vater arbeitet in einer Bank.|Otam bankda ishlaydi.|Verben
+spielen||V|ˈʃpiːlən|o‘ynamoq|Die Kinder spielen draußen.|Bolalar tashqarida o‘ynayapti.|Verben
+fahren||V|ˈfaːʁən|(transportda) bormoq|Wir fahren mit dem Bus.|Biz avtobusda boramiz.|Verben
+laufen||V|ˈlaʊ̯fn̩|yugurmoq|Er läuft jeden Morgen im Park.|U har kuni ertalab bog‘da yuguradi.|Verben
+nehmen||V|ˈneːmən|olmoq|Ich nehme den Bus.|Men avtobusga o‘tiraman.|Verben
+geben||V|ˈɡeːbn̩|bermoq|Gibst du mir das Buch?|Kitobni menga berasanmi?|Verben
+finden||V|ˈfɪndn̩|topmoq|Ich finde meinen Schlüssel nicht.|Kalitimni topa olmayapman.|Verben
+suchen||V|ˈzuːxn̩|qidirmoq|Ich suche eine Wohnung.|Men kvartira qidiryapman.|Verben
+brauchen||V|ˈbʁaʊ̯xn̩|muhtoj bo‘lmoq; kerak bo‘lmoq|Ich brauche deine Hilfe.|Menga yordaming kerak.|Verben
+kennen||V|ˈkɛnən|tanimoq|Kennst du meinen Bruder?|Akamni taniysanmi?|Verben
+wissen||V|ˈvɪsn̩|bilmoq|Ich weiß es nicht.|Men buni bilmayman.|Verben
+können||V|ˈkœnən|qila olmoq|Kannst du schwimmen?|Suza olasanmi?|Verben
+müssen||V|ˈmʏsn̩|majbur bo‘lmoq|Ich muss heute arbeiten.|Bugun ishlashim kerak.|Verben
+wollen||V|ˈvɔlən|xohlamoq|Ich will nach Deutschland fahren.|Men Germaniyaga borishni xohlayman.|Verben
+möchten||V|ˈmœçtn̩|istamoq (muloyim)|Ich möchte einen Tee.|Men choy istardim.|Verben
+mögen||V|ˈmøːɡn̩|yoqtirmoq|Ich mag Katzen.|Men mushuklarni yoqtiraman.|Verben
+lieben||V|ˈliːbn̩|sevmoq|Ich liebe meine Familie.|Men oilamni sevaman.|Verben
+öffnen||V|ˈœfnən|ochmoq|Kannst du das Fenster öffnen?|Derazani ocha olasanmi?|Verben
+schließen||V|ˈʃliːsn̩|yopmoq|Die Bank schließt um fünf.|Bank soat beshda yopiladi.|Verben
+beginnen||V|bəˈɡɪnən|boshlanmoq|Der Kurs beginnt um neun.|Kurs soat to‘qqizda boshlanadi.|Verben
+helfen||V|ˈhɛlfn̩|yordam bermoq|Kannst du mir helfen?|Menga yordam bera olasanmi?|Verben
+zeigen||V|ˈtsaɪ̯ɡn̩|ko‘rsatmoq|Zeig mir dein Foto!|Suratingni ko‘rsat!|Verben
+bleiben||V|ˈblaɪ̯bn̩|qolmoq|Heute bleibe ich zu Hause.|Bugun uyda qolaman.|Verben
+stehen||V|ˈʃteːən|tik turmoq|Der Lehrer steht an der Tafel.|O‘qituvchi doska oldida turibdi.|Verben
+sitzen||V|ˈzɪtsn̩|o‘tirmoq|Wir sitzen im Café.|Biz kafeda o‘tiribmiz.|Verben
+liegen||V|ˈliːɡn̩|yotmoq|Das Handy liegt auf dem Tisch.|Telefon stol ustida yotibdi.|Verben
+tanzen||V|ˈtantsn̩|raqs tushmoq|Sie tanzt sehr gut.|U juda yaxshi raqs tushadi.|Verben
+singen||V|ˈzɪŋən|qo‘shiq aytmoq|Wir singen zusammen.|Biz birga qo‘shiq aytamiz.|Verben
+schwimmen||V|ˈʃvɪmən|suzmoq|Im Sommer schwimmen wir im See.|Yozda ko‘lda suzamiz.|Verben
+reisen||V|ˈʁaɪ̯zn̩|sayohat qilmoq|Ich reise gern.|Men sayohat qilishni yaxshi ko‘raman.|Reisen
+besuchen||V|bəˈzuːxn̩|tashrif buyurmoq; ziyorat qilmoq|Am Sonntag besuchen wir die Oma.|Yakshanba kuni buvimnikiga boramiz.|Verben
+wiederholen||V|ˌviːdɐˈhoːlən|takrorlamoq|Bitte wiederholen Sie das!|Iltimos, buni takrorlang!|Schule
+verkaufen||V|fɛɐ̯ˈkaʊ̯fn̩|sotmoq|Er verkauft sein Auto.|U mashinasini sotyapti.|Verben
+denken||V|ˈdɛŋkn̩|o‘ylamoq|Ich denke an dich.|Seni o‘ylayapman.|Verben
+glauben||V|ˈɡlaʊ̯bn̩|ishonmoq|Ich glaube dir.|Men senga ishonaman.|Verben
+mitkommen||V|ˈmɪtˌkɔmən|birga bormoq|Kommst du mit ins Kino?|Kinoga birga borasanmi?|Verben
+aufstehen||V|ˈaʊ̯fˌʃteːən|o‘rnidan turmoq|Ich stehe um sieben Uhr auf.|Men soat yettida turaman.|Verben
+anrufen||V|ˈanˌʁuːfn̩|qo‘ng‘iroq qilmoq|Ich rufe dich heute Abend an.|Kechqurun senga qo‘ng‘iroq qilaman.|Verben
+einkaufen||V|ˈaɪ̯nˌkaʊ̯fn̩|xarid qilmoq|Ich kaufe im Supermarkt ein.|Men supermarketda xarid qilaman.|Verben
+fernsehen||V|ˈfɛʁnˌzeːən|televizor ko‘rmoq|Die Kinder sehen am Abend fern.|Bolalar kechqurun televizor ko‘radi.|Verben
+# Adjektive
+gut||A|ɡuːt|yaxshi|Das Wetter ist heute gut.|Bugun ob-havo yaxshi.|Adjektive
+schlecht||A|ʃlɛçt|yomon|Der Film war schlecht.|Film yomon edi.|Adjektive
+neu||A|nɔɪ̯|yangi|Ich habe ein neues Handy.|Mening yangi telefonim bor.|Adjektive
+alt||A|alt|eski; qari|Das Haus ist sehr alt.|Uy juda eski.|Adjektive
+jung||A|jʊŋ|yosh|Meine Lehrerin ist jung.|O‘qituvchim yosh.|Adjektive
+schön||A|ʃøːn|chiroyli|Die Stadt ist sehr schön.|Shahar juda chiroyli.|Adjektive
+teuer||A|ˈtɔɪ̯ɐ|qimmat|Das Auto ist zu teuer.|Mashina juda qimmat.|Adjektive
+lang||A|laŋ|uzun|Der Weg ist lang.|Yo‘l uzun.|Adjektive
+kurz||A|kʊʁts|qisqa|Der Film ist kurz.|Film qisqa.|Adjektive
+schnell||A|ʃnɛl|tez|Der Zug fährt schnell.|Poyezd tez yuradi.|Adjektive
+langsam||A|ˈlaŋzaːm|sekin|Bitte sprechen Sie langsam.|Iltimos, sekinroq gapiring.|Adjektive
+leicht||A|laɪ̯çt|oson; yengil|Die Aufgabe ist leicht.|Topshiriq oson.|Adjektive
+schwer||A|ʃveːɐ̯|og‘ir; qiyin|Der Koffer ist schwer.|Chamadon og‘ir.|Adjektive
+richtig||A|ˈʁɪçtɪç|to‘g‘ri|Die Antwort ist richtig.|Javob to‘g‘ri.|Adjektive
+falsch||A|falʃ|noto‘g‘ri|Das ist leider falsch.|Afsuski, bu noto‘g‘ri.|Adjektive
+froh||A|fʁoː|xursand|Ich bin froh, dass du da bist.|Shu yerda ekaningdan xursandman.|Adjektive
+glücklich||A|ˈɡlʏklɪç|baxtli|Sie ist sehr glücklich.|U juda baxtli.|Adjektive
+traurig||A|ˈtʁaʊ̯ʁɪç|xafa; g‘amgin|Warum bist du traurig?|Nega xafasan?|Adjektive
+nett||A|nɛt|yoqimli; mehribon|Die Nachbarn sind sehr nett.|Qo‘shnilar juda yoqimli.|Adjektive
+freundlich||A|ˈfʁɔɪ̯ntlɪç|xushmuomala|Die Verkäuferin ist freundlich.|Sotuvchi ayol xushmuomala.|Adjektive
+laut||A|laʊ̯t|baland ovozli; shovqinli|Die Musik ist zu laut.|Musiqa juda baland.|Adjektive
+leise||A|ˈlaɪ̯zə|past ovozli; jim|Bitte sei leise!|Iltimos, jim bo‘l!|Adjektive
+voll||A|fɔl|to‘la|Der Bus ist voll.|Avtobus to‘la.|Adjektive
+leer||A|leːɐ̯|bo‘sh|Der Kühlschrank ist leer.|Muzlatkich bo‘sh.|Adjektive
+offen||A|ˈɔfn̩|ochiq|Das Geschäft ist offen.|Do‘kon ochiq.|Adjektive
+geschlossen||A|ɡəˈʃlɔsn̩|yopiq|Die Post ist heute geschlossen.|Pochta bugun yopiq.|Adjektive
+früh||A|fʁyː|erta|Ich stehe früh auf.|Men erta turaman.|Adjektive
+spät||A|ʃpɛːt|kech|Es ist schon spät.|Allaqachon kech bo‘ldi.|Adjektive
+viel||A|fiːl|ko‘p|Ich habe viel Arbeit.|Ishim ko‘p.|Adjektive
+wenig||A|ˈveːnɪç|oz|Ich habe wenig Zeit.|Vaqtim oz.|Adjektive
+rot||A|ʁoːt|qizil|Die Tomate ist rot.|Pomidor qizil.|Adjektive
+blau||A|blaʊ̯|ko‘k; moviy|Mein Auto ist blau.|Mashinam ko‘k rangda.|Adjektive
+grün||A|ɡʁyːn|yashil|Das Gras ist grün.|O‘t yashil.|Adjektive
+gelb||A|ɡɛlp|sariq|Die Sonne ist gelb.|Quyosh sariq.|Adjektive
+weiß||A|vaɪ̯s|oq|Der Schnee ist weiß.|Qor oq.|Adjektive
+schwarz||A|ʃvaʁts|qora|Ich trinke den Kaffee schwarz.|Men qahvani shakarsiz, qora ichaman.|Adjektive
+# Adverbien, Pronomen, Präpositionen, Ausdrücke
+heute||D|ˈhɔɪ̯tə|bugun|Heute habe ich frei.|Bugun dam olish kunim.|Alltag
+morgen||D|ˈmɔʁɡn̩|ertaga|Morgen fahre ich nach Buchara.|Ertaga Buxoroga boraman.|Alltag
+gestern||D|ˈɡɛstɐn|kecha|Gestern war ich im Kino.|Kecha kinoda edim.|Alltag
+jetzt||D|jɛtst|hozir|Ich habe jetzt keine Zeit.|Hozir vaqtim yo‘q.|Alltag
+immer||D|ˈɪmɐ|doim|Er ist immer pünktlich.|U doim o‘z vaqtida keladi.|Alltag
+oft||D|ɔft|tez-tez|Wir gehen oft ins Kino.|Biz tez-tez kinoga boramiz.|Alltag
+manchmal||D|ˈmançmaːl|ba’zan|Manchmal koche ich selbst.|Ba’zan o‘zim ovqat pishiraman.|Alltag
+nie||D|niː|hech qachon|Ich rauche nie.|Men hech qachon chekmayman.|Alltag
+hier||D|hiːɐ̯|bu yerda|Hier ist mein Pass.|Mana pasportim.|Alltag
+dort||D|dɔʁt|u yerda|Dort ist der Bahnhof.|Vokzal ana u yerda.|Alltag
+sehr||D|zeːɐ̯|juda|Das ist sehr gut.|Bu juda yaxshi.|Alltag
+auch||D|aʊ̯x|ham|Ich komme auch mit.|Men ham boraman.|Alltag
+noch||D|nɔx|hali; yana|Ich bin noch müde.|Men hali ham charchaganman.|Alltag
+schon||D|ʃoːn|allaqachon|Der Zug ist schon weg.|Poyezd allaqachon ketib qoldi.|Alltag
+gern||D|ɡɛʁn|mamnuniyat bilan|Ich trinke gern Tee.|Men choyni mamnuniyat bilan ichaman.|Alltag
+zusammen||D|tsuˈzamən|birga|Wir lernen zusammen.|Biz birga o‘qiymiz.|Alltag
+links||D|lɪŋks|chapda; chapga|Gehen Sie nach links!|Chapga yuring!|Reisen
+rechts||D|ʁɛçts|o‘ngda; o‘ngga|Das Hotel ist rechts.|Mehmonxona o‘ng tomonda.|Reisen
+geradeaus||D|ɡəˌʁaːdəˈʔaʊ̯s|to‘g‘riga|Gehen Sie immer geradeaus!|To‘g‘riga yuravering!|Reisen
+ja||X|jaː|ha|Ja, das stimmt.|Ha, bu to‘g‘ri.|Alltag
+nein||X|naɪ̯n|yo‘q (javob)|Nein, danke.|Yo‘q, rahmat.|Alltag
+danke||X|ˈdaŋkə|rahmat|Danke für deine Hilfe!|Yordaming uchun rahmat!|Alltag
+bitte||X|ˈbɪtə|iltimos; marhamat|Einen Kaffee, bitte!|Bitta qahva, iltimos!|Alltag
+Entschuldigung||X|ɛntˈʃʊldɪɡʊŋ|kechirasiz|Entschuldigung, wo ist die Toilette?|Kechirasiz, hojatxona qayerda?|Alltag
+Hallo||X|haˈloː|salom|Hallo, wie geht es dir?|Salom, ishlaring qalay?|Alltag
+Tschüss||X|tʃʏs|xayr|Tschüss, bis morgen!|Xayr, ertagacha!|Alltag
+ich||R|ɪç|men|Ich bin Lehrer.|Men o‘qituvchiman.|Alltag
+du||R|duː|sen|Du bist mein Freund.|Sen mening do‘stimsan.|Alltag
+wir||R|viːɐ̯|biz|Wir sind Studenten.|Biz talabamiz.|Alltag
+mit||P|mɪt|bilan|Ich fahre mit dem Fahrrad.|Men velosipedda boraman.|Alltag
+ohne||P|ˈoːnə|-siz; holda emas|Ich trinke Kaffee ohne Zucker.|Men qahvani shakarsiz ichaman.|Alltag
+für||P|fyːɐ̯|uchun|Das Geschenk ist für dich.|Sovg‘a sen uchun.|Alltag
+und||K|ʊnt|va|Ich trinke Tee und esse Brot.|Men choy ichib, non yeyman.|Alltag
+aber||K|ˈaːbɐ|lekin|Das Auto ist alt, aber gut.|Mashina eski, lekin yaxshi.|Alltag
+oder||K|ˈoːdɐ|yoki|Möchtest du Tee oder Kaffee?|Choy ichasanmi yoki qahva?|Alltag

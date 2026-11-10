@@ -4,7 +4,25 @@ Nemis tili so‘zlarini (A1–C2) o‘rganish uchun web-ilova: kunlik so‘zlar,
 
 - **Frontend:** HTML5, CSS3, Vanilla JavaScript (ES modules), Chart.js 4.4.1, Lucide 0.344.0 (`frontend/assets/vendor/` ichida)
 - **Backend:** Python + Flask
-- **Ma’lumotlar:** `data/words.json` (129 ta so‘z), foydalanuvchi progressi brauzer `localStorage` da
+- **Ma’lumotlar:** `data/words.json` (2013 ta so‘z: A1 374 · A2 358 · B1 390 · B2 326 · C1 280 · C2 285), foydalanuvchi progressi brauzer `localStorage` da
+
+## Lug‘atni kengaytirish
+
+So‘zlar `tools/words/<DARAJA>_*.txt` fayllarida, har qatorda bitta so‘z:
+
+```
+german | article | pos | ipa | uzbek | example_de | example_uz | topic
+Hund   | der     | N   | hʊnt| it    | Der Hund spielt im Garten. | It bog‘da o‘ynayapti. | Natur
+```
+
+`pos`: N ot, V fe’l, A sifat, D ravish, P predlog, K bog‘lovchi, R olmosh, X ibora. So‘z qo‘shgach yoki tuzatgach:
+
+```
+python tools/build_words.py --check   # faqat tekshirish
+python tools/build_words.py           # data/words.json ni yangilash
+```
+
+Skript takrorlanishni, artikllarni, fe’l infinitivini, misollar formatini, o‘zbekcha matnda kirill harflari va ko‘rinmas belgilar yo‘qligini va tarjimalar takrorlanmasligini tekshiradi. Mavjud so‘zlar ID’sini saqlaydi (foydalanuvchi progressi buzilmaydi).
 
 ## Talablar
 

@@ -56,7 +56,9 @@ export function mode() {
 async function loadDataset() {
   if (!dataset) {
     try {
-      dataset = await fetchJson("data/words.json");
+      // GitHub Pages serves files with max-age=600; "no-cache" makes the browser revalidate
+      // (a cheap 304 when unchanged) so a new vocabulary shows up right after a deploy.
+      dataset = await fetchJson("data/words.json", { cache: "no-cache" });
     } catch (err) {
       throw new ApiError(`So‘zlar faylini (data/words.json) yuklab bo‘lmadi: ${err.message}`, err.status);
     }

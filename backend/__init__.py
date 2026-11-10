@@ -21,7 +21,8 @@ def create_app(config: type[Config] = Config) -> Flask:
     repo = WordRepository(app.config["WORDS_FILE"])
     app.extensions["word_repo"] = repo
     app.extensions["translator"] = TranslationService(
-        repo, app.config["LINGVA_INSTANCES"], app.config["LINGVA_TIMEOUT"])
+        repo, app.config["LINGVA_INSTANCES"], app.config["LINGVA_TIMEOUT"],
+        mymemory=app.config["MYMEMORY_ENABLED"])
 
     app.register_blueprint(api)
     frontend = app.config["FRONTEND_DIR"]
@@ -29,6 +30,12 @@ def create_app(config: type[Config] = Config) -> Flask:
     @app.get("/")
     def index():
         return send_from_directory(frontend, "index.html")
+
+    @app.get("/data/words.json")
+    def words_file():
+        # Same file the static (GitHub Pages) build ships next to index.html.
+        words = app.config["WORDS_FILE"]
+        return send_from_directory(words.parent, words.name, mimetype="application/json")
 
     @app.get("/<path:path>")
     def static_files(path):
@@ -54,7 +61,8 @@ def create_app(config: type[Config] = Config) -> Flask:
         resp.headers["Referrer-Policy"] = "same-origin"
         resp.headers["Content-Security-Policy"] = (
             "default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; "
-            "font-src 'self' https://fonts.gstatic.com; img-src 'self' data:; connect-src 'self'; "
+            "font-src 'self' https://fonts.gstatic.com; img-src 'self' data:; "
+            "connect-src 'self' https://api.mymemory.translated.net; "
             "media-src 'self' blob: data:; object-src 'none'; base-uri 'self'; frame-ancestors 'none'")
         return resp
 

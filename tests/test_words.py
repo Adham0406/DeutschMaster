@@ -5,15 +5,21 @@ from pathlib import Path
 
 import pytest
 
-from backend.services.word_service import LEVELS, REQUIRED_FIELDS, TOPICS
+from backend.services.word_service import LEVELS, REQUIRED_FIELDS
 
 WORDS_FILE = Path(__file__).resolve().parent.parent / "data" / "words.json"
+DATA = json.loads(WORDS_FILE.read_text(encoding="utf-8"))  # also proves JSON syntax is valid
+TOPICS = DATA["topics"]
 
 
 @pytest.fixture(scope="module")
 def words():
-    with open(WORDS_FILE, encoding="utf-8") as fh:
-        return json.load(fh)["words"]  # also proves JSON syntax is valid
+    return DATA["words"]
+
+
+def test_metadata():
+    assert list(DATA["levels"]) == LEVELS
+    assert len(TOPICS) == 14 and all(v.strip() for v in TOPICS.values())
 
 
 def test_minimum_total(words):

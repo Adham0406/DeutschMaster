@@ -503,11 +503,22 @@ def test_responsive_no_horizontal_overflow(browser, server, width, height):
         ctx.close()
 
 
-def test_server_down_message(browser, server):
+def test_api_down_falls_back_to_static_mode(browser, server):
     ctx = browser.new_context()
     page = ctx.new_page()
     page.route("**/api/**", lambda route: route.abort())
+    page.goto(server.url + "/#/daily")
+    page.wait_for_selector("#dw-list .word-card", timeout=15000)
+    assert page.evaluate("async () => (await import('/js/api.js')).api.mode()") == "static"
+    ctx.close()
+
+
+def test_data_unavailable_message(browser, server):
+    ctx = browser.new_context()
+    page = ctx.new_page()
+    page.route("**/api/**", lambda route: route.abort())
+    page.route("**/data/words.json", lambda route: route.abort())
     page.goto(server.url + "/")
     page.wait_for_selector("#retry")
-    assert "Server bilan aloqa yo‘q" in page.inner_text("#view")
+    assert "Ma’lumotlarni yuklab bo‘lmadi" in page.inner_text("#view")
     ctx.close()

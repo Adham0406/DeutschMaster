@@ -24,6 +24,8 @@ class Config:
     # Comma separated list of Lingva instances, tried in order.
     LINGVA_INSTANCES = _split(os.getenv("LINGVA_INSTANCES", "https://lingva.ml"))
     LINGVA_TIMEOUT = float(os.getenv("LINGVA_TIMEOUT", "6"))
+    # MyMemory (api.mymemory.translated.net) is the second provider; no key required.
+    MYMEMORY_ENABLED = os.getenv("MYMEMORY_ENABLED", "1") == "1"
     TRANSLATE_MAX_CHARS = int(os.getenv("TRANSLATE_MAX_CHARS", "300"))
     # Simple in-memory per-IP rate limit for /api/translate.
     TRANSLATE_RATE_LIMIT = int(os.getenv("TRANSLATE_RATE_LIMIT", "30"))  # requests per minute
@@ -38,4 +40,6 @@ class Config:
 
 class TestConfig(Config):
     TESTING = True
-    LINGVA_INSTANCES: list[str] = []  # never hit the network in tests unless a test opts in
+    # never hit the network in tests unless a test opts in
+    LINGVA_INSTANCES: list[str] = []
+    MYMEMORY_ENABLED = False

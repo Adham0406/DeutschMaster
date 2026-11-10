@@ -3,19 +3,14 @@ import { api } from "./api.js";
 import { esc, exampleHtml, favButton, germanHtml, icon, icons, LEVELS, levelBadge, speakButton, emptyState } from "./ui.js";
 import { bindWordActions } from "./actions.js";
 import { getState } from "./storage.js";
+import { searchWords as localSearch } from "./search.js";
 
-/** Local search used when the API is unreachable (same rules as backend, simplified). */
-export function localSearch(words, q, { lang = "all", level = "", topic = "" } = {}) {
-  const fold = (t) => String(t).toLowerCase().normalize("NFC").replace(/[‘’ʻʼ`´]/g, "'")
-    .replace(/ä/g, "a").replace(/ö/g, "o").replace(/ü/g, "u").replace(/ß/g, "ss").trim();
-  const query = fold(q);
-  return words.filter((w) => (!level || w.level === level) && (!topic || w.topic === topic)).filter((w) => {
-    const fields = [];
-    if (lang !== "uz") fields.push(fold(w.german), fold(`${w.article} ${w.german}`));
-    if (lang !== "de") fields.push(fold(w.uzbek));
-    return fields.some((f) => f.includes(query));
-  });
-}
+const SOURCE_BADGES = {
+  lingva: ["green", "globe", "Lingva"],
+  mymemory: ["green", "globe", "MyMemory"],
+  local: ["amber", "database", "Lokal lug‘at"],
+  none: ["red", "alert-circle", "Topilmadi"],
+};
 
 export default {
   title: "Lug‘at",
@@ -38,7 +33,7 @@ export default {
           <div id="dc-results"></div>
         </div>
         <div class="stack">
-          <div class="card"><div class="card-head"><div><h3>Onlayn tarjima</h3><p>Lingva API · ishlamasa lokal lug‘at</p></div></div>
+          <div class="card"><div class="card-head"><div><h3>Onlayn tarjima</h3><p>Lingva / MyMemory · ishlamasa lokal lug‘at</p></div></div>
             <form id="tr-form" class="stack" autocomplete="off">
               <div class="segmented" role="group" aria-label="Tarjima yo‘nalishi"><button type="button" class="active" data-dir="de">DE → UZ</button><button type="button" data-dir="uz">UZ → DE</button></div>
               <textarea class="input" id="tr-text" rows="3" maxlength="300" placeholder="Matn kiriting…" style="height:auto;padding:10px 12px;resize:vertical"></textarea>
@@ -121,8 +116,8 @@ export default {
       out.innerHTML = `<p class="small muted">Tarjima qilinmoqda…</p>`;
       try {
         const r = await api.translate(text, dir, dir === "de" ? "uz" : "de");
-        const badge = r.source === "lingva" ? `<span class="badge green">${icon("globe")} Lingva</span>`
-          : r.source === "local" ? `<span class="badge amber">${icon("database")} Lokal lug‘at</span>` : `<span class="badge red">${icon("alert-circle")} Topilmadi</span>`;
+        const [tone, ic, label] = SOURCE_BADGES[r.source] || SOURCE_BADGES.none;
+        const badge = `<span class="badge ${tone}">${icon(ic)} ${label}</span>`;
         out.innerHTML = `<div class="stack">${badge}${r.translation ? `<div class="word-uz" style="font-size:20px">${esc(r.translation)}</div>` : ""}
           ${r.word ? exampleHtml(r.word) : ""}
           ${r.message ? `<p class="small text-2">${esc(r.message)}</p>` : ""}

@@ -1,5 +1,29 @@
 {
   "version": 1,
+  "levels": {
+    "A1": "Beginner",
+    "A2": "Elementary",
+    "B1": "Intermediate",
+    "B2": "Upper Intermediate",
+    "C1": "Advanced",
+    "C2": "Proficiency"
+  },
+  "topics": {
+    "Familie": "Oila",
+    "Essen": "Ovqat",
+    "Trinken": "Ichimliklar",
+    "Reisen": "Sayohat",
+    "Arbeit": "Ish",
+    "Schule": "Maktab",
+    "Universität": "Universitet",
+    "Alltag": "Kundalik hayot",
+    "Gesundheit": "Sog‘liq",
+    "Natur": "Tabiat",
+    "Technologie": "Texnologiya",
+    "Verben": "Fe’llar",
+    "Adjektive": "Sifatlar",
+    "Nomen": "Otlar"
+  },
   "words": [
     {
       "id": 1,

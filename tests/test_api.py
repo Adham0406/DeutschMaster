@@ -121,6 +121,44 @@ def test_translate_falls_back_on_lingva_errors(app, client):
     assert status["available"] is False and "429" in status["detail"] and "403" in status["detail"]
 
 
+def _resp(status=200, payload=None):
+    r = MagicMock(status_code=status)
+    r.json.return_value = payload or {}
+    return r
+
+
+def test_translate_mymemory_after_lingva_fails(app, client):
+    session = MagicMock()
+    session.get.side_effect = [_resp(403), _resp(200, {"responseStatus": 200, "responseData": {"translatedText": "Salom, o&#39;rtoq"}})]
+    t = _translator(app, ["https://lingva.example"], session)
+    t.mymemory = True
+    data = client.post("/api/translate", json={"text": "Hallo"}).get_json()
+    assert data["source"] == "mymemory" and data["translation"] == "Salom, o'rtoq"
+    mm_call = session.get.call_args_list[1]
+    assert mm_call[0][0] == "https://api.mymemory.translated.net/get"
+    assert mm_call[1]["params"] == {"q": "Hallo", "langpair": "de|uz"}
+
+
+def test_translate_mymemory_quota_falls_back_to_local(app, client):
+    session = MagicMock()
+    session.get.return_value = _resp(200, {"responseStatus": 429, "quotaFinished": True,
+                                           "responseData": {"translatedText": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS"}})
+    t = _translator(app, [], session)
+    t.mymemory = True
+    data = client.post("/api/translate", json={"text": "Wasser"}).get_json()
+    assert data["source"] == "local" and data["translation"] == "suv"
+    assert "limit" in client.get("/api/health").get_json()["translation"]["detail"]
+
+
+def test_translate_mymemory_network_error(app, client):
+    session = MagicMock()
+    session.get.side_effect = requests.ConnectionError()
+    t = _translator(app, [], session)
+    t.mymemory = True
+    data = client.post("/api/translate", json={"text": "Milch"}).get_json()
+    assert data["source"] == "local" and data["translation"] == "sut"
+
+
 def test_translate_rate_limit(app, client):
     app.config["TRANSLATE_RATE_LIMIT"] = 2
     from backend.routes import api as api_module

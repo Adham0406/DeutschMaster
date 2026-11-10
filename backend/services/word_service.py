@@ -9,31 +9,9 @@ import unicodedata
 from collections import Counter
 from pathlib import Path
 
+# CEFR order is fixed; level and topic display names live in data/words.json
+# (the same file the static GitHub Pages build reads).
 LEVELS = ["A1", "A2", "B1", "B2", "C1", "C2"]
-LEVEL_NAMES = {
-    "A1": "Beginner",
-    "A2": "Elementary",
-    "B1": "Intermediate",
-    "B2": "Upper Intermediate",
-    "C1": "Advanced",
-    "C2": "Proficiency",
-}
-TOPICS = {
-    "Familie": "Oila",
-    "Essen": "Ovqat",
-    "Trinken": "Ichimliklar",
-    "Reisen": "Sayohat",
-    "Arbeit": "Ish",
-    "Schule": "Maktab",
-    "Universität": "Universitet",
-    "Alltag": "Kundalik hayot",
-    "Gesundheit": "Sog‘liq",
-    "Natur": "Tabiat",
-    "Technologie": "Texnologiya",
-    "Verben": "Fe’llar",
-    "Adjektive": "Sifatlar",
-    "Nomen": "Otlar",
-}
 REQUIRED_FIELDS = [
     "id", "german", "uzbek", "article", "part_of_speech", "pronunciation",
     "example_de", "example_uz", "level", "topic", "audio_url",
@@ -59,14 +37,17 @@ class WordRepository:
         self.path = Path(path)
         self._words: list[dict] = []
         self._by_id: dict[int, dict] = {}
+        self.level_names: dict[str, str] = {}
+        self.topics: dict[str, str] = {}  # German topic name -> Uzbek name
         self.load()
 
     def load(self) -> None:
         with open(self.path, encoding="utf-8") as fh:
             data = json.load(fh)
-        words = data["words"] if isinstance(data, dict) else data
-        self._words = words
-        self._by_id = {w["id"]: w for w in words}
+        self._words = data["words"]
+        self.level_names = data["levels"]
+        self.topics = data["topics"]
+        self._by_id = {w["id"]: w for w in self._words}
 
     def all(self) -> list[dict]:
         return list(self._words)

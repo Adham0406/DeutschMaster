@@ -2,7 +2,7 @@
 
 Nemis tili so‘zlarini (A1–C2) o‘rganish uchun web-ilova: kunlik so‘zlar, flashcards, quiz, so‘z yozish, moslashtirish o‘yini, spaced repetition, lug‘at, statistika.
 
-- **Frontend:** HTML5, CSS3, Vanilla JavaScript (ES modules), Chart.js 4.4.1, Lucide 0.344.0 (ikkalasi `frontend/assets/vendor/` ichida — internet shart emas)
+- **Frontend:** HTML5, CSS3, Vanilla JavaScript (ES modules), Chart.js 4.4.1, Lucide 0.344.0 (`frontend/assets/vendor/` ichida)
 - **Backend:** Python + Flask
 - **Ma’lumotlar:** `data/words.json` (129 ta so‘z), foydalanuvchi progressi brauzer `localStorage` da
 
@@ -54,15 +54,31 @@ Serverni to‘xtatish: terminalda `Ctrl+C`.
 | `FLASK_DEBUG` | `0` | `1` — debug rejim (faqat lokal ishlab chiqish uchun) |
 | `LINGVA_INSTANCES` | `https://lingva.ml` | Vergul bilan ajratilgan Lingva serverlari, tartib bo‘yicha sinab ko‘riladi |
 | `LINGVA_TIMEOUT` | `6` | Har bir so‘rov uchun timeout (soniya) |
+| `MYMEMORY_ENABLED` | `1` | `0` — MyMemory provayderini o‘chirish |
 | `TRANSLATE_MAX_CHARS` | `300` | Tarjima matnining maksimal uzunligi |
 | `TRANSLATE_RATE_LIMIT` | `30` | Bir IP uchun daqiqasiga tarjima so‘rovlari |
 | `CORS_ORIGINS` | bo‘sh | Boshqa domendan API'ga ruxsat berish (frontend bir xil origin'da, kerak emas) |
 
-## Tarjima (Lingva API) haqida
+## GitHub Pages (serversiz) rejim
 
-`POST /api/translate` avval Lingva serverlariga murojaat qiladi. Ular ishlamasa (timeout, 403, 429, 500 va h.k.) natija **lokal lug‘atdan** olinadi va foydalanuvchiga tushunarli xabar ko‘rsatiladi; ilovaning qolgan qismi bunga bog‘liq emas.
+Sayt: <https://adham0406.github.io/DeutschMaster/>
 
-> 2026-yil 10-noyabrda tekshirilganda `lingva.ml` 403, `lingva.lunar.icu` va `translate.plausibility.cloud` 500 qaytardi. Ya’ni hozircha onlayn tarjima ishlamaydi va lokal fallback ishlatiladi. Ishlaydigan instance topsangiz, uni `LINGVA_INSTANCES` ga qo‘shing.
+GitHub Pages faqat statik fayllarni beradi — Python/Flask u yerda ishlamaydi. Shuning uchun ilova ishga tushganda `api/health` ni tekshiradi:
+
+| Rejim | Qachon | So‘zlar | Qidiruv | Tarjima |
+|---|---|---|---|---|
+| **server** | `python app.py` ishlayotganda | `/api/words` | `/api/search` | backend: Lingva → MyMemory → lokal |
+| **static** | API yo‘q (GitHub Pages) | `data/words.json` | brauzerda (`js/search.js`) | brauzerdan MyMemory → lokal |
+
+`.github/workflows/deploy.yml` har bir `main` push'da `frontend/` + `data/words.json` ni yig‘ib Pages'ga joylaydi. Barcha URL'lar nisbiy, shuning uchun sayt `/DeutschMaster/` sub-path ostida ishlaydi.
+
+## Tarjima haqida
+
+Provayderlar tartibi: **Lingva → MyMemory → lokal lug‘at**. Hech biri API kalit talab qilmaydi.
+
+- **Lingva** (`LINGVA_INSTANCES`): 2026-11-10 holatiga `lingva.ml` 403 qaytarmoqda, shuning uchun amalda keyingi provayderga o‘tiladi.
+- **MyMemory** (`api.mymemory.translated.net`): ishlaydi, `de↔uz` ni qo‘llab-quvvatlaydi, brauzerdan to‘g‘ridan-to‘g‘ri chaqirsa bo‘ladi (CORS). Cheklov: anonim foydalanuvchiga kuniga taxminan 5000 belgi (IP bo‘yicha), bir so‘rovda 500 baytgacha. Limit tugasa yoki xizmat javob bermasa, natija lokal lug‘atdan olinadi.
+- Tarjima sifati mashina tarjimasi darajasida — lug‘atdagi so‘zlar uchun misollar ham ko‘rsatiladi.
 
 ## API
 
@@ -89,6 +105,7 @@ python -m pytest
 - `tests/test_words.py` — lug‘at sifati (≥120 so‘z, har darajada ≥20, takrorlanmaslik, majburiy maydonlar, artikllar)
 - `tests/test_api.py` — barcha endpointlar, validatsiya, Lingva mock, fallback, rate limit, CORS
 - `tests/test_app.py` — statik fayllar, xavfsizlik headerlari, path traversal, loyiha tuzilmasi
+- `tests/test_static_site_e2e.py` — GitHub Pages simulyatsiyasi: sayt workflow kabi yig‘iladi va Flask'siz, `/DeutschMaster/` ostida oddiy statik serverda tekshiriladi (MyMemory mock qilinadi)
 - `tests/test_frontend_e2e.py` — haqiqiy brauzer testlari (Playwright). Kompyuterga o‘rnatilgan Edge yoki Chrome ishlatiladi; ular topilmasa `python -m playwright install chromium` buyrug‘ini bajaring. Playwright o‘rnatilmagan bo‘lsa, bu testlar avtomatik o‘tkazib yuboriladi (skip).
 
 ## Loyiha tuzilmasi
@@ -106,7 +123,7 @@ DeutschMaster/
 ├── frontend/
 │   ├── index.html
 │   ├── css/  style.css · components.css · responsive.css
-│   ├── js/   app.js (router) · api.js · storage.js · gamification.js · ui.js · theme.js · actions.js
+│   ├── js/   app.js (router) · api.js (server/static rejim) · search.js · storage.js · gamification.js · ui.js · theme.js · actions.js
 │   │         dashboard · daily · flashcards · quiz · writing · matching · revision
 │   │         dictionary · collections (sevimlilar, qiyin so‘zlar) · statistics · settings
 │   └── assets/ icons · images · vendor (chart.js, lucide)

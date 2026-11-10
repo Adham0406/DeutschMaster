@@ -16,6 +16,16 @@ Hozirgi bosqich: **barcha 8 bosqich yakunlandi.**
 | 7. QA | ✅ Avtomatik testlar (natijalar pastda) |
 | 8. Finalization | ✅ README, .env.example, .gitignore, ZIP |
 
+## 2026-11-10 — GitHub Pages rejimi
+- Muammo: GitHub Pages'da “Server xatosi (404)” — Pages Flask'ni ishga tushira olmaydi, `/api` yo‘q, workflow esa faqat `frontend/` ni joylardi (`data/words.json` saytga tushmasdi).
+- Yechim: `api.js` ishga tushganda `api/health` ni tekshiradi; javob bo‘lmasa **static** rejim: so‘zlar `data/words.json` dan, qidiruv brauzerda (`search.js`), tarjima brauzerdan MyMemory → lokal. URL'lar nisbiy qilindi (sub-path `/DeutschMaster/`).
+- `words.json` ga `levels` va `topics` qo‘shildi — backend va statik sayt uchun yagona manba.
+- Backend tarjima zanjiri: Lingva → MyMemory → lokal. MyMemory HTML-escape qilgan javob (`&#39;`) decode qilinadi (real sinovda topilgan xato).
+- Workflow `_site` = `frontend/` + `data/words.json`.
+- Yangi testlar: `test_static_site_e2e.py` (Pages simulyatsiyasi), MyMemory API testlari, nisbiy URL va workflow tekshiruvi. Jami **75 passed, 0 failed**.
+- Real tekshiruv: brauzerdan MyMemory “Ich lerne Deutsch” → “Men nemis tilini o'rganyapman”; backend ham shu natijani `source=mymemory` bilan qaytardi.
+- Talab o‘zgardi: “offline ishlasin” talabi bekor qilindi (foydalanuvchi so‘rovi) — onlayn tarjima internet talab qiladi, qolgan funksiyalar sahifa yuklangach serversiz ishlaydi.
+
 ## Muhim texnik qarorlar
 - Workspace (`c:\Program Files\frontend`) ichida boshqa loyiha (`for_my_babe`: index.html, script.js, style.css) bor edi — u DeutschMaster'ga tegishli emas, shuning uchun **o‘chirilmadi**. DeutschMaster alohida `DeutschMaster/` papkada yaratildi va `for_my_babe` git reposiga tushmasligi uchun `.git/info/exclude` ga qo‘shildi.
 - Tizimda `python` buyrug‘i yo‘q (Microsoft Store alias), `py` launcher (Python 3.14) ishlatildi. Loyiha ichida `venv/` yaratildi.

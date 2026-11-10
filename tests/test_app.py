@@ -15,6 +15,26 @@ def test_static_assets_served(client):
         assert client.get(path).status_code == 200, path
 
 
+def test_words_file_served_for_static_mode(client):
+    r = client.get("/data/words.json")
+    assert r.status_code == 200 and r.mimetype == "application/json"
+    assert len(r.get_json()["words"]) >= 120
+
+
+def test_frontend_uses_relative_urls():
+    """GitHub Pages serves the site under /<repo>/, so no fetch may start with '/'."""
+    import re
+    for js in (ROOT / "frontend" / "js").glob("*.js"):
+        text = js.read_text(encoding="utf-8")
+        bad = re.findall(r"""fetchJson\(\s*[`'"]/""", text) + re.findall(r"""fetch\(\s*[`'"]/""", text)
+        assert not bad, f"{js.name}: absolute URL {bad}"
+
+
+def test_pages_workflow_ships_data():
+    wf = (ROOT / ".github" / "workflows" / "deploy.yml").read_text(encoding="utf-8")
+    assert "cp data/words.json _site/data/words.json" in wf and "path: _site" in wf
+
+
 def test_path_traversal_blocked(client):
     assert client.get("/../app.py").status_code == 404
     assert client.get("/%2e%2e/app.py").status_code == 404

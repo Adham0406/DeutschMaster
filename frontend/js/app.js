@@ -115,7 +115,7 @@ async function boot() {
     ctx.byId = new Map(words.map((w) => [w.id, w]));
     ctx.topics = topics;
   } catch (err) {
-    view.innerHTML = `<div class="card">${emptyState("server-off", "Server bilan aloqa yo‘q", `${err.message} Terminalda “python app.py” buyrug‘ini ishga tushiring va sahifani yangilang.`,
+    view.innerHTML = `<div class="card">${emptyState("server-off", "Ma’lumotlarni yuklab bo‘lmadi", `${err.message}. Internet aloqasini tekshiring va sahifani yangilang.`,
       `<button class="btn btn-primary" id="retry">${icon("refresh-cw")} Qayta urinish</button>`)}</div>`;
     icons(view);
     document.getElementById("retry").addEventListener("click", () => location.reload());

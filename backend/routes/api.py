@@ -4,7 +4,7 @@ from collections import defaultdict, deque
 
 from flask import Blueprint, current_app, jsonify, request
 
-from ..services.word_service import LEVEL_NAMES, LEVELS, TOPICS
+from ..services.word_service import LEVELS
 from ..utils.validation import ApiError, choice, clean_text, positive_int
 
 api = Blueprint("api", __name__, url_prefix="/api")
@@ -28,7 +28,7 @@ def health():
 @api.get("/words")
 def words():
     level = choice(request.args.get("level"), "level", LEVELS)
-    topic = choice(request.args.get("topic"), "topic", list(TOPICS))
+    topic = choice(request.args.get("topic"), "topic", list(repo().topics))
     limit = positive_int(request.args.get("limit"), "limit", default=0, maximum=1000)
     offset = positive_int(request.args.get("offset"), "offset", default=0, maximum=100000)
     items = repo().filter(level, topic)
@@ -51,14 +51,14 @@ def word_detail(word_id):
 def levels():
     stats = repo().statistics()["by_level"]
     return jsonify({"ok": True, "levels": [
-        {"code": lvl, "name": LEVEL_NAMES[lvl], "count": stats[lvl]} for lvl in LEVELS]})
+        {"code": lvl, "name": repo().level_names[lvl], "count": stats[lvl]} for lvl in LEVELS]})
 
 
 @api.get("/topics")
 def topics():
     stats = repo().statistics()["by_topic"]
     return jsonify({"ok": True, "topics": [
-        {"code": de, "name_de": de, "name_uz": uz, "count": stats.get(de, 0)} for de, uz in TOPICS.items()]})
+        {"code": de, "name_de": de, "name_uz": uz, "count": stats.get(de, 0)} for de, uz in repo().topics.items()]})
 
 
 @api.get("/search")
@@ -66,7 +66,7 @@ def search():
     q = clean_text(request.args.get("q"), "q", max_len=100)
     lang = choice(request.args.get("lang"), "lang", ["all", "de", "uz"], default="all")
     level = choice(request.args.get("level"), "level", LEVELS)
-    topic = choice(request.args.get("topic"), "topic", list(TOPICS))
+    topic = choice(request.args.get("topic"), "topic", list(repo().topics))
     results = repo().search(q, lang, level, topic)
     return jsonify({"ok": True, "query": q, "count": len(results), "words": results})
 

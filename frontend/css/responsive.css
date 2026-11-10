@@ -1,0 +1,44 @@
+/* DeutschMaster — responsive rules */
+@media (max-width: 1180px) {
+  .grid-4 { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+}
+
+@media (max-width: 1024px) {
+  .sidebar { transform: translateX(-100%); visibility: hidden; transition: transform .25s var(--ease), visibility 0s .25s; }
+  .sidebar.open { transform: none; visibility: visible; box-shadow: var(--shadow-lg); transition: transform .25s var(--ease); }
+  .main { margin-left: 0; }
+  .topbar .menu-btn { display: inline-grid; }
+  .grid-3 { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .topbar { padding: 0 20px; }
+  .view { padding: 22px 20px; }
+}
+
+@media (max-width: 760px) {
+  .grid-2, .grid-3 { grid-template-columns: minmax(0, 1fr); }
+  .span-2 { grid-column: auto; }
+  .topbar-title p { display: none; }
+  .pill .pill-text { display: none; }
+  .page-head h2 { font-size: 21px; }
+  .options { grid-template-columns: minmax(0, 1fr); }
+  .grade-row { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .flashcard { height: 300px; }
+  .setting { flex-direction: column; align-items: stretch; }
+  .setting .control { width: 100%; }
+  .hero { padding: 22px 20px; }
+}
+
+@media (max-width: 480px) {
+  .grid-4 { gap: 12px; }
+  .grid-4 .stat { flex-direction: column; gap: 10px; }
+  .grid-4 .stat-icon { width: 36px; height: 36px; border-radius: 10px; }
+  .topbar { padding: 0 16px; gap: 8px; }
+  .view { padding: 18px 16px; }
+  .card { padding: 16px; }
+  .stat-value { font-size: 22px; }
+  .quick-grid { grid-template-columns: minmax(0, 1fr); }
+  .match-board { gap: 8px; }
+  .tile { font-size: 13.5px; padding: 8px 10px; }
+  .pill.streak { display: none; }
+  .filters .field { min-width: 0; flex-basis: 100%; }
+  .toasts { right: 16px; left: 16px; bottom: 16px; max-width: none; }
+}

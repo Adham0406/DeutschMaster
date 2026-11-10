@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="uz">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>DeutschMaster — nemis tilini o‘rganing</title>
+  <meta name="description" content="DeutschMaster: A1–C2 nemis tili so‘zlarini flashcard, test va o‘yinlar orqali o‘rganish platformasi.">
+  <link rel="icon" href="assets/icons/favicon.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap">
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="css/components.css">
+  <link rel="stylesheet" href="css/responsive.css">
+  <script src="js/theme-init.js"></script>
+</head>
+<body>
+  <noscript><div class="noscript">DeutschMaster ishlashi uchun JavaScript yoqilgan bo‘lishi kerak.</div></noscript>
+
+  <div class="app">
+    <aside class="sidebar" id="sidebar" aria-label="Asosiy navigatsiya">
+      <a class="brand" href="#/dashboard">
+        <span class="brand-mark">DM</span>
+        <span>DeutschMaster<small>Nemis tili A1–C2</small></span>
+      </a>
+      <nav class="nav" id="nav">
+        <div class="nav-group">
+          <div class="nav-label">Asosiy</div>
+          <a class="nav-link" href="#/dashboard" data-route="dashboard"><i data-lucide="layout-dashboard"></i>Dashboard</a>
+          <a class="nav-link" href="#/daily" data-route="daily"><i data-lucide="sun"></i>Kunlik so‘zlar</a>
+        </div>
+        <div class="nav-group">
+          <div class="nav-label">Mashqlar</div>
+          <a class="nav-link" href="#/flashcards" data-route="flashcards"><i data-lucide="layers"></i>Flashcards</a>
+          <a class="nav-link" href="#/quiz" data-route="quiz"><i data-lucide="list-checks"></i>Quiz</a>
+          <a class="nav-link" href="#/writing" data-route="writing"><i data-lucide="pen-line"></i>So‘z yozish</a>
+          <a class="nav-link" href="#/matching" data-route="matching"><i data-lucide="puzzle"></i>Moslashtirish</a>
+          <a class="nav-link" href="#/revision" data-route="revision"><i data-lucide="repeat"></i>Takrorlash<span class="nav-count" id="nav-due" hidden></span></a>
+        </div>
+        <div class="nav-group">
+          <div class="nav-label">Lug‘at</div>
+          <a class="nav-link" href="#/dictionary" data-route="dictionary"><i data-lucide="book-open"></i>Lug‘at</a>
+          <a class="nav-link" href="#/favorites" data-route="favorites"><i data-lucide="heart"></i>Sevimlilar<span class="nav-count" id="nav-fav" hidden></span></a>
+          <a class="nav-link" href="#/difficult" data-route="difficult"><i data-lucide="flame"></i>Qiyin so‘zlar<span class="nav-count" id="nav-diff" hidden></span></a>
+        </div>
+        <div class="nav-group">
+          <div class="nav-label">Hisob</div>
+          <a class="nav-link" href="#/statistics" data-route="statistics"><i data-lucide="bar-chart-3"></i>Statistika</a>
+          <a class="nav-link" href="#/settings" data-route="settings"><i data-lucide="settings"></i>Sozlamalar</a>
+        </div>
+      </nav>
+      <div class="sidebar-foot">
+        <div class="level-mini" id="sidebar-level"></div>
+      </div>
+    </aside>
+    <div class="overlay" id="overlay"></div>
+
+    <div class="main">
+      <header class="topbar">
+        <button class="icon-btn menu-btn" id="menu-btn" aria-label="Menyuni ochish" aria-controls="sidebar" aria-expanded="false"><i data-lucide="menu"></i></button>
+        <div class="topbar-title">
+          <h1 id="page-title">Dashboard</h1>
+          <p id="page-subtitle"></p>
+        </div>
+        <div class="topbar-actions">
+          <span class="pill streak" id="top-streak" title="Ketma-ket kunlar"><i data-lucide="flame"></i><span></span></span>
+          <span class="pill xp" id="top-xp" title="Daraja va XP"><i data-lucide="zap"></i><span></span></span>
+          <button class="icon-btn" id="theme-btn" aria-label="Mavzuni almashtirish" title="Dark / Light"><i data-lucide="moon"></i></button>
+        </div>
+      </header>
+      <main class="view" id="view" tabindex="-1"></main>
+    </div>
+  </div>
+
+  <div class="toasts" id="toasts" aria-live="polite"></div>
+  <div id="modal-root"></div>
+
+  <script src="assets/vendor/lucide.min.js"></script>
+  <script src="assets/vendor/chart.umd.min.js"></script>
+  <script type="module" src="js/app.js"></script>
+</body>
+</html>
